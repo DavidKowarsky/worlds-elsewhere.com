@@ -1,12 +1,10 @@
-@import "{{ site.theme }}";
-
 @import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
 
 h2 {
     font-family: 'Junge', serif;
     font-variant: small-caps;
     font-style: italic;
-};
+}
 
 .inner {
     padding: 16px 0;
