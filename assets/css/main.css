@@ -8,10 +8,11 @@ h2 {
     font-style: italic;
 };
 
-container {
+.container {
     padding-top: 1em;
 }
-inner {
-    width: 650px;
+
+.inner {
+    width: 540px;
     text-align: center;
 }
