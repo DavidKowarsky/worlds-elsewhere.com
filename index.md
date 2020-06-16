@@ -1,4 +1,4 @@
-![Midsummer Night's Charity Stream banner](./images/midsummer_stream_banner_low-res.jpg)
+![Midsummer Night's Charity Stream banner](./assets/img/midsummer_stream_banner_low-res.jpg)
 
 ## [ANNOUNCING A MIDSUMMER NIGHT'S CHARITY STREAM!](https://www.youtube.com/watch?v=C74iMK8rWeQ)
 

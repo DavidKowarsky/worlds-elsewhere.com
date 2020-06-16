@@ -1,0 +1,10 @@
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
+$junge: 'Junge', serif;
+
+h2 {
+    font-family: $junge;
+    font-variant: small-caps;
+    font-style: italic;
+};
