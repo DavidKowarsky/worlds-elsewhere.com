@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Halant&display=swap');
 
-h2 {
-    font-family: 'Junge', serif;
+body {
+    font-family: 'Halant', serif;
+}
+
+header, h1, h2, h3 {
+    font-family: 'Cinzel', serif;
     font-variant: small-caps;
-    font-style: italic;
 }
 
 .inner {
