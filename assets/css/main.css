@@ -10,7 +10,7 @@ header, h1, h2, h3 {
 }
 
 .inner {
-    padding: 16px 0;
-    width: 540px;
+    padding: 2em 0;
+    width: 560px;
     text-align: center;
 }
