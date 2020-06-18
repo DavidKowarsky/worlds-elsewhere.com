@@ -14,3 +14,8 @@ header, h1, h2, h3 {
     width: 560px;
     text-align: center;
 }
+
+ol {
+    text-align: justify;
+    margin-left: 1em;
+}
