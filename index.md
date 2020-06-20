@@ -1,4 +1,4 @@
-# Worlds Elsewhere Theater Company Presents
+# Worlds Elsewhere Theatre Company Presents
 
 ## [A Midsummer Night's Dream](https://www.youtube.com/watch?v=LCBdmJv5kag)
 
