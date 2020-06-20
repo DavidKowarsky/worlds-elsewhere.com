@@ -1,6 +1,10 @@
+# Worlds Elsewhere Theater Company Presents:
+
+## [A Midsummer Night's Dream](https://www.youtube.com/watch?v=LCBdmJv5kag)
+
 ![Midsummer Night's Charity Stream banner](/assets/img/midsummer_stream_banner_low-res.jpg)
 
-## [Announcing a Midsummer Night's Charity Stream!](https://www.youtube.com/watch?v=C74iMK8rWeQ)
+## [Click here for the Programme!](/plays/midsummer.html)
 
 In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, we will be running a charity benefit on June 20th, starting at 5:00 PM EST.
 
