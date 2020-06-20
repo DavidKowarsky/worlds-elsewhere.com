@@ -1,6 +1,10 @@
+# Worlds Elsewhere Theater Company Presents
+
+## [A Midsummer Night's Dream](https://www.youtube.com/watch?v=LCBdmJv5kag)
+
 ![Midsummer Night's Charity Stream banner](/assets/img/midsummer_stream_banner_low-res.jpg)
 
-## [Announcing a Midsummer Night's Charity Stream!](https://www.youtube.com/watch?v=C74iMK8rWeQ)
+## [Click here for the Programme!](/plays/midsummer.html)
 
 In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, we will be running a charity benefit on June 20th, starting at 5:00 PM EST.
 
@@ -12,7 +16,7 @@ More details, including cast lists, to come!
 
 **How to donate:** Worlds Elsewhere is supporting donations to the Community Bail Fund, a 70+ collection of bail funds, mutual aid funds, and racial justice organizations, curated by ActBlue.
 
-### To support our donation drive:
+### To support our donation drive
 
 1. Make a donation to the Community Bail Fund directly using [this link](http://communitybailfunds.com) during or before A Midsummer Night’s Charity Stream.
 2. Send proof of your donation (forwarded email receipt or a screen capture of the confirmation will suffice) to <worlds.elsewhere.theatre@gmail.com> — along with how you’d like to be credited on stream and in other thank you materials. We will use the name on your receipt unless you tell us a different one.
