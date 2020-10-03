@@ -1,6 +1,25 @@
-name: Worlds Elsewhere Theatre Company
-title: null #hide the title segment at present; not needed.
-theme: jekyll-theme-tactile
+title: Worlds Elsewhere Theatre Company
+#theme: jekyll-theme-tactile
 # logo: /assets/img/logo.png
 description: null # hide the description at present.
 # google-analytics: when we want to start tracking views and stuff
+
+layouts_dir: _src/layouts
+data_dir            : _src/data
+includes_dir        : _src/includes
+sass:
+  sass_dir: _src/sass
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "gs-zero"
+  - scope:
+      path: "plays"
+    values:
+      layout: "gs-zero"
+  - scope:
+      path: "pages"
+    values:
+      layout: "vernon-zero"
