@@ -20,30 +20,29 @@ This staging-minus-a-stage of A Midsummer Night’s Dream began as a very differ
 
 So, we kept our inertia going and decided to turn our efforts towards something simpler, more accessible, and fun. Naturally, we went to Shakespeare.
 
-Times change, as they always do, and even in tough times we can mark the calendar. The midsummer solstice is a time of renewal, and to mark the holiday we chose Shakespeare’s comedy of changing times. 
+Times change, as they always do, and even in tough times we can mark the calendar. The midsummer solstice is a time of renewal, and to mark the holiday we chose Shakespeare’s comedy of changing times.
 
 It’s easy to forget that the Dream takes place at the end of a war - the wedding of Theseus and Hippolyta marks the peace after the Athenian conquest of the Amazons. “Hippolyta, I woo’d thee with my sword, and won thy love, doing thee injuries;” Theseus confesses in the opening scene. He leaves an entire bloody campaign implied, but quickly brushed aside. “But I will wed thee in another key” he promises, inviting hope that their nuptials will lead to a new order, and a new peace.
 
 Shakespeare’s comedy sends its characters, nobles and commoners who could easily end up dead in a tragedy, are sent out of their existing social order and into a fairyland. That is, a land where love rules all, identity is fluid, norms are broken, and anything is possible. It’s a dream that is both respite and roadmap, inspiring them to see their world in a new way.
 
-It is in this spirit that we hope to dream of a better world. We invite you to join us for this dream, and in a world changed for the better on the other side. 
+It is in this spirit that we hope to dream of a better world. We invite you to join us for this dream, and in a world changed for the better on the other side.
 
 -- Kyle Kallgren & David Kowarsky
 
 ## About the Issues
 
-There are many issues one might have with the justice system in our country, but among the most urgent is bail reform. The profound inequity in how the bail system treats defendants with and without money, and the consequential ability of the police to confine people who have not been given trial is, as Snout would say, “a parlous fear.” This only grows more true in the world where mass arrests grow common, and politicians seek to justify suspending the right to a speedy trial. 
+There are many issues one might have with the justice system in our country, but among the most urgent is bail reform. The profound inequity in how the bail system treats defendants with and without money, and the consequential ability of the police to confine people who have not been given trial is, as Snout would say, “a parlous fear.” This only grows more true in the world where mass arrests grow common, and politicians seek to justify suspending the right to a speedy trial.
 
 We believe that the problems that plague our society cannot be solved by growing threats of force, but only by growing presence of empathy.
 
-We believe our political institutions must fundamentally and consequentially reimagine their understanding of “the police” -- before those forces can live into their declared functions to serve and protect the people. 
+We believe our political institutions must fundamentally and consequentially reimagine their understanding of “the police” -- before those forces can live into their declared functions to serve and protect the people.
 
 We believe that those who have the strength to protest deserve our support and not to be deprived of freedom as they place their bodies on the line to preserve it for us all.  
 
-It is in service of these beliefs that we chose the community bail fund by organized by Actblue as the target of our philanthropic endeavor. We must give strength and support to those who take the responsibility of direct action personally upon their shoulders and incur wrath the consequences of a system that is already profoundly biased against people who aren’t wealthy. 
+It is in service of these beliefs that we chose the community bail fund by organized by Actblue as the target of our philanthropic endeavor. We must give strength and support to those who take the responsibility of direct action personally upon their shoulders and incur wrath the consequences of a system that is already profoundly biased against people who aren’t wealthy.
 
-In addition, bail fund donations are, in nearly all cases, very likely to be used multiple times as most defendants do show up, and the funds are thus recovered in their entirety. 
-
+In addition, bail fund donations are, in nearly all cases, very likely to be used multiple times as most defendants do show up, and the funds are thus recovered in their entirety.
 
 ## Cast and Crew
 
@@ -85,7 +84,7 @@ In addition, bail fund donations are, in nearly all cases, very likely to be use
 
 **Jared Gilman** (understudy: Starveling, Moth; “Backstage Escapades”; he/him) While he’s definitely had experience studying film acting, Jared’s never studied understudying before, nor has he ever done an original cabaret performance, so uh we’ll see what happens there. ([@realJaredGilman](https://twitter.com/realJaredGilman) on twitter)
 
-**Katherine Rose Turbes** (Narrator; “Ophelia”; they/them) is a cabaret performer, monologist and actor. They primarily perform their own work, focusing on personal narratives and often dealing with themes of mental illness, grief and trauma. In the before times, KRT frequently performed at Bluestockings Bookstore as part of Joan Dark’s Get On The Stage, and at Metropolitan Bar as part of Joanie Drago and Octavia Leona Kohner’s Gender Experts Party (and will hopefully return when the world reopens). Amidst the plague, they’ve been uploading performances to their [YouTube Channel](https://www.youtube.com/channel/UCVEWBdbTB22GIH2oGM2nLIQ) [Instagram](https://www.instagram.com/katharsis_ravyn_turbes/) and [Facebook Page](https://www.facebook.com/KatherineRoseTurbes/). 
+**Katherine Rose Turbes** (Narrator; “Ophelia”; they/them) is a cabaret performer, monologist and actor. They primarily perform their own work, focusing on personal narratives and often dealing with themes of mental illness, grief and trauma. In the before times, KRT frequently performed at Bluestockings Bookstore as part of Joan Dark’s Get On The Stage, and at Metropolitan Bar as part of Joanie Drago and Octavia Leona Kohner’s Gender Experts Party (and will hopefully return when the world reopens). Amidst the plague, they’ve been uploading performances to their [YouTube Channel](https://www.youtube.com/channel/UCVEWBdbTB22GIH2oGM2nLIQ) [Instagram](https://www.instagram.com/katharsis_ravyn_turbes/) and [Facebook Page](https://www.facebook.com/KatherineRoseTurbes/).
 
 In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate decision to enter online video professionally. Since then he has Created Content for various websites, including Your Tube. Videos of his have received recognition from sites like Film School Rejects, Fandor, Polygon and BFI/Sight & Sound. He currently lives in Queens with his incredible fiancé Jourdain Searles. He has no pets. ([oancitizen](https://www.youtube.com/user/oancitizen/) on YouTube, [@KyleKallgren](https://twitter.com/KyleKallgren) on twitter, [KKallgren](https://www.patreon.com/KKallgren) on Patreon)
 
@@ -99,33 +98,31 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 
 **Mike Fatum** (Bottom; he/him) is a host of the Ace of Geeks Podcast, a wonderful excuse for three friends to hang out and talk about the culture that shapes us. The Ace of Geeks Podcast Network also includes Disney Vault Divers, a review of every Disney movie ever made, with more new shows coming soon. He's also the Community Manager for Star Trek Online, a sword fight choreographer and a theater director in the Bay Area. Black Lives Matter, Trans Rights are Human Rights. Teach kids compassion early, and put an end to bullying once and for all. You can find him on Twitter [@VengeanceGOD](https://twitter.com/VengeanceGOD).
 
-**Morgan Stutler** (understudy: Snug, Flute, Pease-Blossom; “My Melancholy Baby”; he/him) - An aspiring voice actor originally from Michigan, Morgan moved to Richmond Virginia in early 2018 and has been steadily working his way up to having a proper presence online.  A student of Italian swordsmanship and martial arts, a gamer, LARPer, singer and student of history, Morgan streams on Twitch at [@mrmorphine482](https://www.twitch.tv/mrmorphine482) . 
+**Morgan Stutler** (understudy: Snug, Flute, Pease-Blossom; “My Melancholy Baby”; he/him) - An aspiring voice actor originally from Michigan, Morgan moved to Richmond Virginia in early 2018 and has been steadily working his way up to having a proper presence online.  A student of Italian swordsmanship and martial arts, a gamer, LARPer, singer and student of history, Morgan streams on Twitch at [@mrmorphine482](https://www.twitch.tv/mrmorphine482).
 
-**Olivia Giovetti** (Hippolyta; she/her) is a cultural critic and "audacious hybrid" (NYTimes) based in Berlin. Recent work has been published by the Washington Post, Architectural Digest, Lit Hub, and VAN Magazine. She's the former Classical & Opera Editor at Time Out New York and her writing has been heard onstage at BAM as part of the Next Wave Festival. ([@ogiovetti](https://twitter.com/ogiovetti) on twitter, [oliviagiovetti.com](https://www.oliviagiovetti.com))
+**Olivia Giovetti** (Hippolyta; she/her) is a cultural critic and "audacious hybrid" (NYTimes) based in Berlin. Recent work has been published by the Washington Post, Architectural Digest, Lit Hub, and VAN Magazine. She's the former Classical & Opera Editor at Time Out New York and her writing has been heard onstage at BAM as part of the Next Wave Festival. ([@ogiovetti](https://twitter.com/ogiovetti) on twitter, [oliviagiovetti.com](https://www.oliviagiovetti.com)).
 
-**Regina R. Russell** (Helena; she/her) is a New York based actress and director. Originally hailing from the Bronx and a graduate of Cornell University (B.A. Theatre Arts) and East 15 Acting School in London (M.F.A Acting), Regina's favorite roles include: Trainee in Brimstone Valley Mall, Elaine the Lady of Shallot in The Table Round and The Siege Perilous, Hel in Hel Hath No..., Exeter from Occupy: Harry Henry V, Persephone in the Love and Death Trilogy, Hero in Much Ado About Nothing, and Nedriss Narr in Jedi Training: Trials of the Temple. IG: [@reggirenee](https://www.instagram.com/reggirenee/). 
+**Regina R. Russell** (Helena; she/her) is a New York based actress and director. Originally hailing from the Bronx and a graduate of Cornell University (B.A. Theatre Arts) and East 15 Acting School in London (M.F.A Acting), Regina's favorite roles include: Trainee in Brimstone Valley Mall, Elaine the Lady of Shallot in The Table Round and The Siege Perilous, Hel in Hel Hath No..., Exeter from Occupy: Harry Henry V, Persephone in the Love and Death Trilogy, Hero in Much Ado About Nothing, and Nedriss Narr in Jedi Training: Trials of the Temple. IG: [@reggirenee](https://www.instagram.com/reggirenee/).
 
 **Sam Marchiony** (Philostrate, understudy: Hermia; she/her) is the creator of La Femme Fictionale, a web series for examining media through a critical feminist lens. The show has been on hold as she finishes her Masters thesis, but she remains dedicated to the empowerment of those disenfranchised by patriarchy and white supremacy. She considers her crowning achievement to be writing a one-act play calling Shakespeare a misogynist and her interests outside of feminism include musical theatre and stanning Natalie Portman. You can find her on YouTube, or follow her on Twitter [@FemmeFictionale](https://twitter.com/FemmeFictionale). Death to Fascism. Trans Rights are Human Rights. Black Lives Matter.
 
 ## Company Staff
 
-Executive Director - Kyle Kallgren <br />
-Producer - David Kowarsky <br />
-Producer - Ilana Greenberg <br />
-Technical Director - Dodger of Zion <br />
+Executive Director - Kyle Kallgren  
+Producer - David Kowarsky  
+Producer - Ilana Greenberg  
+Technical Director - Dodger of Zion
 
 ## Horn Call Attribution
 
-*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from <freesound.org>
-
+*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from <freesound.org>  
 *Mendelssohn’s Techno Wedding Remix* by **TPRMX**
 
-## Intermission Music:
+## Intermission Music
 
-*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))<br />
-Licensed under Creative Commons: By Attribution 4.0 License<br />
-<http://creativecommons.org/licenses/by/4.0/>
-
-*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))<br />
-Licensed under Creative Commons: By Attribution 4.0 License<br />
+*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))  
+Licensed under Creative Commons: By Attribution 4.0 License  
+<http://creativecommons.org/licenses/by/4.0/>  
+*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))  
+Licensed under Creative Commons: By Attribution 4.0 License  
 <http://creativecommons.org/licenses/by/4.0/>

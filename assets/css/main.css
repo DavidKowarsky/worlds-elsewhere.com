@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Halant&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Halant:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    font-family: 'Halant', serif;
+    font-family: 'Halant', "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 header, h1, h2, h3 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Cinzel', 'Georgia', serif;
     font-variant: small-caps;
 }
 
