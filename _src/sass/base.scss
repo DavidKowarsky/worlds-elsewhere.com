@@ -1,10 +1,5 @@
-/* Vernon-Zero CSS.
+/* Set defaults for the whole system.
  */
-ol {
-    text-align: justify;
-    margin-left: 1em;
-}
-
 body {
 	background-color: #d3d3d3;
     font-family: 'Halant', Palatino, Book Antiqua, serif;
@@ -36,39 +31,38 @@ img {
     max-width: 100%;
 }
 
-
 /* Lists and Definitions */
 ul, ol, dl {
     text-align: justify;
     margin-left: 1em;
-    margin-bottom: 20px;
+    margin-bottom: 1em;
 }
 ul li {
-    list-style-position:inside;
-    list-style:disc;
-    padding-left:20px;
+    list-style-position: inside;
+    list-style: disc;
+    padding-left: 1em;
 }
 ol li {
-    list-style-position:inside;
-    list-style:decimal;
-    padding-left:3px;
+    list-style-position: inside;
+    list-style: decimal;
+    padding-left: 1em;
 }
 dl dt {
-    color:#303030;
+    color: #303030;
 }
 
 /* tables */
 table {
-    width:100%;
-    border:1px solid #ebebeb;
+    width: 100%;
+    border: 1px solid #ebebeb;
 }
 th {
-    font-weight:500
+    font-weight: 500
 }
 td {
-    font-weight:300;
-    text-align:center;
-    border:1px solid #ebebeb;
+    font-weight: 300;
+    text-align: center;
+    border: 1px solid #ebebeb;
 }
 
 /* Other */
@@ -77,10 +71,10 @@ hr {
     padding-bottom: 1em;
     margin-top: 1em;
     line-height: 1px;
-    background:transparent url("/assets/img/hr.png") 50% 0 no-repeat;
+    background: transparent url("/assets/img/hr.png") top center no-repeat;
     border: none;
 }
 form {
-    padding:20px;
-    background:#f2f2f2;
+    padding: 1em;
+    background: #f2f2f2;
 }

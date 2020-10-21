@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Halant:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+html {
+    font-size: 16px; // 1 REM = 16px
+    font-family: 'Halant', Palatino, Book Antiqua, serif;
+}
+
 body {
-    font-family: 'Halant', "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font: inherit;
 }
 
 header, h1, h2, h3 {
