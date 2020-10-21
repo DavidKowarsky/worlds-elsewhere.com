@@ -1,16 +1,22 @@
 # Worlds Elsewhere Theatre Company
 
-## Current Production: [Lysistrata](/plays/lysistrata)
+## Current Production: [Lysistrata][program]
 
-The Worlds Elsewhere Theatre Company is proud to present: [*Lysistrata*](/plays/lysistrata).
+The Worlds Elsewhere Theatre Company is proud to present: [*Lysistrata*][program].
 
-[![Lysistrata Banner](/assets/img/plays/lysistrata/banner.png)](/plays/lysistrata)
+[![Lysistrata Banner](/assets/img/plays/lysistrata/banner.png)][stream]
 
 ***Saturday, October 24, 2020 at 7pm - 10pm US Eastern Time***
+
+[Program][program] &bull; [Promo Video from KyleKallgrenBHH][promo] &bull; [Youtube Stream][stream]
 
 Worlds Elsewhere Theatre Company Presents: Lysistrata by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
 
 The Greek city-states are at war, but Lysistrata, a woman of Athens, thinks the war is wasteful and stupid, and wants it to end. But her wants are no mere idle musing! She has a plan to make the men in power listen, but she can't do it alone.
+
+[program]: /plays/lysistrata "Click here for the program"
+[promo]: https://www.youtube.com/watch?v=H0Z7WCdeP90 "Promo Video on KyleKallgrenBHH on Youtube!"
+[stream]: https://www.youtube.com/watch?v=nOQqgwHmij8 "Watch the stream here!"
 
 ## Support Us
 
