@@ -1,14 +1,42 @@
 ---
+title: A Midsummer Night's Charity Stream
 ---
-# A Midsummer Night's Dream
+# Worlds Elsewhere Theatre Company Presents: <br>[**A Midsummer Night's Charity Stream**][yt-stream]
+
+[![A Midsummer Night's Charity Stream Banner](/assets/img/plays/midsummer/banner.jpg)][yt-stream]
+
+On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production &mdash; a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
+
+Worlds Elsewhere supported donations to the [Community Bail Fund](http://communitybailfunds.com), a 70+ collection of bail funds, mutual aid funds, and racial justice organizations, curated by [ActBlue](https://secure.actblue.com/).
+
+Donors who made donations before the curtain fell on A Midsummer Night's Charity Stream's Act IV were thanked on stream, and the top three donors got a special surprise during Act V.
+
+[Watch it on Youtube!][yt-stream]
+
+[Click here for our thank you video!](https://www.youtube.com/watch?v=z8Grf0tTRZ4)
+
+*The play has always been the thing.*
+
+[yt-stream]: https://www.youtube.com/watch?v=pH8cqnKkfLc "Watch the stream here!"
+
+
+**Support police abolition:** <https://www.8toabolition.com/>
+
+**Updates at:** <https://facebook.com/WorldsElsewhere>
+
+**Support us:** <https://worlds-elsewhere.com/pages/support-us>
+
+**Contact us:** <worlds.elsewhere.theatre@gmail.com>
+
+---
 
 ## Company Artistic Statement
 
-Theater, given its nature as a medium made of people in space, has always been a first victim during times of plague.
+Theatre, given its nature as a medium made of people in space, has always been a first victim during times of plague.
 
-When the COVID-19 pandemic spread through the world at the start of the year 2020, theaters closed, and millions were left unemployed.
+When the COVID-19 pandemic spread through the world at the start of the year 2020, theatres closed, and millions were left unemployed.
 
-Worlds Elsewhere Theatre was founded during this terrifying time. It is our mission to create a theatre without theatre - to create a space online that can serve as a theatrical one. Our company shall create an online space that serves the same function that theatre has served for millennia- as a place of catharsis and healing.
+Worlds Elsewhere Theatre Company was founded during this terrifying time. It is our mission to create theatre without a theatre - to create a space online that can serve as a theatrical one. Our company shall create an online space that serves the same function that theatre has served for millennia &mdash; as a place of catharsis and healing.
 
 ## About This Production
 
@@ -108,21 +136,22 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 
 ## Company Staff
 
-Executive Director - Kyle Kallgren
-Producer - David Kowarsky
-Producer - Ilana Greenberg
-Technical Director - Dodger of Zion
+**Executive Director** - Kyle Kallgren<br>
+**Producer** - David Kowarsky<br>
+**Producer** - Ilana Greenberg<br>
+**Technical Director** - Dodger of Zion
 
 ## Horn Call Attribution
 
-*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from <freesound.org>
-*Mendelssohn’s Techno Wedding Remix* by **TPRMX**
+*Horn Call from Beethoven's 3rd Symphony* &mdash; recorded by **TaranP**, sourced from [freesound.org](https://freesound.org)<br>
+*Mendelssohn’s Techno Wedding Remix* by **TPRMX**<br>
 
 ## Intermission Music
 
-*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))
-Licensed under Creative Commons: By Attribution 4.0 License
-<http://creativecommons.org/licenses/by/4.0/>
-*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))
-Licensed under Creative Commons: By Attribution 4.0 License
-<http://creativecommons.org/licenses/by/4.0/>
+*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))<br>
+  Licensed under [Creative Commons: By Attribution 4.0 License][cc-by-4.0]<br>
+
+*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))<br>
+  Licensed under [Creative Commons: By Attribution 4.0 License][cc-by-4.0]<br>
+
+[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/

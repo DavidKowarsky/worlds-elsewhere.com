@@ -14,12 +14,4 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "gs-zero"
-  - scope:
-      path: "plays"
-    values:
-      layout: "gs-zero"
-  - scope:
-      path: "pages"
-    values:
       layout: "vernon-zero"

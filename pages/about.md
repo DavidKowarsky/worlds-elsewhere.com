@@ -1,0 +1,7 @@
+# About
+
+Worlds Elsewhere Theatre Company was established to help preserve and innovate the institution of theatre by establishing a company of artists: performers, directors, writers, artisans, technical crew and others involved in the creative process who will continue to create through the difficult times of the COVID-19 pandemic and beyond.
+
+We believe in the power of theatre to bring strength and comfort in times of distress, and to act as a force for social progress. We support the values of social justice, diversity, inclusion and charity. While our founders and majority of our repertory company are U.S based, our support for universal human rights and dignity knows no borders.
+
+Our first production was a fundraiser that successfully raised over $5,000 dollars for bail and mutual aid funds across the United States. Worlds Elsewhere is committed to producing at least one show per year with a charitable focus.
