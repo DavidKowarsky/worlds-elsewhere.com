@@ -1,6 +1,34 @@
 ---
+title: A Midsummer Night's Dream
 ---
-# A Midsummer Night's Dream
+# Worlds Elsewhere Theatre Company Presents: <br>[**A Midsummer Night's Dream**][yt-stream]
+
+[![Midsummer Night's Stream Banner](/assets/img/plays/midsummer/banner.jpg)][yt-stream]
+
+On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production&mdash;a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
+
+Worlds Elsewhere supported donations to the [Community Bail Fund](http://communitybailfunds.com), a 70+ collection of bail funds, mutual aid funds, and racial justice organizations, curated by [ActBlue](https://secure.actblue.com/).
+
+Donors who made donations before the curtain fell on A Midsummer Night's Charity Stream's Act IV were thanked on stream, and the top three donors got a special surprise during Act V.
+
+[Watch it on Youtube!][yt-stream]
+
+[Click here for our thank you video!](https://www.youtube.com/watch?v=z8Grf0tTRZ4)
+
+*The play has always been the thing.*
+
+[yt-stream]: https://www.youtube.com/watch?v=pH8cqnKkfLc "Watch the stream here!"
+
+
+**Support police abolition:** <https://www.8toabolition.com/>
+
+**Updates at:** <https://facebook.com/WorldsElsewhere>
+
+**Support us:** <https://worlds-elsewhere.com/pages/support-us>
+
+**Contact us:** <worlds.elsewhere.theatre@gmail.com>
+
+---
 
 ## Company Artistic Statement
 
@@ -108,21 +136,22 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 
 ## Company Staff
 
-Executive Director - Kyle Kallgren
-Producer - David Kowarsky
-Producer - Ilana Greenberg
-Technical Director - Dodger of Zion
+**Executive Director** - Kyle Kallgren<br>
+**Producer** - David Kowarsky<br>
+**Producer** - Ilana Greenberg<br>
+**Technical Director** - Dodger of Zion
 
 ## Horn Call Attribution
 
-*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from <freesound.org>
-*Mendelssohn’s Techno Wedding Remix* by **TPRMX**
+*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from [freesound.org](https://freesound.org)<br>
+*Mendelssohn’s Techno Wedding Remix* by **TPRMX**<br>
 
 ## Intermission Music
 
-*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))
-Licensed under Creative Commons: By Attribution 4.0 License
-<http://creativecommons.org/licenses/by/4.0/>
-*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))
-Licensed under Creative Commons: By Attribution 4.0 License
-<http://creativecommons.org/licenses/by/4.0/>
+*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))<br>
+  Licensed under [Creative Commons: By Attribution 4.0 License][cc-by-4.0]<br>
+
+*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))<br>
+  Licensed under [Creative Commons: By Attribution 4.0 License][cc-by-4.0]<br>
+
+[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/

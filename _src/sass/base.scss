@@ -6,29 +6,81 @@ ol {
 }
 
 body {
-	background-color: lightgrey;
+	background-color: #d3d3d3;
     font-family: 'Halant', Palatino, Book Antiqua, serif;
+    color: #333;
 }
-
-main {
-    max-width: 50%;
-    margin: 0 auto;
-}
-
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cinzel', Georgia, serif;
+    font-family: 'Cinzel', Georgia, serif;
 }
-
-a:link {
-	color: rgb(171,152,61);
+h1 {
+    font-weight: 400;
+}
+h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+a {
+	color: #ab983d;
 	text-decoration: none;
 }
 
 a:visited {
-	color: rgb(171,152,61);
+	color: #ab983d;
 	text-decoration: none;
 }
 
 a:hover {
-	color: dimgray;
+	color: #696969;
+}
+img {
+    max-width: 100%;
+}
+
+
+/* Lists and Definitions */
+ul, ol, dl {
+    text-align: justify;
+    margin-left: 1em;
+    margin-bottom: 20px;
+}
+ul li {
+    list-style-position:inside;
+    list-style:disc;
+    padding-left:20px;
+}
+ol li {
+    list-style-position:inside;
+    list-style:decimal;
+    padding-left:3px;
+}
+dl dt {
+    color:#303030;
+}
+
+/* tables */
+table {
+    width:100%;
+    border:1px solid #ebebeb;
+}
+th {
+    font-weight:500
+}
+td {
+    font-weight:300;
+    text-align:center;
+    border:1px solid #ebebeb;
+}
+
+/* Other */
+hr {
+    height: 1px;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    line-height: 1px;
+    background:transparent url("/assets/img/hr.png") 50% 0 no-repeat;
+    border: none;
+}
+form {
+    padding:20px;
+    background:#f2f2f2;
 }

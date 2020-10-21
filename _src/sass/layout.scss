@@ -1,14 +1,21 @@
 
-#content {
-    margin: 0 auto;
-    padding: 2em 0;
-    width: 560px;
+main {
+    margin: 2em auto;
+    padding: 0;
+    max-width: 1000px;
+    width: 80%;
+    min-width: 750px;
     text-align: center;
 }
 
 
 header {
+    background-color: #000;
+    min-width: 750px;
+
     .banner {
+        margin: 0 auto;
+        max-width: 1400px;
         background: url('/assets/img/banner.png') no-repeat top center ;
         background-size: cover;
         background-position: 32% 48%;
@@ -37,28 +44,30 @@ header {
 
         li a {
             display: block;
-            color: white;
+            color: #fff;
             text-align: center;
-            padding: 14px 35px;
+            padding: 14px 25px;
             text-decoration: none;
             font-family: 'Cinzel', serif;
+        }
+        li a:visited {
+            color: #fff;
         }
         /* Change the link color to #111 (black) on hover */
         li a:hover {
             background-color: #111;
+            color: #fff;
         }
     }
 }
 
 
-
 footer {
-    border-top: solid #333;
-    border-top-width: 1px;
-    font-family: 'Halant', serif;
+    margin: 1em auto;
+    padding: 1em;
+    width: 700px;
+    background:transparent url("/assets/img/hr.png") 0 0 no-repeat;
     text-align: center;
-    margin-top: 1em;
-    padding-top: 1em;
 
     a.social {
         display: inline-block;
