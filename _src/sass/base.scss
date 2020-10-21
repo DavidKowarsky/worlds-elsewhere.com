@@ -1,0 +1,34 @@
+/* Vernon-Zero CSS.
+ */
+ol {
+    text-align: justify;
+    margin-left: 1em;
+}
+
+body {
+	background-color: lightgrey;
+    font-family: 'Halant', Palatino, Book Antiqua, serif;
+}
+
+main {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+a:link {
+	color: rgb(171,152,61);
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(171,152,61);
+	text-decoration: none;
+}
+
+a:hover {
+	color: dimgray;
+}

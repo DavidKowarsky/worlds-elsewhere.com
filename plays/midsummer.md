@@ -12,7 +12,7 @@ Worlds Elsewhere Theatre was founded during this terrifying time. It is our miss
 
 ## About This Production
 
-A Midsummer Night’s Dream takes place over the course of four days (or possibly five, scholars debate) leading up to the prestigious wedding of the Duke of Athens to his Amazon Queen. A ragtag band of performers is charged with preparing wedding entertainment, while four young lovers struggle to seek happiness when their feelings run counter to the arrangements of their parents. As the wedding draws closer, the performers and lovers find themselves pawns in a game between the fairy king and queen. A fairy’s charms could render even the mightiest of intellects useless in their path...  given that, the fools that these mortals be don’t stand a chance.  
+A Midsummer Night’s Dream takes place over the course of four days (or possibly five, scholars debate) leading up to the prestigious wedding of the Duke of Athens to his Amazon Queen. A ragtag band of performers is charged with preparing wedding entertainment, while four young lovers struggle to seek happiness when their feelings run counter to the arrangements of their parents. As the wedding draws closer, the performers and lovers find themselves pawns in a game between the fairy king and queen. A fairy’s charms could render even the mightiest of intellects useless in their path...  given that, the fools that these mortals be don’t stand a chance.
 
 ---
 
@@ -38,7 +38,7 @@ We believe that the problems that plague our society cannot be solved by growing
 
 We believe our political institutions must fundamentally and consequentially reimagine their understanding of “the police” -- before those forces can live into their declared functions to serve and protect the people.
 
-We believe that those who have the strength to protest deserve our support and not to be deprived of freedom as they place their bodies on the line to preserve it for us all.  
+We believe that those who have the strength to protest deserve our support and not to be deprived of freedom as they place their bodies on the line to preserve it for us all.
 
 It is in service of these beliefs that we chose the community bail fund by organized by Actblue as the target of our philanthropic endeavor. We must give strength and support to those who take the responsibility of direct action personally upon their shoulders and incur wrath the consequences of a system that is already profoundly biased against people who aren’t wealthy.
 
@@ -108,21 +108,21 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 
 ## Company Staff
 
-Executive Director - Kyle Kallgren  
-Producer - David Kowarsky  
-Producer - Ilana Greenberg  
+Executive Director - Kyle Kallgren
+Producer - David Kowarsky
+Producer - Ilana Greenberg
 Technical Director - Dodger of Zion
 
 ## Horn Call Attribution
 
-*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from <freesound.org>  
+*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from <freesound.org>
 *Mendelssohn’s Techno Wedding Remix* by **TPRMX**
 
 ## Intermission Music
 
-*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))  
-Licensed under Creative Commons: By Attribution 4.0 License  
-<http://creativecommons.org/licenses/by/4.0/>  
-*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))  
-Licensed under Creative Commons: By Attribution 4.0 License  
+*["Enchanted Valley"](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com))
+Licensed under Creative Commons: By Attribution 4.0 License
+<http://creativecommons.org/licenses/by/4.0/>
+*["Danse of Questionable Tuning"](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* **Kevin MacLeod** ([incompetech.com](https://incompetech.com>))
+Licensed under Creative Commons: By Attribution 4.0 License
 <http://creativecommons.org/licenses/by/4.0/>

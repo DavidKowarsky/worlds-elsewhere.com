@@ -1,0 +1,80 @@
+
+#content {
+    margin: 0 auto;
+    padding: 2em 0;
+    width: 560px;
+    text-align: center;
+}
+
+
+header {
+    .banner {
+        background: url('/assets/img/banner.png') no-repeat top center ;
+        background-size: cover;
+        background-position: 32% 48%;
+        overflow: hidden;
+        padding-top: 300px;
+    }
+
+    nav {
+        background-color: #333;
+        padding: 0;
+
+        ul {
+            display: table;
+            margin: 0 auto;
+            padding: 10px;
+            background-color: #333;
+            list-style-type: none;
+            list-style: none;
+            overflow: hidden;
+        }
+
+        li {
+            display: inline;
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 35px;
+            text-decoration: none;
+            font-family: 'Cinzel', serif;
+        }
+        /* Change the link color to #111 (black) on hover */
+        li a:hover {
+            background-color: #111;
+        }
+    }
+}
+
+
+
+footer {
+    border-top: solid #333;
+    border-top-width: 1px;
+    font-family: 'Halant', serif;
+    text-align: center;
+
+    a.social {
+        display: inline-block;
+        text-indent: -9999px;
+        margin-left: 5px;
+        width: 30px;
+        height: 30px;
+        background-size: 30px 30px;
+        opacity: .5;
+        transition: all .25s;
+    }
+
+    a.facebook {
+        background-image: url('/assets/img/social-facebook.png');
+    }
+
+    a.youtube {
+        background-image: url('/assets/img/social-youtube.png');
+    }
+
+}
