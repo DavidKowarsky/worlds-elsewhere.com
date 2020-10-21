@@ -4,6 +4,8 @@ This is a site made to promote the [Worlds Elsewhere Theater Company](https://wo
 
 It was hastily put together by [Adrianne Greenberg-Sud](https://pigsflew.com), and utilizes the Jeckyll theme engine.
 
+The current theme of the website is `vernon-zero`, originally created for Worlds Elsewhere by [Alex Vernon](https://github.com/Alexandra-Vernon/).
+
 ## Adding content
 
 To add or change content on the worlds-elsewhere website, you can edit one of the markdown files found within.
