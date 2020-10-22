@@ -5,7 +5,7 @@ title: A Midsummer Night's Charity Stream
 
 [![A Midsummer Night's Charity Stream Banner](/assets/img/plays/midsummer/banner.jpg)][yt-stream]
 
-On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production&mdash;a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
+On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production &mdash; a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
 
 Worlds Elsewhere supported donations to the [Community Bail Fund](http://communitybailfunds.com), a 70+ collection of bail funds, mutual aid funds, and racial justice organizations, curated by [ActBlue](https://secure.actblue.com/).
 
@@ -32,11 +32,11 @@ Donors who made donations before the curtain fell on A Midsummer Night's Charity
 
 ## Company Artistic Statement
 
-Theater, given its nature as a medium made of people in space, has always been a first victim during times of plague.
+Theatre, given its nature as a medium made of people in space, has always been a first victim during times of plague.
 
-When the COVID-19 pandemic spread through the world at the start of the year 2020, theaters closed, and millions were left unemployed.
+When the COVID-19 pandemic spread through the world at the start of the year 2020, theatres closed, and millions were left unemployed.
 
-Worlds Elsewhere Theatre was founded during this terrifying time. It is our mission to create a theatre without theatre - to create a space online that can serve as a theatrical one. Our company shall create an online space that serves the same function that theatre has served for millennia- as a place of catharsis and healing.
+Worlds Elsewhere Theatre Company was founded during this terrifying time. It is our mission to create theatre without a theatre - to create a space online that can serve as a theatrical one. Our company shall create an online space that serves the same function that theatre has served for millennia &mdash; as a place of catharsis and healing.
 
 ## About This Production
 
@@ -143,7 +143,7 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 
 ## Horn Call Attribution
 
-*Horn Call from Beethoven's 3rd Symphony* -- recorded by **TaranP**, sourced from [freesound.org](https://freesound.org)<br>
+*Horn Call from Beethoven's 3rd Symphony* &mdash; recorded by **TaranP**, sourced from [freesound.org](https://freesound.org)<br>
 *Mendelssohn’s Techno Wedding Remix* by **TPRMX**<br>
 
 ## Intermission Music
