@@ -81,7 +81,14 @@ form {
 blockquote {
     max-width: 50rem;
     text-align: left;
-    margin: 0.25em auto;
-    background-color: #bbb;
-    border-left: 0.25rem #777; 
+    margin: 1em auto;
+    padding: 0.5rem;
+    background-color: #bababa;
+    border-left: 0.4rem solid #888; 
+}
+blockquote p:first-child {
+    margin-top: 0
+}
+blockquote p:last-child {
+    margin-bottom: 0;
 }

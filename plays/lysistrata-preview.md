@@ -163,6 +163,8 @@ _Lysistrata_ is full of references to mythology, memes, and “current” events
 
 ## Audio, Music, and Image Attributions
 
+Translation by [George Theodoridis](https://bacchicstage.wordpress.com/), and used with permission.
+
 Images are sourced from the public domain via [Pixabay](https://pixabay.com), purchased without requirement for attribution via iStockPhoto, or Copyright David Kowarsky, used with permission.
 
 Background Sounds and Music are public domain, sourced via [Freesound](https://freesound.org/), with the following exceptions:
