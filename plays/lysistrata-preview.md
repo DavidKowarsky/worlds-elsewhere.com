@@ -110,7 +110,7 @@ _<ins>THE POLITICIANS</ins>_
 * **Grady W Smithey III** (Magistrate; he/him) has played Snout in _A Midsummer Night's Charity Stream_ for Worlds Elsewhere, Arnold in _Sinatra_ for A Light In Dark Places, Kokol in _Marat/Sade_ for L.I.P. Service, and Grumpy Old Manchild in _The Cartoon Physicist’s Very Late 2nd Anniversary_. He is probably a mammal. ([@snakebitcat](https://twitter.com/snakebitcat) on Twitter)
 * **James Ketelaar** (Polycharides, Skythian #1; he/him) is an actor currently based in Charleston, South Carolina, where he has appeared in numerous theatre productions. Follow him on Twitter [@docprofessorman](https://twitter.com/docprofessorman), where he has been occasionally known to say funny things. This is his second production with Worlds Elsewhere (Oberon in _A Midsummer Night’s Charity Stream_), and he is excited to be back.
 * **Matt Medrano** (Athenian Delegate, Skythian #2; he/him) is a Los Angeles-based writer and actor. Past roles include college productions of _Our Country’s Good_ (Robert Sideway) and _The Laramie Project_ (Jim Geringer/Harry Woods). When he’s not working, he’s probably working his way through his To-Read pile, checking out local theatre, or practicing his British accent. You can check him out on Instagram [@matterscorn](https://www.instagram.com/matterscorn/). He wants to thank his family and friends for being supportive, and his dog for not barking during rehearsals.
-* **Jack Nee** (Spartan Delegate #1, Skythian #3; he/him) can be found in the Driftless Area, currently working in early childhood education by day while having directed Chay Yew's documentary theatre piece _Question 27, Question 28_ with Strollers Theatre in February. Occasional dramaturg and researcher regarding protests of yellowface in musical theatre (with gratitude to Sab Shimono and Alvin Ing for help early in the journey). Other nontheatrical projects: cleaning up garbage from a prairie restoration field, and #EllaJenkinsFacts for all of the blatantly false information you could ever need about a remarkable person. Remember Route 127.
+* **Jack Nee** (Spartan Delegate #1, Skythian #3; [No pronouns](https://pflag.org/blog/what-do-you-do-when-someone-doesn%E2%80%99t-use-any-pronouns)) can be found in the Driftless Area, currently working in early childhood education by day while having directed Chay Yew's documentary theatre piece _Question 27, Question 28_ with Strollers Theatre in February. Occasional dramaturg and researcher regarding protests of yellowface in musical theatre (with gratitude to Sab Shimono and Alvin Ing for help early in the journey). Other nontheatrical projects: cleaning up garbage from a prairie restoration field, and #EllaJenkinsFacts for all of the blatantly false information you could ever need about a remarkable person. Remember Route 127.
 * **David Kowarsky** (Spartan Delegate #2, Skythian #4; he/him) is a voiceover artist, bari-bass vocalist, director/producer of audiodrama, and a co-founder of Worlds Elsewhere Theatre Company. By day, he leverages his Folklore and Mythology degree as a production manager at Cornerstone OnDemand in their Studios division, producing world-class learning content for a global client base of over 7000 companies.
 
 _<ins>PRODUCTION</ins>_
@@ -123,14 +123,10 @@ _<ins>PRODUCTION</ins>_
 
 ## Company Staff
 
-Executive Director - Kyle Kallgren
-
-Producer - David Kowarsky
-
-Producer - Ilana Greenberg-Sud
-
-Technical Director - Dodger of Zion
-
+Executive Director - Kyle Kallgren<br/>
+Producer - David Kowarsky<br/>
+Producer - Ilana Greenberg-Sud<br/>
+Technical Director - Dodger of Zion<br/>
 Web Development - Adrianne Greenberg-Sud and Alexandra Vernon
 
 ## About the Issues
