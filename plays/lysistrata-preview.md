@@ -51,8 +51,6 @@ Worlds Elsewhere Theatre Company
 
 ## The Plot
 
-_**[Want to avoid Spoilers? Click here to skip to Cast and Crew!](#Cast-and-Crew)**_
-
 The Greek city-states are at war, but LYSISTRATA, a woman of Athens, thinks the war is wasteful and stupid, and wants it to end. She collects a group of women representing all of Greece (her neighbor, CALONIKI; MYRRHINI, a young Athenian wife and mother; LAMPITO from Sparta; ISMENIA from Boeotia; and THE CORINTHIAN) and suggests a solution: a sex strike. The women of Greece will refuse to have sex with their husbands and lovers until the men end the war. Despite being hesitant, the women agree and swear an oath to refuse all sexual contact until peace is achieved.
 
 To support their cause, the OLD WOMEN OF ATHENS have taken over the Acropolis, keeping the men from accessing the treasury that pays for their war. The OLD MEN OF ATHENS (DRAKIS, PHILOURGOS, PHADRIAS, STRYNIDOROS) attempt to burn down the Acropolis to drive the women out, but are rebuffed by the women, led by STRATYLLIS and including NIKOTHIKI, KALLYKI, RHODIPPI, and KRYTILLI. The MAGISTRATE, accompanied by SKYTHIAN ARCHERS (police) arrives to see why the women are rebelling and convince them to stop, and is humiliated by Lysistrata and her followers before being chased off.
