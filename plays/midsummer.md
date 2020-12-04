@@ -11,14 +11,13 @@ Worlds Elsewhere supported donations to the [Community Bail Fund](http://communi
 
 Donors who made donations before the curtain fell on A Midsummer Night's Charity Stream's Act IV were thanked on stream, and the top three donors got a special surprise during Act V.
 
-[Watch it on Youtube!][yt-stream]
+[<span class="social youtube"></span>Watch it on Youtube!][yt-stream]
 
-[Click here for our thank you video!](https://www.youtube.com/watch?v=z8Grf0tTRZ4)
+[<span class="social youtube"></span>Click here for our thank you video!](https://www.youtube.com/watch?v=z8Grf0tTRZ4)
 
 *The play has always been the thing.*
 
 [yt-stream]: https://www.youtube.com/watch?v=pH8cqnKkfLc "Watch the stream here!"
-
 
 **Support police abolition:** <https://www.8toabolition.com/>
 

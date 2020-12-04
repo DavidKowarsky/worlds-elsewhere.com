@@ -92,3 +92,14 @@ blockquote p:first-child {
 blockquote p:last-child {
     margin-bottom: 0;
 }
+details {
+    & > summary {
+        margin-left: 0;
+    }
+    & > summary + * {
+        margin-top: 0;
+    }
+    & > * {
+        margin-left: 1rem;
+    }
+}

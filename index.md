@@ -8,7 +8,7 @@ The Worlds Elsewhere Theatre Company is proud to present: [*Lysistrata*][program
 
 ***Saturday, October 24, 2020 at 7pm - 10pm US Eastern Time***
 
-[Program][program] &bull; [Promo Video from KyleKallgrenBHH][promo] &bull; [Youtube Stream][stream]
+[Program][program] &bull; [<span class="social youtube"></span>Promo Video from KyleKallgrenBHH][promo] &bull; [<span class="social youtube"></span>Youtube Stream][stream]
 
 Worlds Elsewhere Theatre Company Presents: Lysistrata by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
 
@@ -24,7 +24,7 @@ Check out our [Support Us](/pages/support-us) page for information on how you ca
 
 ## Keep in Touch
 
-Worlds Elsewhere is actively seeking new productions written for the Socially Distant era of theatre. Watch this space, follow us on [Facebook][fb], and sign up for our [Newsletter][newsletter] for more information about all our upcoming mainstage productions and events!
+Worlds Elsewhere is actively seeking new productions written for the Socially Distant era of theatre. Watch this space, follow us on [<span class="social facebook"></span>Facebook][fb], and sign up for our [<span class="social newsletter"></span>Newsletter][newsletter] for more information about all our upcoming mainstage productions and events!
 
-[fb]: https://www.facebook.com/WorldsElsewhere
+[fb]: https://fb.me/WorldsElsewhere
 [newsletter]: https://worlds-elsewhere.us17.list-manage.com/subscribe?u=8e70862018a339ca07b0f75e6&id=55a342e060
