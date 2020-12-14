@@ -13,7 +13,7 @@ To add or change content on the worlds-elsewhere website, you can edit one of th
 Of note, the following files:
 
 1. [index.md](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/index.md): Contains the entire content for the page which maps to `index.html`, and is rendered directly on [the home page](https://worlds-elsewhere.com)
-2. [`plays` directory](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/plays/): Contains the playbill content for all our productions past and present, such as [plays/midsummer/index.md](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/plays/midsummer/index.md)
+2. [`shows` directory](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/shows/): Contains the playbill content for all our productions past and present, such as [shows/2020.06/midsummer/index.md](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/shows/2020.06/midsummer/index.md)
 3. [`home` directory](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/home/): Contains all the content to be rendered into the header navigation, such as [home/contact/index.md](https://github.com/Worlds-Elsewhere/worlds-elsewhere.com/blob/master/home/contact/index.md).
 
 ## Running the site locally

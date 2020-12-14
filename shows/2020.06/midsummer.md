@@ -3,7 +3,7 @@ title: A Midsummer Night's Charity Stream
 ---
 # Worlds Elsewhere Theatre Company Presents: <br>[**A Midsummer Night's Charity Stream**][yt-stream]
 
-[![A Midsummer Night's Charity Stream Banner](/assets/img/plays/midsummer/banner.jpg)][yt-stream]
+[![A Midsummer Night's Charity Stream Banner](/assets/img/shows/2020.06/midsummer/banner.jpg)][yt-stream]
 
 On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production &mdash; a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
 

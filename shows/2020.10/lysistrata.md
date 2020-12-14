@@ -3,7 +3,7 @@ title: Lysistrata
 ---
 # Worlds Elsewhere Theatre Company Presents:<br>**[<span class="social youtube"></span>Lysistrata][yt-stream]**
 
-[![Lysistrata Banner](/assets/img/plays/lysistrata/banner.png)][yt-stream]
+[![Lysistrata Banner](/assets/img/shows/2020.10/lysistrata/banner.png)][yt-stream]
 
 Worlds Elsewhere Theatre Company Presents: Lysistrata by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
 
