@@ -1,20 +1,21 @@
 # Worlds Elsewhere Theatre Company
 
-## Current Production: [Lysistrata][program]
+## Current Production: [A Winter Cabaret][program]
 
-The Worlds Elsewhere Theatre Company is proud to present: [*Lysistrata*][program].
+The Worlds Elsewhere Theatre Company is proud to present: [*A Winter Cabaret*][program].
 
-[![Lysistrata Banner](/assets/img/plays/lysistrata/banner.png)][stream]
+[![Lysistrata Banner](/assets/img/shows/2020.12/winter-cabaret/banner.png)][program]
 
-***Saturday, October 24, 2020 at 7pm - 10pm US Eastern Time***
+***Saturday, Dec 19th, 2020 at 5pm - 10pm US Eastern Time***
 
-[Program][program] &bull; [<span class="social youtube"></span>Promo Video from KyleKallgrenBHH][promo] &bull; [<span class="social youtube"></span>Youtube Stream][stream]
+[Program][program] {% comment %} &bull; [<span class="social youtube"></span>Promo Video][promo] &bull; [<span class="social youtube"></span>Youtube Stream][stream] {% endcomment %}
 
-Worlds Elsewhere Theatre Company Presents: Lysistrata by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
+Streaming on December 19th at 5PM EST on YouTube, join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue and more as a celebration for making it through a very long and difficult year.
+Many of our performers have been involved in our productions of *A Midsummer Night's Charity Stream* and *Lysistrata*, so don’t miss out on it!
 
-The Greek city-states are at war, but Lysistrata, a woman of Athens, thinks the war is wasteful and stupid, and wants it to end. But her wants are no mere idle musing! She has a plan to make the men in power listen, but she can't do it alone.
+Youtube Premier Link coming soon!
 
-[program]: /plays/lysistrata "Click here for the program"
+[program]: /shows/2020.12/winter-cabaret "Click here for the program"
 [promo]: https://www.youtube.com/watch?v=H0Z7WCdeP90 "Promo Video on KyleKallgrenBHH on Youtube!"
 [stream]: https://www.youtube.com/watch?v=nOQqgwHmij8 "Watch the stream here!"
 
