@@ -2,7 +2,17 @@
     "line-length": false,
     "no-inline-html": {
         "allowed_elements": [
-            "a", "details", "summary", "blockquote", "span", "br", "ins", "iframe"
+            "a",
+            "audio",
+            "blockquote",
+            "br",
+            "details",
+            "i",
+            "iframe",
+            "ins",
+            "span",
+            "summary",
+            "video"
         ]
     },
     "single-trailing-newline": false
