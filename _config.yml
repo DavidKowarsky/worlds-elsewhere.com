@@ -7,7 +7,6 @@ description: null # hide the description at present.
 layouts_dir: _src/layouts
 data_dir: _src/data
 includes_dir: _src/includes
-markdown: GFM
 sass:
   sass_dir: _src/sass
 
@@ -16,3 +15,17 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "vernon-zero"
+
+markdown: CommonMarkGhPages
+commonmark:
+  options:
+    - SMART             # Use smart punctuation (curly quotes, etc)
+    - FOOTNOTES         # Parse footnotes
+    # - UNSAFE            # Allow raw/custom HTML and unsafe links
+    # - GITHUB_PRE_LANG   # gh-style fenced code blocks
+  extensions:
+    - autolink        # automatic links <https://github.github.com/gfm/#autolinks-extension->
+    - table           # tabular data <https://github.github.com/gfm/#tables-extension->
+    - strikethrough   # ~~strikethroughs~~  <https://github.github.com/gfm/#strikethrough-extension->
+    # - tasklist        # task lists ( [ ] incomplete; [x] complete ) <https://github.github.com/gfm/#task-list-items-extension->
+    # - tagfilter       # Escapes "unsafe" HTML tags <https://github.github.com/gfm/#disallowed-raw-html-extension->

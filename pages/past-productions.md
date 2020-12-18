@@ -2,7 +2,7 @@
 
 ## [Lysistrata][lys-program]
 
-[![A Midsummer Night's Charity Stream](/assets/img/shows/2020.10/lysistrata/banner.png)][lys-stream]
+[![Lysistrata](/assets/img/shows/2020.10/lysistrata/banner.png)][lys-program]
 
 [Program][lys-program] &bull; [Announcement Video][lys-promo] &bull; [<span class="social youtube"></span>Youtube Stream][lys-stream]
 
@@ -20,7 +20,7 @@ In a socially distant, modern-dress presentation of Aristophanes’ classic come
 
 ## [A Midsummer Night's Charity Stream][mid-program]
 
-[![A Midsummer Night's Charity Stream](/assets/img/shows/2020.06/midsummer/banner.jpg)][mid-stream]
+[![A Midsummer Night's Charity Stream](/assets/img/shows/2020.06/midsummer/banner.jpg)][mid-program]
 
 [Program][mid-program] &bull; [Announcement Video][mid-promo] &bull; [<span class="social youtube"></span>Youtube Stream][mid-stream]
 
