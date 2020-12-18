@@ -4,7 +4,7 @@ We want to bring actors, writers, directors, and other artists together to conti
 
 And we need your help.
 
-To support our company, please check out our [<span class="social indiegogo"></span>Campaign on Indiegogo][indiegogo]!
+To support our company, please check out our [<i igogo>Campaign on Indiegogo</i>][indiegogo]!
 
 ## What We Need
 
@@ -19,17 +19,17 @@ The support of our backers helps us with:
   - Rights, costumes and props, artist and staff stipends for two major productions, several minor ones
 - Fundraising Fees and Perk expenses
 
-For more information about our fund raising campaign, including information about our perks and supporter levels, see our [<span class="social indiegogo"></span>campaign on Indiegogo][indiegogo].
+For more information about our fund raising campaign, including information about our perks and supporter levels, see our [<i igogo>campaign on Indiegogo</i>][indiegogo].
 
 ## Other Ways You Can Help
 
 We understand if you, like many people, are not in a position to offer your financial support at the moment. This is a difficult time. If that is the case and you would still like to support our mission, any of the following steps would be very welcome assistance.
 
-- Subscribe to the [<span class="social youtube"></span>Worlds Elsewhere YouTube Channel][youtube]!
-- Like our [<span class="social facebook"></span>Facebook Page][facebook]!
-- Follow us on [<span class="social twitter"></span>Twitter][twitter] and [<span class="social instagram"></span>Instagram][instagram]!
-- Sign up for our [<span class="social newsletter"></span>Newsletter][newsletter]!
-- Use the Indiegogo share tools to share links to [<span class="social indiegogo"></span>the Indiegogo campaign][indiegogo]!
+- Subscribe to the [<i yt>Worlds Elsewhere YouTube Channel</i>][youtube]!
+- Like our [<i fb>Facebook Page</i>][facebook]!
+- Follow us on [<i twitter>Twitter</i>][twitter] and [<i gram>Instagram</i>][instagram]!
+- Sign up for our [<i news>Newsletter</i>][newsletter]!
+- Use the Indiegogo share tools to share links to [<i igogo>the Indiegogo campaign</i>][indiegogo]!
 
 [indiegogo]: https://www.indiegogo.com/projects/launching-worlds-elsewhere-theatre-company#/ "Support us on Indiegogo!"
 [youtube]: https://youtube.com/c/WorldsElsewhereTheatreCompany "Subscribe to our Youtube Channel!"

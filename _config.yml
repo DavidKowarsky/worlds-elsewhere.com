@@ -2,7 +2,7 @@ title: Worlds Elsewhere Theatre Company
 #theme: jekyll-theme-tactile
 # logo: /assets/img/logo.png
 description: null # hide the description at present.
-# google-analytics: when we want to start tracking views and stuff
+google-analytics: G-V1LGFXNY4G
 
 layouts_dir: _src/layouts
 data_dir: _src/data

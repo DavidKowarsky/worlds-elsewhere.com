@@ -14,12 +14,15 @@ All files are 2020 by the Worlds Elsewhere Theatre Company, except where below s
 
 The icon files used for our social media links are used under [CC-BY-4], and were sourced from [FontAwesome]. See [FontAwesome's Free License](https://fontawesome.com/license/free).
 
+* [cc.svg](/assets/img/social/creative-commons.svg): brands-creative-commons, retrieved 2020/12/18
 * [email.svg](/assets/img/social/email.svg): envelope, Retrieved 2020/12/04
 * [ext.svg](/assets/img/social/ext.svg): paper-plane, Retrieved 2020/12/04
 * [facebook.svg](/assets/img/social/facebook.svg): brands-facebook, Retrieved 2020/12/04
 * [instagram.svg](/assets/img/social/instagram.svg): brands-instagram, Retrieved 2020/12/04
 * [newsletter.svg](/assets/img/social/newsletter.svg): paper-plane, Retrieved 2020/12/04
+* [patreon.svg](/assets/img/social/patreon.svg): brands-patreon, retrieved 2020/12/18
 * [podcast.svg](/assets/img/social/podcast.svg): podcast, Retrieved 2020/12/04
+* [spotify.svg](/assets/img/social/spotify.svg): brands-spotify, Retrieved 2020/12/18
 * [tumblr.svg](/assets/img/social/tumblr.svg): brands-tumblr, Retrieved 2020/12/04
 * [twitch.svg](/assets/img/social/twitch.svg): brands-twitch, Retrieved 2020/12/04
 * [twitter.svg](/assets/img/social/twitter.svg): brands-twitter, Retrieved 2020/12/04

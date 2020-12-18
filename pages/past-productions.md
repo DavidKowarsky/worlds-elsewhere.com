@@ -4,7 +4,7 @@
 
 [![Lysistrata](/assets/img/shows/2020.10/lysistrata/banner.png)][lys-program]
 
-[Program][lys-program] &bull; [Announcement Video][lys-promo] &bull; [<span class="social youtube"></span>Youtube Stream][lys-stream]
+**[Program][lys-program]** &bull; [<i yt>Announcement Video</i>][lys-promo] &bull; [<i yt>Youtube Stream</i>][lys-stream]
 
 Worlds Elsewhere Theatre Company Presents: Lysistrata by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
 
@@ -22,7 +22,7 @@ In a socially distant, modern-dress presentation of Aristophanes’ classic come
 
 [![A Midsummer Night's Charity Stream](/assets/img/shows/2020.06/midsummer/banner.jpg)][mid-program]
 
-[Program][mid-program] &bull; [Announcement Video][mid-promo] &bull; [<span class="social youtube"></span>Youtube Stream][mid-stream]
+**[Program][mid-program]** &bull; [<i yt>Announcement Video</i>][mid-promo] &bull; [<i yt>Youtube Stream</i>][mid-stream]
 
 On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production&mdash;a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
 

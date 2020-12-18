@@ -1,0 +1,45 @@
+/* print.css */
+
+@page {
+  margin: 2cm 1cm;
+}
+
+article {
+  column-width: 17em;
+  column-gap: 3em;
+}
+
+header, footer, aside, nav, form, iframe, .menu {
+  display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  break-after: avoid;
+}
+
+table, img, svg {
+  break-inside: avoid;
+}
+
+* {
+  background-image: none !important;
+}
+
+img, svg {
+  display: block;
+  max-width: 100%;
+}
+
+span.social > a::after {
+  content: " (" attr(href) ")";
+}
+
+main::after {
+  content: "Copyright © 2020 Worlds Elsewhere Theatre Company";
+  display: block;
+  text-align: center;
+}
+
+.social {
+  display: none;
+}
