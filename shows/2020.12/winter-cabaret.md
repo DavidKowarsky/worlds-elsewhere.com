@@ -1,17 +1,16 @@
 ---
 title: A Winter Cabaret
 ---
-# Worlds Elsewhere Theatre Company Presents:<br>**A Winter Cabaret**
+# Worlds Elsewhere Theatre Company Presents:<br>**[<span class="social youtube"></span>A Winter Cabaret][yt-stream]**
 
-![Winter Cabaret Banner](/assets/img/shows/2020.12/winter-cabaret/banner.png)
+<iframe id="ytplayer" type="text/html" width="896" height="504" src="https://www.youtube.com/embed/I7YF8jKdeBQ?modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
 Streaming on December 19th at 5PM EST on YouTube, join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue and more as a celebration for making it through a very long and difficult year.
 Many of our performers have been involved in our productions of *A Midsummer Night's Charity Stream* and *Lysistrata*, so don’t miss out on it!
 
-Youtube Premier Link coming soon!
-{%comment%}[<span class="social youtube"></span>Watch it on Youtube!][yt-stream]{%endcomment%}
+[<span class="social youtube"></span>Watch it on Youtube!][yt-stream]
 
-[yt-stream]: https://www.youtube.com/watch?v=nOQqgwHmij8 "Watch the stream here!"
+[yt-stream]: https://www.youtube.com/watch?v=I7YF8jKdeBQ "Watch the stream here!"
 
 ---
 

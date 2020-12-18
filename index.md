@@ -8,16 +8,13 @@ The Worlds Elsewhere Theatre Company is proud to present: [*A Winter Cabaret*][p
 
 ***Saturday, Dec 19th, 2020 at 5pm - 10pm US Eastern Time***
 
-[Program][program] {% comment %} &bull; [<span class="social youtube"></span>Promo Video][promo] &bull; [<span class="social youtube"></span>Youtube Stream][stream] {% endcomment %}
+[Program][program] &bull; [<span class="social youtube"></span>Youtube Stream][stream]
 
 Streaming on December 19th at 5PM EST on YouTube, join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue and more as a celebration for making it through a very long and difficult year.
 Many of our performers have been involved in our productions of *A Midsummer Night's Charity Stream* and *Lysistrata*, so don’t miss out on it!
 
-Youtube Premier Link coming soon!
-
 [program]: /shows/2020.12/winter-cabaret "Click here for the program"
-[promo]: https://www.youtube.com/watch?v=H0Z7WCdeP90 "Promo Video on KyleKallgrenBHH on Youtube!"
-[stream]: https://www.youtube.com/watch?v=nOQqgwHmij8 "Watch the stream here!"
+[stream]: https://www.youtube.com/watch?v=I7YF8jKdeBQ "Watch the stream here!"
 
 ## Support Us
 
