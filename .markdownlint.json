@@ -1,5 +1,6 @@
 {
     "line-length": false,
+    "single-h1": false,
     "no-inline-html": {
         "allowed_elements": [
             "a",
@@ -7,11 +8,13 @@
             "blockquote",
             "br",
             "details",
+            "div",
             "i",
             "iframe",
             "ins",
             "span",
             "summary",
+            "u",
             "video"
         ]
     },

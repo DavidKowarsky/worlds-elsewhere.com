@@ -154,4 +154,3 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
   Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
 
 [cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons BY Attribution License 4.0"
-

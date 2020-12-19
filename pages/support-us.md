@@ -31,7 +31,7 @@ We understand if you, like many people, are not in a position to offer your fina
 - Sign up for our [<i news>Newsletter</i>][newsletter]!
 - Use the Indiegogo share tools to share links to [<i igogo>the Indiegogo campaign</i>][indiegogo]!
 
-[indiegogo]: https://www.indiegogo.com/projects/launching-worlds-elsewhere-theatre-company#/ "Support us on Indiegogo!"
+[indiegogo]: https://igg.me/at/qB1gnyuPvno/x/412536#/ "Support us on Indiegogo!"
 [youtube]: https://youtube.com/c/WorldsElsewhereTheatreCompany "Subscribe to our Youtube Channel!"
 [facebook]: https://fb.me/WorldsElsewhere "Like our Facebook page!"
 [twitter]: https://twitter.com/ElsewhereWorlds "Follow us on Twitter!"
