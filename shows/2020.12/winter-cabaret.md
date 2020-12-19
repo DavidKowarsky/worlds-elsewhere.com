@@ -71,6 +71,7 @@ And third, this cabaret is a wail of exhaustion. So we have a lineup of songs an
     - Lyrics and Music by the Wyrd Sisters
   - “When Peace Broke Out” — Jamie McConnaughy, Grady W Smithey III, Maciek Nowak/Wensleydale Cheddar
     - Text by Jack Nee, Kyle Kallgren, and Ilana Greenberg-Sud
+    - Letters from Bruce Bairnsfather and Marmaduke Walkinton
   - “This Year” — Jasmine Garcia, Morgan Stutler, Alex Vernon, Kyle Kallgren, Peter Miss
     - Lyrics and Music by the Mountain Goats
 - Interview: Future of WETC w/ Ilana Greenberg-Sud
