@@ -202,4 +202,4 @@ Jasmine’s karaoke track: [<i ext>“Once Upon a December” from Karafun</i>](
 Sam’s karaoke track: [<i yt>“Santa Baby” from Karaoke Junkies on Youtube</i>](https://youtu.be/voM0nUgiGAE)
 
 [cc-by-3.0]: https://creativecommons.org/licenses/by/3.0/deed.en "Creative Commons — Attribution 3.0 Unported — CC-BY-3.0"
-[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 — CC-BY-4.0"
+[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International — CC-BY-4.0"
