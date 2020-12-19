@@ -187,6 +187,6 @@ Background Sounds and Music are public domain, sourced via [<i ext>Freesound</i>
 - [<i ext>Marketplace audio atmosphere</i>](https://fantasy.ambient-mixer.com/fantasy-marketplace) appears under a [<i cc>Creative Commons Sampling+ 1.0 License</i>][cc-sampling+-1.0].
 - [<i ext>Tribal Tensions</i>](https://zapsplat.com/music/tribal-tensions-lively-ethnic-feeling-music-with-driving-percussion-strings-and-flute/) appears under the [<i ext>Audio Hero Standard License</i>][audio-hero].
 
-[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons BY Attribution License 4.0"
+[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International — CC-BY-4.0"
 [cc-sampling+-1.0]: https://creativecommons.org/licenses/sampling+/1.0/ "Creative Commons Sampling+ 1.0"
 [audio-hero]: https://audiohero.com/end-user-license.html "AudioHero Standard License"
