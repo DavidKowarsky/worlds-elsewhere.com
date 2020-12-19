@@ -176,6 +176,15 @@ Web Development — Adrianne Greenberg-Sud and Alexandra Vernon
 
 ## Attributions
 
+*[<i ext>"Jingle Bells"</i>](https://incompetech.filmmusic.io/song/3944-jingle-bells/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+
+*[<i ext>"Two Together"</i>](https://incompetech.filmmusic.io/song/4555-two-together/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+
+*[<i ext>"Winter Chimes"</i>](https://incompetech.filmmusic.io/song/4631-winter-chimes/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+
 The background for David’s "Let it Snow" is [<i ext>“Slow Motion Snowfall in Washington State”</i>](https://commons.wikimedia.org/wiki/File:Snowfall.webm) by Cody Logan, used under the [<i cc>Creative Commons Attribution 3.0 Unported</i>][cc-by-3.0] license
 
 Waltz of the Flowers, Peter Tchaikovsky, arrangement by Leonard Slatkin, performed by St. Louis Symphony Orchestra, from the soundtrack to *Ladybird*
@@ -193,3 +202,4 @@ Jasmine’s karaoke track: [<i ext>“Once Upon a December” from Karafun</i>](
 Sam’s karaoke track: [<i yt>“Santa Baby” from Karaoke Junkies on Youtube</i>](https://youtu.be/voM0nUgiGAE)
 
 [cc-by-3.0]: https://creativecommons.org/licenses/by/3.0/deed.en "Creative Commons — Attribution 3.0 Unported — CC-BY-3.0"
+[cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 — CC-BY-4.0"
