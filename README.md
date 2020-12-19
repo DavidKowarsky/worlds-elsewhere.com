@@ -20,14 +20,14 @@ Of note, the following files:
 
 To run this site locally, you can install [Jekyll for Github-Pages](https://jekyllrb.com) through Ruby and Bundler.
 
-```
+```bash
 gem install jekyll bundler
 bundle install
 ```
 
 After that you can execute jekyll through bundler to build and serve the site locally for testing.
 
-```
+```bash
 bundle exec jekyll serve
 ```
 
