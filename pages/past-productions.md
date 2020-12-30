@@ -1,7 +1,5 @@
 # Past Productions
 
-<div class="past-productions">
-
 ## 2020 Performances
 
 ### [A Winter Cabaret][2020.12-program]
@@ -46,5 +44,3 @@ On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community 
 [2020.06-program]: /shows/2020.06/midsummer "Click here for the program"
 [2020.06-promo]: https://www.youtube.com/watch?v=m5AzeMTDn2M "Watch our announcement video!"
 [2020.06-stream]: https://www.youtube.com/watch?v=pH8cqnKkfLc "Watch the stream here!"
-
-</div>
