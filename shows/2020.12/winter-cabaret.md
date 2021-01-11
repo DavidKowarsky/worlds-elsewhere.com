@@ -99,7 +99,7 @@ And third, this cabaret is a wail of exhaustion. So we have a lineup of songs an
     - Lyrics and Music by Peter Yarrow
   - “Snusmumrikens vårvisa/Snufkin's Spring Song” — Henry Kathman; accompaniment by The Wright Step
     - Song written by Erna Tauro and Lyrics by Tove Jansson; backing track arranged by The Wright Step
-  - “Let It Snow” — Emily Clark, Jake Brode, Harry Boyd, Alex Vernon, Henry Kathman, Dave Kowarsky, Sam Logsdon, Meredith Cook, River Lane, Sam Marchiony, Jasmine Garcia, Wensleydale Cheddar; accompaniment by Gayle Bluemel
+  - “Let It Snow” — Emily Clark, Jake Brode, Harry Boyd, Alex Vernon, Henry Kathman, Dave Kowarsky, Sam Logsdon, Meredith Cook, River Lane, Sam Marchiony, Jasmine Garcia, Peter Miss; accompaniment by Gayle Bluemel
     - Lyrics by Sammy Cahn, Music by Jule Styne, Arrangement by Ilana Greenberg-Sud and Emily Clark
 - Outro: Emily Clark and Mike Fatum
 
