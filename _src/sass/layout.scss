@@ -144,14 +144,15 @@ a {
     break-inside: avoid;
 }
 
-a > i {
+i {
     font-style: inherit;
     font-weight: 900;
+    display: inline-block;
 
     &::before {
         content: '\00a0'; // non-breaking space
         display: inline-block;
-        margin: -0.2em 0.05em 0.1em 0em;
+        margin: -0.2em 0.15em 0.1em 0em;
         vertical-align: middle;
         width: 1.1em;
         height: 1.1em;
@@ -160,22 +161,50 @@ a > i {
         transition: all .25s;
     }
 
-    &[fb]::before { background-image: url('/assets/img/social/facebook.svg'); }
-    &[igogo]::before { background-image: url('/assets/img/social/indiegogo.svg'); }
-    &[itchio]::before { background-image: url('/assets/img/social/itch-io.svg'); }
-    &[gram]::before { background-image: url('/assets/img/social/instagram.svg'); }
-    &[patreon]::before { background-image: url('/assets/img/social/patreon.svg'); }
-    &[spotify]::before { background-image: url('/assets/img/social/spotify.svg'); }
-    &[tumblr]::before { background-image: url('/assets/img/social/tumblr.svg'); }
-    &[twitch]::before { background-image: url('/assets/img/social/twitch.svg'); }
-    &[twitter]::before { background-image: url('/assets/img/social/twitter.svg'); }
-    &[wp]::before { background-image: url('/assets/img/social/wordpress.svg');}
-    &[yt]::before { background-image: url('/assets/img/social/youtube.svg'); }
+    &[fb]::before { background-image: url('/assets/img/i/brand/facebook.svg'); }
+    &[igogo]::before { background-image: url('/assets/img/i/brand/indiegogo.svg'); }
+    &[itchio]::before { background-image: url('/assets/img/i/brand/itch-io.svg'); }
+    &[gram]::before { background-image: url('/assets/img/i/brand/instagram.svg'); }
+    &[patreon]::before { background-image: url('/assets/img/i/brand/patreon.svg'); }
+    &[spotify]::before { background-image: url('/assets/img/i/brand/spotify.svg'); }
+    &[tumblr]::before { background-image: url('/assets/img/i/brand/tumblr.svg'); }
+    &[twitch]::before { background-image: url('/assets/img/i/brand/twitch.svg'); }
+    &[twitter]::before { background-image: url('/assets/img/i/brand/twitter.svg'); }
+    &[wp]::before { background-image: url('/assets/img/i/brand/wordpress.svg');}
+    &[yt]::before { background-image: url('/assets/img/i/brand/youtube.svg'); }
 
-    &[cc]::before { background-image: url('/assets/img/social/cc.svg'); }
-    &[ext]::before { background-image: url('/assets/img/social/ext.svg'); }
+    &[cc]::before { background-image: url('/assets/img/i/brand/cc.svg'); }
+    &[email]::before { background-image: url('/assets/img/i/email.svg'); }
+    &[ext]::before { background-image: url('/assets/img/i/ext.svg'); }
+    &[info]::before { background-image: url('/assets/img/i/info.svg'); }
+    &[news]::before { background-image: url('/assets/img/i/newsletter.svg'); }
+    &[pod]::before { background-image: url('/assets/img/i/podcast.svg'); }
+    &[warn]::before { background-image: url('/assets/img/i/warn.svg'); }
+}
 
-    &[email]::before { background-image: url('/assets/img/social/email.svg'); }
-    &[news]::before { background-image: url('/assets/img/social/newsletter.svg'); }
-    &[pod]::before { background-image: url('/assets/img/social/podcast.svg'); }
+aside, form {
+    font-size: 0.9em;
+    font-style: inherit;
+    display: inline-block;
+    max-width: 80%;
+    padding: .5em 1em;
+    box-sizing: content-box;
+    border-radius: 0.25em;
+    text-align: left;
+    border: 1px solid #bbb;
+    background-color: rgba(256,256,256,0.25);
+
+    &[focus], &[warn] { background-color: rgba(255,249,178,0.25); }
+
+    p {
+        margin: 0.25rem 0;
+    }
+
+    h3, h4, h5, h6 {
+        font-size: 1.25em;
+        font-family: inherit;
+        font-weight: 900;
+        font-variant: inherit;
+        margin: 0.25rem 0;
+    }
 }
