@@ -4,6 +4,7 @@
     "no-inline-html": {
         "allowed_elements": [
             "a",
+            "aside",
             "audio",
             "blockquote",
             "br",
@@ -14,9 +15,12 @@
             "ins",
             "span",
             "summary",
+            "time",
             "u",
             "video"
         ]
     },
-    "single-trailing-newline": false
+    "single-trailing-newline": false,
+    "header-increment": false,
+    "heading-increment": false
 }
