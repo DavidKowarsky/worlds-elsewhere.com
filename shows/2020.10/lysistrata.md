@@ -29,7 +29,7 @@ Worlds Elsewhere Theatre Company was founded during this terrifying time. It is 
 
 ## Support Us
 
-If you like what you’ve seen from Worlds Elsewhere and would like to see more, take a moment to donate to our [<i igogo>crowdfunding campaign on indiegogo</i>][indiegogo]. Be immortalized on our website! Get advance admission to the community Discord before it becomes a Patreon exclusive, and be first in line for company t-shirts in the new year!
+If you like what you’ve seen from Worlds Elsewhere and would like to see more, take a moment to look at ways you can help [Support Us](/pages/support-us)!
 
 We understand if you, like many people, are not in a position to offer your financial support at the moment; this is a difficult time. If that is the case and you would still like to support our mission, any of the following steps would be very welcome assistance:
 
@@ -37,9 +37,7 @@ We understand if you, like many people, are not in a position to offer your fina
 - Like our [<i fb>Facebook Page</i>][facebook]!
 - Follow us on [<i twitter>Twitter</i>][twitter] and [<i gram>Instagram</i>][instagram]!
 - Sign up for our [<i news>Newsletter</i>][newsletter]!
-- Use the Indiegogo share tools to share links to [<i igogo>the Indiegogo campaign</i>][indiegogo]!
 
-[indiegogo]: https://igg.me/at/qB1gnyuPvno/x/412536#/ "Support us on Indiegogo!"
 [youtube]: https://youtube.com/c/WorldsElsewhereTheatreCompany "Subscribe to our Youtube Channel!"
 [facebook]: https://fb.me/WorldsElsewhere "Like our Facebook page!"
 [twitter]: https://twitter.com/ElsewhereWorlds "Follow us on Twitter!"
@@ -54,9 +52,9 @@ We understand if you, like many people, are not in a position to offer your fina
 >
 > The ancient Greek world, as portrayed by Lysistrata, has a very binary concept of gender. It is the goal of this production to present this play while still honoring a modern, complex view of gender, so casting decisions were made with the intention of presenting the conflict of the play while still respecting the gender diversity of our cast and audience. We cast the show with a weighting towards the stated preference of our auditioning performers, doing our best to avoid excessive reliance on traditional gender performance.
 
-— Ilana Greenberg-Sud<br>
-Director, *Lysistrata*<br>
-Co-Founder/Staff Producer<br>
+— Ilana Greenberg-Sud \
+Director, *Lysistrata* \
+Co-Founder/Staff Producer \
 Worlds Elsewhere Theatre Company
 
 ## The Plot
@@ -137,14 +135,10 @@ The delegates celebrate the successful peace talks by getting roaring drunk, cha
 
 ## Company Staff
 
-Executive Director — Kyle Kallgren
-
-Producer — David Kowarsky
-
-Producer — Ilana Greenberg-Sud
-
-Technical Director — Dodger of Zion
-
+Executive Director — Kyle Kallgren \
+Producer — David Kowarsky \
+Producer — Ilana Greenberg-Sud \
+Technical Director — Dodger of Zion \
 Web Development — Adrianne Greenberg-Sud and Alexandra Vernon
 
 ## About the Issues

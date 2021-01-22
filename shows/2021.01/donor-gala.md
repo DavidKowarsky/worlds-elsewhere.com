@@ -34,16 +34,11 @@ We hope to see you there!
 
 ## Company Staff
 
-Executive Director — Kyle Kallgren
-
-Producer — David Kowarsky
-
-Producer — Ilana Greenberg-Sud
-
-Technical Director — Dodger of Zion
-
-Social Media Director — Laura Varela
-
-Web Development — Adrianne Greenberg-Sud and Alexandra Vernon
+Executive Director — Kyle Kallgren \
+Producer — David Kowarsky \
+Producer — Ilana Greenberg-Sud \
+Technical Director — Dodger of Zion \
+Social Media Director — Laura Varela \
+Web Development — Adrianne Greenberg-Sud
 
 ## Attributions

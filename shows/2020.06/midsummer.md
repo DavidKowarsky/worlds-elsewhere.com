@@ -135,22 +135,22 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 
 ## Company Staff
 
-**Executive Director** - Kyle Kallgren<br>
-**Producer** - David Kowarsky<br>
-**Producer** - Ilana Greenberg<br>
+**Executive Director** - Kyle Kallgren \
+**Producer** - David Kowarsky \
+**Producer** - Ilana Greenberg \
 **Technical Director** - Dodger of Zion
 
 ## Horn Call Attribution
 
-*Horn Call from Beethoven's 3rd Symphony* &mdash; recorded by **TaranP**, sourced from [<i ext>freesound.org</i>](https://freesound.org)<br>
-*Mendelssohn’s Techno Wedding Remix* by **TPRMX**<br>
+*Horn Call from Beethoven's 3rd Symphony* &mdash; recorded by **TaranP**, sourced from [<i ext>freesound.org</i>](https://freesound.org) \
+*Mendelssohn’s Techno Wedding Remix* by **TPRMX**
 
 ## Intermission Music
 
-*[<i ext>"Enchanted Valley"</i>](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
-  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+*[<i ext>"Enchanted Valley"</i>](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com)) \
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]
 
-*[<i ext>"Danse of Questionable Tuning"</i>](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com>))<br>
-  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+*[<i ext>"Danse of Questionable Tuning"</i>](https://incompetech.filmmusic.io/song/3603-danse-of-questionable-tuning)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com>)) \
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]
 
 [cc-by-4.0]: http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International — CC-BY-4.0"
