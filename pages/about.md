@@ -7,3 +7,5 @@ We believe in the power of theatre to bring strength and comfort in times of dis
 Our first production was a fundraising production, which peaked at over 350 simultaneous audience members during the stream, and has subsequently garnered over 7000 views on YouTube. We raised over $5000 for bail and mutual aid funds across the United States.
 
 Worlds Elsewhere is committed to producing at least one show per year with a charitable focus.
+
+Worlds Elsewhere’s legal startup costs and the bulk of its second year operations were funded by the generosity of contributors to our [Founding Backers](./founding-backers).

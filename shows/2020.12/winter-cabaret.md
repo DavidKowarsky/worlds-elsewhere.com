@@ -26,7 +26,7 @@ Worlds Elsewhere Theatre Company was founded during this terrifying time. It is 
 
 ## Support Us
 
-If you like what you’ve seen from Worlds Elsewhere and would like to see more, take a moment to donate to our [<i igogo>crowdfunding campaign on indiegogo</i>][indiegogo]. Be immortalized on our website! Get advance admission to the community Discord before it becomes a Patreon exclusive, and be first in line for company t-shirts in the new year!
+If you like what you’ve seen from Worlds Elsewhere and would like to see more, take a moment to look at ways you can help [Support Us](/pages/support-us)!
 
 We understand if you, like many people, are not in a position to offer your financial support at the moment; this is a difficult time. If that is the case and you would still like to support our mission, any of the following steps would be very welcome assistance:
 
@@ -34,9 +34,7 @@ We understand if you, like many people, are not in a position to offer your fina
 - Like our [<i fb>Facebook Page</i>][facebook]!
 - Follow us on [<i twitter>Twitter</i>][twitter] and [<i gram>Instagram</i>][instagram]!
 - Sign up for our [<i news>Newsletter</i>][newsletter]!
-- Use the Indiegogo share tools to share links to [<i igogo>the Indiegogo campaign</i>][indiegogo]!
 
-[indiegogo]: https://igg.me/at/qB1gnyuPvno/x/412536#/ "Support us on Indiegogo!"
 [youtube]: https://youtube.com/c/WorldsElsewhereTheatreCompany "Subscribe to our Youtube Channel!"
 [facebook]: https://fb.me/WorldsElsewhere "Like our Facebook page!"
 [twitter]: https://twitter.com/ElsewhereWorlds "Follow us on Twitter!"
@@ -47,7 +45,7 @@ We understand if you, like many people, are not in a position to offer your fina
 
 At the end of a particularly terrible year, Worlds Elsewhere’s first cabaret is meant to be many things. First, it is a celebration. During the harsh winter months it is traditional in many cultures to celebrate community, as a way both to weather the harsh months to come and to celebrate the accomplishments of the past year. Our performers, all veterans of past WE productions, are here to celebrate the talent they’ve nurtured and the community they’ve built in a new, socially distant world.
 
-Second, it is a call to action. Worlds Elsewhere Theatre Company’s first year has been primarily charity-driven, but in the coming year we want to be able to support artists. So, we are asking for the support of you, the audience. This may involve licensing newer works not in the public domain, spending on tech, costumes, and props for our performers, or compensating our performers and administrative staff for productions that are not directly associated with a charitable event. As a new organization, we'll need to retain the services of lawyers to help us get set up as an LLC, then to establish and maintain our status as a 501(c)(3) organization so we can directly handle funds for our charitable efforts, rather than simply directing people to an outside site to donate. All this can be realized with [<i igogo>our Indiegogo campaign</i>][indiegogo] which ends Dec 21, 11:59pm ET.
+Second, it is a call to action. Worlds Elsewhere Theatre Company’s first year has been primarily charity-driven, but in the coming year we want to be able to support artists. So, we are asking for the support of you, the audience. This may involve licensing newer works not in the public domain, spending on tech, costumes, and props for our performers, or compensating our performers and administrative staff for productions that are not directly associated with a charitable event. As a new organization, we'll need to retain the services of lawyers to help us get set up as an LLC, then to establish and maintain our status as a 501(c)(3) organization so we can directly handle funds for our charitable efforts, rather than simply directing people to an outside site to donate. All this can be realized with our <i igg>Indiegogo campaign</i> which ends Dec 21, 11:59pm ET.
 
 And third, this cabaret is a wail of exhaustion. So we have a lineup of songs and stories for the end of an insane year. Bring on some catharsis, cause…DAMN.
 
@@ -163,28 +161,23 @@ When he is not playing despicable old men like Egeus (*A Midsummer Night’s Dre
 
 ## Company Staff
 
-Executive Director — Kyle Kallgren
-
-Producer — David Kowarsky
-
-Producer — Ilana Greenberg-Sud
-
-Technical Director — Dodger of Zion
-
-Social Media Director — Laura Varela
-
+Executive Director — Kyle Kallgren \
+Producer — David Kowarsky \
+Producer — Ilana Greenberg-Sud \
+Technical Director — Dodger of Zion \
+Social Media Director — Laura Varela \
 Web Development — Adrianne Greenberg-Sud and Alexandra Vernon
 
 ## Attributions
 
-*[<i ext>"Jingle Bells"</i>](https://incompetech.filmmusic.io/song/3944-jingle-bells/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
-  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+*[<i ext>"Jingle Bells"</i>](https://incompetech.filmmusic.io/song/3944-jingle-bells/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com)) \
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]
 
-*[<i ext>"Two Together"</i>](https://incompetech.filmmusic.io/song/4555-two-together/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
-  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+*[<i ext>"Two Together"</i>](https://incompetech.filmmusic.io/song/4555-two-together/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com)) \
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]
 
-*[<i ext>"Winter Chimes"</i>](https://incompetech.filmmusic.io/song/4631-winter-chimes/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com))<br>
-  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]<br>
+*[<i ext>"Winter Chimes"</i>](https://incompetech.filmmusic.io/song/4631-winter-chimes/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com)) \
+  Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]
 
 The background for David’s "Let it Snow" is [<i ext>“Slow Motion Snowfall in Washington State”</i>](https://commons.wikimedia.org/wiki/File:Snowfall.webm) by Cody Logan, used under the [<i cc>Creative Commons Attribution 3.0 Unported</i>][cc-by-3.0] license
 
