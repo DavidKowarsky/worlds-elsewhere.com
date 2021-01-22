@@ -4,7 +4,7 @@
 
 ### [A Winter Cabaret][2020.12-program]
 
-[![Lysistrata Banner](/assets/img/shows/2020.12/winter-cabaret/banner.png)][2020.12-program]
+[![A Winter Cabaret Banner](/assets/img/shows/2020.12/winter-cabaret/banner.png)][2020.12-program]
 
 **[Program][2020.12-program]** &bull; [<i yt>Youtube Stream</i>][2020.12-stream]
 
@@ -17,7 +17,7 @@ Join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue an
 
 ### [Lysistrata][2020.10-program]
 
-[![Lysistrata](/assets/img/shows/2020.10/lysistrata/banner.png)][2020.10-program]
+[![Lysistrata Banner](/assets/img/shows/2020.10/lysistrata/banner.png)][2020.10-program]
 
 **[Program][2020.10-program]** &bull; [<i yt>Announcement Video</i>][2020.10-promo] &bull; [<i yt>Youtube Stream</i>][2020.10-stream]
 
@@ -35,7 +35,7 @@ In a socially distant, modern-dress presentation of Aristophanes’ classic come
 
 ### [A Midsummer Night's Charity Stream][2020.06-program]
 
-[![A Midsummer Night's Charity Stream](/assets/img/shows/2020.06/midsummer/banner.jpg)][2020.06-program]
+[![A Midsummer Night's Charity Stream Banner](/assets/img/shows/2020.06/midsummer/banner.jpg)][2020.06-program]
 
 **[Program][2020.06-program]** &bull; [<i yt>Announcement Video</i>][2020.06-promo] &bull; [<i yt>Youtube Stream</i>][2020.06-stream]
 
