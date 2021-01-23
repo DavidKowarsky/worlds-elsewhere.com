@@ -3,9 +3,9 @@ title: A Special Thank You to our Founding Backers
 ---
 # A Special Thank You to our Founding Backers
 
-Worlds Elsewhere’s legal startup costs and the bulk of its second year operations were funded by the generosity of contributors to our Indiegogo campaign. This space is dedicated to those whose contributions entitle them to Founding Backer status, lead by our most generous supporters, the **Bold Patrons of Theatre**, to whom we are especially grateful.
+Worlds Elsewhere’s legal startup costs and the bulk of its second year operations were funded by the generosity of contributors to our Indiegogo campaign. This space is dedicated to those whose contributions entitle them to Founding Backer status, lead by our most generous supporters, the **Bold Champions of Theatre**, to whom we are especially grateful.
 
-## Bold Patrons of Theatre
+## Bold Champions of Theatre
 
 **airspaniel** \
 **Carol Kallgren** \
