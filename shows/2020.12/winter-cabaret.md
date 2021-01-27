@@ -181,7 +181,7 @@ Web Development — Adrianne Greenberg-Sud and Alexandra Vernon
 
 The background for David’s "Let it Snow" is [<i ext>“Slow Motion Snowfall in Washington State”</i>](https://commons.wikimedia.org/wiki/File:Snowfall.webm) by Cody Logan, used under the [<i cc>Creative Commons Attribution 3.0 Unported</i>][cc-by-3.0] license
 
-Waltz of the Flowers, Peter Tchaikovsky, arrangement by Leonard Slatkin, performed by St. Louis Symphony Orchestra, from the soundtrack to *Ladybird*
+*"Waltz of the Flowers"* by Peter Tchaikovsky, from the YouTube Audio Library
 
 Morgan’s Background: [<i ext>“This Is Fine” by KC Green</i>](http://gunshowcomic.com/648)
 
