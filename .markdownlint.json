@@ -10,6 +10,7 @@
             "br",
             "details",
             "div",
+            "h5",
             "i",
             "iframe",
             "ins",
@@ -22,5 +23,7 @@
     },
     "single-trailing-newline": false,
     "header-increment": false,
-    "heading-increment": false
+    "heading-increment": false,
+    "ul-style": { "style": "consistent" },
+    "no-space-in-emphasis": false
 }

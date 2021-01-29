@@ -35,7 +35,9 @@ The icon files used for our social media links are used under [CC-BY-4], and wer
 
 * [cc.svg](/assets/img/i/brand/creative-commons.svg): brands-creative-commons, retrieved 2020/12/18
 * [facebook.svg](/assets/img/i/brand/facebook.svg): brands-facebook, Retrieved 2020/12/04
+* [github.svg](/assets/img/i/brands/github.svg): brands-github, Retrieved 2021/01/29
 * [instagram.svg](/assets/img/i/brand/instagram.svg): brands-instagram, Retrieved 2020/12/04
+* [mastodon.svg](/assets/img/i/brand/mastodon.svg): brands-mastodon, Retrieved 2021/01/29
 * [patreon.svg](/assets/img/i/brand/patreon.svg): brands-patreon, retrieved 2020/12/18
 * [spotify.svg](/assets/img/i/brand/spotify.svg): brands-spotify, Retrieved 2020/12/18
 * [tumblr.svg](/assets/img/i/brand/tumblr.svg): brands-tumblr, Retrieved 2020/12/04
