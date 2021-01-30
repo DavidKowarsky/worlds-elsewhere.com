@@ -103,9 +103,7 @@ We hope to see you there!
 **Producers**:
 David Kowarsky [<i twitter icononly>@khyros</i>](<https://twitter.com/khyros> "@Khyros on Twitter") &
 Kyle Kallgren [<i yt icononly>KyleKallgrenBHH</i>](<https://youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew> "KyleKallgrenBHH on Youtube") \
-**Technical Director**: Dodger of Zion
-[<i twitch icononly>Twitch.tv</i>](<https://twitch.tv/dodgerofzion> "@DodgerOfZion on Twitch") \
-**Assistant Technical Director**: Dave Kowarsky
+**Technical Director**: Dave Kowarsky
 [<i twitter icononly>@khyros</i>](<https://twitter.com/khyros> "@Khyros on Twitter") \
 **Assistant to the Director**: Adrianne Greenberg-Sud
 [<i ext icononly>Pigsflew.com</i>](<https://pigsflew.com> "Pigsflew.com - Homepage of Addie GS")
