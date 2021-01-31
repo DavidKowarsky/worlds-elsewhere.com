@@ -1,0 +1,22 @@
+{{include.social}}
+{% assign type = include.social.type ? include.social.type : "ext=1" %}
+{% assign style = (include.style && include.style == 'icon') ? "icononly=1" : "" %}
+{% if include.social.url %}
+<a href="{{include.social.url}}" alt="{{include.social.alt}}"><i {{type}} {{style}}>{{include.social.text}}</i></a>
+{% elsif include.social.type && include.social.user %}
+  {% case include.social.type in %}
+  {% when fb %}
+  {% when gh %}
+  {% when igg %}
+  {% when gram %}
+  {% when }
+  {% endcase %}
+{% endif %}
+
+<i {%if include.social.type %}{{ include.social.type }}=1{% endif %} {% if include.style && include.style == 'icon' %}icononly=1{% endif %}>
+{% if include.social.type %}
+
+{% else %}
+<a href="{{include.social.url}}" alt="{{include.social.alt}}">{{include.social.text}}</a>
+{% endif %}
+</i>
