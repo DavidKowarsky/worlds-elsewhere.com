@@ -21,7 +21,7 @@ Join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue an
 
 **[Program][2020.10-program]** &bull; [<i yt>Announcement Video</i>][2020.10-promo] &bull; [<i yt>Youtube Stream</i>][2020.10-stream]
 
-Worlds Elsewhere Theatre Company Presents: Lysistrata by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
+Worlds Elsewhere Theatre Company Presents: *Lysistrata* by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
 
 The Greek city-states are at war, but Lysistrata, a woman of Athens, thinks the war is wasteful and stupid, and wants it to end. But her wants are no mere idle musing! She has a plan to make the men in power listen, but she can’t do it alone.
 

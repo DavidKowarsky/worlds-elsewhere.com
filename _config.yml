@@ -3,7 +3,7 @@ title: Worlds Elsewhere Theatre Company
 # logo: /assets/img/logo.png
 description: null # hide the description at present.
 google-analytics: G-V1LGFXNY4G
-
+timezone: America/New_York
 layouts_dir: _src/layouts
 data_dir: _src/data
 includes_dir: _src/includes

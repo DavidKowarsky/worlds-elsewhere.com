@@ -147,7 +147,7 @@ a {
     }
 }
 
-i {
+i, time {
     font-style: inherit;
     font-weight: 900;
     display: inline-block;
@@ -174,8 +174,6 @@ i {
         white-space: nowrap;
     }
 
-    &::before { background-image: url('/assets/img/i/ext.svg'); }
-
     &[fb]::before { background-image: url('/assets/img/i/brand/facebook.svg'); }
     &[igg]::before { background-image: url('/assets/img/i/brand/indiegogo.svg'); }
     &[itchio]::before { background-image: url('/assets/img/i/brand/itch-io.svg'); }
@@ -198,6 +196,8 @@ i {
     &[pod]::before { background-image: url('/assets/img/i/podcast.svg'); }
     &[warn]::before { background-image: url('/assets/img/i/warn.svg'); }
 }
+i::before { background-image: url('/assets/img/i/ext.svg'); }
+time::before { background-image: url('/assets/img/i/cal.svg'); }
 
 aside, form {
     font-size: 0.9em;
