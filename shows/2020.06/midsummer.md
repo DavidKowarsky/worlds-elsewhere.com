@@ -140,12 +140,16 @@ In 2010, **Kyle Kallgren** (Director, Theseus; he/him) made the unfortunate deci
 **Producer** - Ilana Greenberg \
 **Technical Director** - Dodger of Zion
 
-## Horn Call Attribution
+## Attributions
+
+Banner art by Kyle Kallgren.
+
+### Horn Call Attribution
 
 *Horn Call from Beethoven's 3rd Symphony* &mdash; recorded by **TaranP**, sourced from [<i ext>freesound.org</i>](https://freesound.org) \
 *Mendelssohn’s Techno Wedding Remix* by **TPRMX**
 
-## Intermission Music
+### Intermission Music
 
 *[<i ext>"Enchanted Valley"</i>](https://incompetech.filmmusic.io/song/3709-enchanted-valley)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com)) \
   Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]

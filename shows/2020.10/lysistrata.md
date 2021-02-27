@@ -173,7 +173,9 @@ While this isn't one of our charity productions, charity and social justice rema
 
 Translation by [<i wp>George Theodoridis</i>](https://bacchicstage.wordpress.com/), and used with permission.
 
-Images are sourced from the public domain via [<i ext>Pixabay</i>](https://pixabay.com), purchased without requirement for attribution via iStockPhoto, or Copyright David Kowarsky, used with permission.
+Banner art by Matt Crowley.
+
+Other images are sourced from the public domain via [<i ext>Pixabay</i>](https://pixabay.com), purchased without requirement for attribution via iStockPhoto, or Copyright David Kowarsky, used with permission.
 
 Background Sounds and Music are public domain, sourced via [<i ext>Freesound</i>](https://freesound.org/), with the following exceptions:
 
