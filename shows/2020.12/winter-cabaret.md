@@ -170,6 +170,8 @@ Web Development — Adrianne Greenberg-Sud and Alexandra Vernon
 
 ## Attributions
 
+Banner art by Laura Varela.
+
 *[<i ext>"Jingle Bells"</i>](https://incompetech.filmmusic.io/song/3944-jingle-bells/)* by **Kevin MacLeod** ([<i ext>incompetech.com</i>](https://incompetech.com)) \
   Licensed under [<i cc>Creative Commons: By Attribution 4.0 License</i>][cc-by-4.0]
 
