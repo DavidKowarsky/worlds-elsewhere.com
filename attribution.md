@@ -1,6 +1,6 @@
 # Worlds-Elsewhere.com Assets - Thanks and Attributions
 
-All files are 2020 by the Worlds Elsewhere Theatre Company, except where below specified.
+All files are &copy; 2021 by Worlds Elsewhere Theatre Company, except where below specified.
 
 <details open>
 <summary>Theme <small>/assets/css</small></summary>
