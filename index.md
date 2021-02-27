@@ -1,10 +1,11 @@
 # Worlds Elsewhere Theatre Company
 
-## Current Production
+## Current Production:<br>**William Shakespeare's *Julius Caesar***
 
-We haven't announced our next production yet — sign up for our [<i news>newsletter</i>][news] or follow us on [<i fb>Facebook</i>][fb] to be the among the first to find out!
+![Julius Caesar Banner](/assets/img/shows/2021.03/julius-caesar/banner.png) \
+{% include ts.html ts="2021/03/20 19:00 -0400" t="dt" %} (US Eastern Time) &bull; [<i fb>Facebook Event</i>][fb]
 
-In the meantime, you can also check out our **[Past Productions](/pages/past-productions)** page!
+[fb]: <https://www.facebook.com/events/351848592577663/> "See up-to-date details on our Facebook event!"
 
 ## Support Us
 

@@ -1,11 +1,17 @@
 ---
 title: Indiegogo Donors Gala
+times:
+  doors: 2021-01-30 18:45 -05:00
+  start: 2021-01-30 19:00 -05:00
+  perfend: 2021-01-30 20:00 -05:00
+  end: 2021-01-30 22:00 -05:00
 ---
 # Worlds Elsewhere Theatre Company Presents:<br>**Indiegogo Donors Gala**
 
-**Date:** <time datetime="2021-01-30">Sat, Jan 30th</time> \
-**Performances:** <time datetime="2021-01-30 19:00-05:00">7pm</time>-<time datetime="2021-01-30 20:00-05:00">8pm</time> (doors open at <time datetime="2021-01-30 18:45-05:00">6:45pm</time>) \
-**Meet and Greet:** <time datetime="2021-01-30 20:00-05:00">8pm</time>-<time datetime="2021-01-30 22:00-05:00">10pm</time> \
+{% assign t = page.times %}
+**Date:** {%include ts.html ts=t.start t="d" %} \
+**Performances:** {%include ts.html ts=t.start fmt="7pm - 8pm" %} (doors open at 6:45pm) \
+**Meet and Greet:** {%include ts.html ts=t.perfend fmt="8pm - 10pm" %} \
 *All times in US Eastern Time*
 
 The Worlds Elsewhere Theatre Company is proud to be hosting a special, exclusive Online Gala event for our Indiegogo Donors, including our **[Founding Backers][igg-donors]**! To show our great appreciation to these "ground floor" donors, there will be a night of entertainment in the form of performances by our talented cast, and Meet-and-Greet time with the company and board members.
