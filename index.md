@@ -1,10 +1,22 @@
 # Worlds Elsewhere Theatre Company
 
-## Current Production:<br>**William Shakespeare's *Julius Caesar***
+## Current Production:<br>[**William Shakespeare's *Julius Caesar***][program]
 
-![Julius Caesar Banner](/assets/img/shows/2021.03/julius-caesar/banner.png) \
-{% include ts.html ts="2021/03/20 19:00 -0400" t="dt" %} (US Eastern Time) &bull; [<i fb>Facebook Event</i>][fb]
+[![Julius Caesar Banner](/assets/img/shows/2021.03/julius-caesar/banner.png)][program] \
+{% include ts.html ts="2021/03/20 19:00 -0400" t="dt" %} (US Eastern Time) \
+[Program][program] &bull; [<i yt>Youtube Stream</i>][yt-stream] &bull; [<i fb>Facebook Event</i>][fb]
 
+**Friends, Romans, Netizens, lend us your ears!**
+
+It is a time of turbulence in Rome as Caesar is celebrating his victory over rival Pompey. Many are thrilled but some remain more skeptical of Caesar’s consolidation of power. How are the interests of Rome best served?
+
+Director Meryl Federman leads Worlds Elsewhere theatre company in Shakespeare's Julius Caesar. Genderblind casting and "timeless" styling prompt us to take a fresh look at the responsibilities of those who hold power in a society.
+
+[<i bpt>Support us by buying a ticket!</i>][tickets]
+
+[program]: </shows/2021.03/julius-caesar> "View the Program here!"
+[yt-stream]: <https://youtu.be/xBNeTVqyiiM> "Watch the stream here!"
+[tickets]: <https://www.brownpapertickets.com/event/5092806> "Tickets available through Brown Paper Tickets!"
 [fb]: <https://www.facebook.com/events/351848592577663/> "See up-to-date details on our Facebook event!"
 
 ## Support Us
