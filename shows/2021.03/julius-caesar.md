@@ -12,17 +12,19 @@ banner: /assets/img/shows/2021.03/julius-caesar/banner.png
 
 **Date:** {%include ts.html ts=page.times.start t="dt" %} (US Eastern Time)
 
-Worlds Elsewhere Theatre Company Presents: *Julius Caesar* by William Shakespeare, Directed By Meryl Federman.
+**Friends, Romans, Netizens, lend us your ears!**
 
 It is a time of turbulence in Rome as Caesar is celebrating his victory over rival Pompey. Many are thrilled but some remain more skeptical of Caesar’s consolidation of power. How are the interests of Rome best served?
 
 Director Meryl Federman leads Worlds Elsewhere theatre company in Shakespeare's Julius Caesar. Genderblind casting and "timeless" styling prompt us to take a fresh look at the responsibilities of those who hold power in a society.
 
-[<i yt>Watch it on Youtube!</i>][yt-stream]  
+[<i yt>Watch it on Youtube!</i>][yt-stream] \
+[<i fb>RSVP on the Facebook Event!</i>][fb] \
 [<i bpt>Support us by buying a ticket</i>][tickets]
 
 [yt-stream]: https://youtu.be/xBNeTVqyiiM "Watch the stream here!"
 [tickets]: <https://www.brownpapertickets.com/event/5092806> "Tickets available through Brown Paper Tickets!"
+[fb]: <https://www.facebook.com/events/351848592577663/> "Julius Caesar event on Facebook!"
 
 ---
 
@@ -71,7 +73,7 @@ We understand if you, like many people, are not in a position to offer your fina
 
 #### ACT I
 
-It is a time of turbulence in Rome as Caesar is celebrating his victory over rival Pompey.  The people are thrilled, but tribunes Flavius and Marullus, as members of the political establishment, are more skeptical of Caesar’s consolidation of power. At the celebration, Caesar declines to heed a Soothsayer’s warning about the swiftly approaching Ides of March. Senator Caius Cassius, livid over Caesar’s ascendance, approaches close friend and fellow Senator Marcus Brutus, to see if he shares this anxiety - Brutus does, and Cassius all but asks Brutus to join an assassination plot. The night before the Ides of March, a supernaturally-charged storm batters Rome as the conspirators gather at Brutus’ house to plan their attack. They decide to kill Caesar in the Senate, but decline to pursue Caesar’s allies, including Mark Antony. After the group leaves, Brutus’ wife Portia demands to know what Brutus is doing, but he is interrupted by the arrival of another conspirator before he can tell her. The next morning, Caesar’s wife Calpurnia almost convinces her husband to not leave the house based on all the supernatural portents, but conspirator Decius Brutus re-interprets her concerns and Caesar decides to go. Despite another warning from the Soothsayer, Caesar continues to the Senate, where he is killed. Brutus is planning to explain the act to the frightened populace when Antony arrives and asks for a chance to speak at Caesar’s funeral. Brutus agrees despite Cassius’ objections, saying that having Antony involved in this event will make it more effective. Brutus speaks to the crowd about why he killed Caesar, apparently convincing them that the assassination was justified. Antony then speaks to the crowd and aggressively turns the tables, riling them into a vengeful rage. The conspirators are run out of Rome.
+It is a time of turbulence in Rome as Caesar is celebrating his victory over rival Pompey. The people are thrilled, but tribunes Flavius and Marullus, as members of the political establishment, are more skeptical of Caesar’s consolidation of power. At the celebration, Caesar declines to heed a Soothsayer’s warning about the swiftly approaching Ides of March. Senator Caius Cassius, livid over Caesar’s ascendance, approaches close friend and fellow Senator Marcus Brutus, to see if he shares this anxiety - Brutus does, and Cassius all but asks Brutus to join an assassination plot. The night before the Ides of March, a supernaturally-charged storm batters Rome as the conspirators gather at Brutus’ house to plan their attack. They decide to kill Caesar in the Senate, but decline to pursue Caesar’s allies, including Mark Antony. After the group leaves, Brutus’ wife Portia demands to know what Brutus is doing, but he is interrupted by the arrival of another conspirator before he can tell her. The next morning, Caesar’s wife Calpurnia almost convinces her husband to not leave the house based on all the supernatural portents, but conspirator Decius Brutus re-interprets her concerns and Caesar decides to go. Despite another warning from the Soothsayer, Caesar continues to the Senate, where he is killed. Brutus is planning to explain the act to the frightened populace when Antony arrives and asks for a chance to speak at Caesar’s funeral. Brutus agrees despite Cassius’ objections, saying that having Antony involved in this event will make it more effective. Brutus speaks to the crowd about why he killed Caesar, apparently convincing them that the assassination was justified. Antony then speaks to the crowd and aggressively turns the tables, riling them into a vengeful rage. The conspirators are run out of Rome.
 
 #### ACT II
 
@@ -89,7 +91,7 @@ Caesar’s heir Octavius has returned to Rome, now allied with Antony and Lepidu
 
 **Alexandra Vernon** (Casca; she/her) is incredibly excited to return to the Worlds Elsewhere stage. She is a New York City-based performer. She is currently the lead singer for her ukulele punk band, [<i gram>Refractory Period</i>](https://www.instagram.com/refractoryperiodtheband/). She is also debuting two new shows on YouTube next month: her own personal channel, Alex V, as well as Solar Flair, a weekly virtual variety show on YouTube Live. For more info, please check out her [<i linktree>Linktree</i>](https://linktr.ee/heyitsme_alexv).
 
-**Lucas Alifano** (Decius Brutus; he/him) has worked theatrically with The American Conservatory Theater, The Marin Theater Company, The Magic Theater, TheaterWorks, Marin Shakespeare Company, Primary Stages, Show Palace Theater, Colorado Shakespeare Festival, Ruckus Rockwell, The Ruskin Theater, The Western Stage, Sacred Fools Theater, and Shakespeare Santa Cruz, among others. He starred opposite Joan Rivers in _The Joan Rivers Theater Project_, which was performed in New York and San Francisco. TV credits include the CBS series _Ghost Whisperer: The Other Side 2_ and _The Young and the Restless_, among others. Feature credits include _The Lost Coast_ (SXSW & Venice Film Festival), _Plastic Soup_, _Detention_, and the horror thriller _Fear Not_.  Lucas is a proud member of Equity, holds an M.F.A. from The American Conservatory Theater, and is co-founder of The Unknown Artists.
+**Lucas Alifano** (Decius Brutus; he/him) has worked theatrically with The American Conservatory Theater, The Marin Theater Company, The Magic Theater, TheaterWorks, Marin Shakespeare Company, Primary Stages, Show Palace Theater, Colorado Shakespeare Festival, Ruckus Rockwell, The Ruskin Theater, The Western Stage, Sacred Fools Theater, and Shakespeare Santa Cruz, among others. He starred opposite Joan Rivers in _The Joan Rivers Theater Project_, which was performed in New York and San Francisco. TV credits include the CBS series _Ghost Whisperer: The Other Side 2_ and _The Young and the Restless_, among others. Feature credits include _The Lost Coast_ (SXSW & Venice Film Festival), _Plastic Soup_, _Detention_, and the horror thriller _Fear Not_. Lucas is a proud member of Equity, holds an M.F.A. from The American Conservatory Theater, and is co-founder of The Unknown Artists.
 
 A printer technician and aspiring voice actor originally from Michigan, **Morgan Stutler** (Metellus Cimber/Cicero/Soldier 1; he/him) moved to Richmond Virginia in early 2018 and has been happy to join Worlds Elsewhere as he works towards a proper presence online. A student of Italian swordsmanship and martial arts, a gamer, LARPer, singer, and student of history, Morgan is reachable on Twitter at [<i twitter>@MrMorphine482</i>](https://twitter.com/MrMorphine482).
 
@@ -149,11 +151,11 @@ Excited to make his Worlds Elsewhere debut, **Justin Bailey** (Soothsayer/Messen
 
 ## Company Staff
 
-Executive Director — Kyle Kallgren  
-Producer — David Kowarsky  
-Producer — Ilana Greenberg-Sud  
-Technical Director — Dodger of Zion  
-Social Media Director — Laura Varela  
+Executive Director — Kyle Kallgren \
+Producer — David Kowarsky \
+Producer — Ilana Greenberg-Sud \
+Technical Director — Dodger of Zion \
+Social Media Director — Laura Varela \
 Web Development — Adrianne Greenberg-Sud
 
 ## Audio, Music, and Image Attributions
