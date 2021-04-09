@@ -23,7 +23,7 @@ Donors who made donations before the curtain fell on A Midsummer Night's Charity
 
 **Support police abolition:** [<i ext>8toabolition.com</i>](https://www.8toabolition.com/)
 
-**Updates at:** [<i fb>fb.me/WorldsElsewhere</i>](https://facebook.com/WorldsElsewhere)
+**Updates at:** [<i fb>fb.me/WorldsElsewhere</i>](<{{ site.social.fb.url }}> "Worlds Elsewhere on Facebook")
 
 **[Support Worlds Elsewhere](/pages/support-us)** &bull; **[Contact Us](/pages/contact)**
 

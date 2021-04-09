@@ -1,8 +1,7 @@
 <footer>
-    <a href="https://fb.me/WorldsElsewhere" target=_blank title="WorldsElsewhere on Facebook"><i fb icononly>WorldsElsewhere</i></a>
-    <a href="https://youtube.com/c/WorldsElsewhereTheatreCompany" target=_blank title="WorldsElsewhereTheatreCompany on Youtube"><i yt icononly>WorldsElsewhereTheatreCompany</i></a>
-    <a href="https://instagr.am/worldselsewhere_official" target=_blank title="@worldselsewhere_official on Instagram"><i gram icononly>@worldselsewhere_official</i></a>
-    <a href="https://twitter.com/ElsewhereWorlds" target=_blank title="@ElsewhereWorlds on Twitter"><i twitter icononly>@ElsewhereWorlds</i></a>
-    <a href="https://worlds-elsewhere.us17.list-manage.com/subscribe?u=8e70862018a339ca07b0f75e6&id=55a342e060" target=_blank title="Sign up for our Newsletter"><i news icononly>Newsletter</i></a>
-    <p><small>&copy; 2021 Worlds Elsewhere Theatre Company; <a href="/attribution">Site Attributions</a></small></p>
+{% for soc in site.social %}
+  {% assign s = soc[1] %}
+  <a href="{{ s.url }}" target=_blank title="{{ s.title }}"><i {{ s.icon }} icononly>{{ s.text }}</i></a>
+{% endfor %}
+  <p><small>&copy; 2021 Worlds Elsewhere Theatre Company; <a href="/attribution">Site Attributions</a></small></p>
 </footer>

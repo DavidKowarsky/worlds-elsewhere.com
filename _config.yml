@@ -29,3 +29,12 @@ commonmark:
     - strikethrough   # ~~strikethroughs~~  <https://github.github.com/gfm/#strikethrough-extension->
     # - tasklist        # task lists ( [ ] incomplete; [x] complete ) <https://github.github.com/gfm/#task-list-items-extension->
     # - tagfilter       # Escapes "unsafe" HTML tags <https://github.github.com/gfm/#disallowed-raw-html-extension->
+
+# Shared site variables which will not be overridden. Access using `site.[x]` (e.g. `site.social.fb.url`)
+
+social:
+  fb: { url: 'https://fb.me/WorldsElsewhere', icon: 'fb', title: 'WorldsElsewhere on Facebook', text: 'fb.me/WorldsElsewhere' }
+  yt: { url: 'https://www.youtube.com/channel/UCdMpUSQDs-5P6cgmRSQbAUA', icon: 'yt', title: 'Worlds Elsewhere Theatre Company on Youtube', text: 'Worlds Elsewhere Theatre Company' }
+  gram: { url: 'https://instagr.am/worldselsewhere_official', icon: 'gram', title: '@worldselsewhere_official on Instagram', text: '@worldselsewhere_official' }
+  twitter: { url: 'https://twitter.com/ElsewhereWorlds', icon: 'twitter', title: '@ElsewhereWorlds on Twitter', text: '@ElsewhereWorlds' }
+  news: { url: 'https://worlds-elsewhere.us17.list-manage.com/subscribe?u=8e70862018a339ca07b0f75e6&id=55a342e060', icon: 'news', title: 'Sign up for our Newsletter', text: 'Newsletter' }
