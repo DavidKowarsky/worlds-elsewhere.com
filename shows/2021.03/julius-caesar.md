@@ -1,5 +1,5 @@
 ---
-title: Julius Caesar
+title: William Shakespeare's "Julius Caesar"
 times:
   start: 2021-03-20 19:00 -05:00
 banner: /assets/img/shows/2021.03/julius-caesar/banner.png
@@ -55,11 +55,11 @@ We understand if you, like many people, are not in a position to offer your fina
 - Follow us on [<i twitter>Twitter</i>][twitter] and [<i gram>Instagram</i>][instagram]!
 - Sign up for our [<i news>Newsletter</i>][newsletter]!
 
-[youtube]: <https://youtube.com/c/WorldsElsewhereTheatreCompany> "Subscribe to our Youtube Channel!"
-[facebook]: <https://fb.me/WorldsElsewhere> "Like our Facebook page!"
-[twitter]: <https://twitter.com/ElsewhereWorlds> "Follow us on Twitter!"
-[instagram]: <https://instagr.am/worldselsewhere_official> "Follow us on Instagram!"
-[newsletter]: <https://worlds-elsewhere.us17.list-manage.com/subscribe?u=8e70862018a339ca07b0f75e6&id=55a342e060> "Sign up for our newsletter!"
+[youtube]: <{{ site.social.yt.url }}> "{{ site.social.yt.title }}"
+[facebook]: <{{ site.social.fb.url }}> "{{ site.social.fb.title }}"
+[twitter]: <{{ site.social.twitter.url }}> "{{ site.social.twitter.title }}"
+[instagram]: <{{ site.social.gram.url }}> "{{ site.social.gram.title }}"
+[newsletter]: <{{ site.social.news.url }}> "{{ site.social.news.title }}"
 
 ## About This Production
 
