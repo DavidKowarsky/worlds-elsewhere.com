@@ -30,7 +30,7 @@ Check out our **[Support Us](/pages/support-us)** page for information on how yo
 
 ## Keep in Touch
 
-Worlds Elsewhere is actively seeking new productions written for the Socially Distant era of theatre. Watch this space, follow us on ([<i fb>Facebook</i>][facebook], [<i twitter>Twitter</i>][twitter], and [<i gram>Instagram</i>][instagram], subscribe to us on [<i yt>Youtube</i>][youtube], and sign up for our [<i news>newsletter</i>][newsletter] for more information about all our upcoming mainstage productions and events!
+Worlds Elsewhere is actively seeking new productions written for the Socially Distant era of theatre. Watch this space, follow us on [<i fb>Facebook</i>][facebook], [<i twitter>Twitter</i>][twitter], and [<i gram>Instagram</i>][instagram], subscribe to us on [<i yt>Youtube</i>][youtube], and sign up for our [<i news>newsletter</i>][newsletter] for more information about all our upcoming mainstage productions and events!
 
 [youtube]: <{{ site.social.yt.url }}> "{{ site.social.yt.title }}"
 [facebook]: <{{ site.social.fb.url }}> "{{ site.social.fb.title }}"
