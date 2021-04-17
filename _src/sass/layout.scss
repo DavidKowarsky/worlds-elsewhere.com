@@ -185,10 +185,21 @@ i, time {
     &[tumblr]::before { background-image: url('/assets/img/i/brand/tumblr.svg'); }
     &[twitch]::before { background-image: url('/assets/img/i/brand/twitch.svg'); }
     &[twitter]::before { background-image: url('/assets/img/i/brand/twitter.svg'); }
-    &[wp]::before { background-image: url('/assets/img/i/brand/wordpress.svg');}
+    &[wp]::before { background-image: url('/assets/img/i/brand/wordpress.svg'); }
     &[yt]::before { background-image: url('/assets/img/i/brand/youtube.svg'); }
 
+    // We don't use an actual BPT logo because their logos aren't usable as a flat square icon at small sizes.
+    &[bpt], &[ticket] { &::before { background-image: url('/assets/img/i/ticket.svg'); } }
+    // We also use a simple upside-down 5-pointed star graphic of Nebula's logo because theirs isn't a flat icon.
+    &[nebula]::before { background-image: url('/assets/img/i/brand/nebula.svg'); }
+    &[backstage]::before { background-image: url('/assets/img/i/brand/backstage.svg'); }
+    &[linktree]::before { background-image: url('/assets/img/i/brand/linktree.svg'); }
+    &[carrd]::before { background-image: url('/assets/img/i/brand/carrd.svg'); }
+    &[linkedin]::before { background-image: url('/assets/img/i/brand/linkedin.svg'); }
+
+    &[public]::before { background-image: url('/assets/img/i/brand/public.svg'); }
     &[cc]::before { background-image: url('/assets/img/i/brand/cc.svg'); }
+    &[cal]::before { background-image: url('/assets/img/i/cal.svg'); }
     &[email]::before { background-image: url('/assets/img/i/email.svg'); }
     &[ext]::before { background-image: url('/assets/img/i/ext.svg'); }
     &[info]::before { background-image: url('/assets/img/i/info.svg'); }
