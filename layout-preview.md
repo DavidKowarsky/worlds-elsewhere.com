@@ -10,26 +10,25 @@ It is a test so that I can see what various elements will look like.
 
 ## Markdown: Syntax
 
-*   [Overview](#overview)
-    *   [Philosophy](#philosophy)
-    *   [Inline HTML](#html)
-    *   [Automatic Escaping for Special Characters](#autoescape)
-*   [Block Elements](#block)
-    *   [Paragraphs and Line Breaks](#p)
-    *   [Headers](#header)
-    *   [Blockquotes](#blockquote)
-    *   [Lists](#list)
-    *   [Code Blocks](#precode)
-    *   [Horizontal Rules](#hr)
-*   [Span Elements](#span)
-    *   [Links](#link)
-    *   [Emphasis](#em)
-    *   [Code](#code)
-    *   [Images](#img)
-*   [Miscellaneous](#misc)
-    *   [Backslash Escapes](#backslash)
-    *   [Automatic Links](#autolink)
-
+* [Overview](#overview)
+  * [Philosophy](#philosophy)
+  * [Inline HTML](#html)
+  * [Automatic Escaping for Special Characters](#autoescape)
+* [Block Elements](#block)
+  * [Paragraphs and Line Breaks](#p)
+  * [Headers](#header)
+  * [Blockquotes](#blockquote)
+  * [Lists](#list)
+  * [Code Blocks](#precode)
+  * [Horizontal Rules](#hr)
+* [Span Elements](#span)
+  * [Links](#link)
+  * [Emphasis](#em)
+  * [Code](#code)
+  * [Images](#img)
+* [Miscellaneous](#misc)
+  * [Backslash Escapes](#backslash)
+  * [Automatic Links](#autolink)
 
 **Note:** This document is itself written using Markdown; the source for it may be found [at the worlds-elsewhere git repository](https://git.io/worlds-elsewhere/). Its original source is from [mxstbr/markdown-test-file on Github](https://github.com/mxstbr/markdown-test-file).
 
@@ -77,7 +76,6 @@ closing hashes don't even need to match the number of hashes
 used to open the header. (The number of opening hashes
 determines the header level.)
 
-
 ### Blockquotes
 
 Markdown uses email-style `>` characters for blockquoting. If you're
@@ -114,10 +112,10 @@ adding additional levels of `>`:
 Blockquotes can contain other Markdown elements, including headers, lists,
 and code blocks:
 
-> ## This is a header.
+> ## This is a header
 >
-> 1.   This is the first list item.
-> 2.   This is the second list item.
+> 1. This is the first list item.
+> 2. This is the second list item.
 >
 > Here's some example code:
 >
@@ -127,7 +125,6 @@ Any decent text editor should make email-style quoting easy. For
 example, with BBEdit, you can make a selection and choose Increase
 Quote Level from the Text menu.
 
-
 ### Lists
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
@@ -135,27 +132,27 @@ Markdown supports ordered (numbered) and unordered (bulleted) lists.
 Unordered lists use asterisks, pluses, and hyphens -- interchangably
 -- as list markers:
 
-*   Red
-*   Green
-*   Blue
+* Red
+* Green
+* Blue
 
 is equivalent to:
 
-+   Red
-+   Green
-+   Blue
+* Red
+* Green
+* Blue
 
 and:
 
--   Red
--   Green
--   Blue
+* Red
+* Green
+* Blue
 
 Ordered lists use numbers followed by periods:
 
-1.  Bird
-2.  McHale
-3.  Parish
+1. Bird
+2. McHale
+3. Parish
 
 It's important to note that the actual numbers you use to mark the
 list have no effect on the HTML output Markdown produces. The HTML
@@ -163,9 +160,9 @@ Markdown produces from the above list is:
 
 If you instead wrote the list in Markdown like this:
 
-1.  Bird
-1.  McHale
-1.  Parish
+1. Bird
+1. McHale
+1. Parish
 
 or even:
 
@@ -180,25 +177,25 @@ But if you want to be lazy, you don't have to.
 
 To make lists look nice, you can wrap items with hanging indents:
 
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
     Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
     viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+* Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
     Suspendisse id sem consectetuer libero luctus adipiscing.
 
 But if you want to be lazy, you don't have to:
 
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
 viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+* Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.
 
 List items may consist of multiple paragraphs. Each subsequent
 paragraph in a list item must be indented by either 4 spaces
 or one tab:
 
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
+1. This is a list item with two paragraphs. Lorem ipsum dolor
     sit amet, consectetuer adipiscing elit. Aliquam hendrerit
     mi posuere lectus.
 
@@ -206,24 +203,24 @@ or one tab:
     vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
     sit amet velit.
 
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+2. Suspendisse id sem consectetuer libero luctus adipiscing.
 
 It looks nice if you indent every line of the subsequent
 paragraphs, but here again, Markdown will allow you to be
 lazy:
 
-*   This is a list item with two paragraphs.
+* This is a list item with two paragraphs.
 
     This is the second paragraph in the list item. You're
 only required to indent the first line. Lorem ipsum dolor
 sit amet, consectetuer adipiscing elit.
 
-*   Another item in the same list.
+* Another item in the same list.
 
 To put a blockquote within a list item, the blockquote's `>`
 delimiters need to be indented:
 
-*   A list item with a blockquote:
+* A list item with a blockquote:
 
     > This is a blockquote
     > inside a list item.
@@ -231,7 +228,7 @@ delimiters need to be indented:
 To put a code block within a list item, the code block needs
 to be indented *twice* -- 8 spaces or two tabs:
 
-*   A list item with a code block:
+* A list item with a code block:
 
         <code goes here>
 
