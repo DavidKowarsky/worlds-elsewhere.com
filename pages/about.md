@@ -9,3 +9,7 @@ Our first production was a fundraising production, which peaked at over 350 simu
 Worlds Elsewhere is committed to producing at least one show per year with a charitable focus.
 
 Worlds Elsewhere’s legal startup costs and the bulk of its second year operations were funded by the generosity of contributors to our [Founding Backers](./founding-backers).
+
+## Work With Us
+
+If you're interested in joining our talented staff, crew, or performer repertory, please take a look at our [open postings](./work-with-us).
