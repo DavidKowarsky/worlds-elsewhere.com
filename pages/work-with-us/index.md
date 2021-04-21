@@ -8,8 +8,6 @@ Worlds Elsewhere Theatre Company is always looking for new talent and expertise 
 
 Sign up for our [newsletter] for the earliest announcement for cast/crew calls and open audition announcements.
 
-- [Producer](./producer), 2021 Summer Charity Stream.
-
 ## Current Open Staff Positions
 
 Sign up for our [newsletter] for the earliest announcement for open staff positions.
