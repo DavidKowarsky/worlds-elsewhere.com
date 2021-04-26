@@ -11,3 +11,5 @@ Sign up for our [newsletter] for the earliest announcement for cast/crew calls a
 ## Current Open Staff Positions
 
 Sign up for our [newsletter] for the earliest announcement for open staff positions.
+
+- [Social Media Assistant](./social-media-assistant), permanent position.
