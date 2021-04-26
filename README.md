@@ -18,7 +18,9 @@ Of note, the following files:
 
 ## Running the site locally
 
-To run this site locally, you can install [Jekyll for Github-Pages](https://jekyllrb.com) through Ruby and Bundler.
+If you haven't already, [download and install Ruby](https://www.ruby-lang.org/en/downloads/).
+
+To run this site locally, you can install [Jekyll for Github-Pages](https://jekyllrb.com) through RubyGems and Bundler.
 
 ```bash
 gem install jekyll bundler
@@ -32,5 +34,3 @@ bundle exec jekyll serve
 ```
 
 At this point you can visit your now-running server on [localhost:4000](http://localhost:4000).
-
-To get Ruby and Gem on your machine,
