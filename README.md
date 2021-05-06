@@ -1,8 +1,8 @@
 # Worlds Elsewhere Theatre Company Website
 
-This is a site made to promote the [Worlds Elsewhere Theatre Company](https://worlds-elsewhere.com). Unless specified, all content within is wholely owned by the company and its Executive Director, Kyle Kallgren, :copyright: 2020.
+This is a site made to promote the [Worlds Elsewhere Theatre Company](https://worlds-elsewhere.com). Unless specified, all content within is wholely owned by the company, :copyright: 2021.
 
-It was hastily put together by [Adrianne Greenberg-Sud](https://pigsflew.com), and utilizes the Jeckyll theme engine.
+It was built by [Adrianne Greenberg-Sud](https://pigsflew.com), utilizing the Jeckyll theme engine for Github Pages.
 
 The current theme of the website is `vernon-zero`, originally created for Worlds Elsewhere by [Alex Vernon](https://github.com/Alexandra-Vernon/).
 
