@@ -1,12 +1,28 @@
 # Past Productions
 
+## 2021 Performances
+
+## [**William Shakespeare's *Julius Caesar***][2021.03-program]
+
+[![Julius Caesar Banner](/assets/img/shows/2021.03/julius-caesar/banner.png)][2021.03-program] \
+**[Program][2021.03-program] &bull; [<i yt>Youtube Video-on-Demand</i>][2021.03-stream]
+
+Friends, Romans, Netizens, lend us your ears!
+
+It is a time of turbulence in Rome as Caesar is celebrating his victory over rival Pompey. Many are thrilled but some remain more skeptical of Caesar’s consolidation of power. How are the interests of Rome best served?
+
+Director Meryl Federman leads Worlds Elsewhere theatre company in William Shakespeare's _Julius Caesar_. Genderblind casting and "timeless" styling prompt us to take a fresh look at the responsibilities of those who hold power in a society.
+
+[2021.03-program]: </shows/2021.03/julius-caesar> "View the Program here!"
+[2021.03-stream]: <https://youtu.be/xBNeTVqyiiM> "Watch the stream here!"
+
 ## 2020 Performances
 
 ### [A Winter Cabaret][2020.12-program]
 
 [![A Winter Cabaret Banner](/assets/img/shows/2020.12/winter-cabaret/banner.png)][2020.12-program]
 
-**[Program][2020.12-program]** &bull; [<i yt>Youtube Stream</i>][2020.12-stream]
+**[Program][2020.12-program]** &bull; [<i yt>Youtube Video-on-Demand</i>][2020.12-stream]
 
 Join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue and more as a celebration for making it through a very long and difficult year.
 
@@ -19,7 +35,7 @@ Join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue an
 
 [![Lysistrata Banner](/assets/img/shows/2020.10/lysistrata/banner.png)][2020.10-program]
 
-**[Program][2020.10-program]** &bull; [<i yt>Announcement Video</i>][2020.10-promo] &bull; [<i yt>Youtube Stream</i>][2020.10-stream]
+**[Program][2020.10-program]** &bull; [<i yt>Announcement Video</i>][2020.10-promo] &bull; [<i yt>Youtube Video-on-Demand</i>][2020.10-stream]
 
 Worlds Elsewhere Theatre Company Presents: *Lysistrata* by Aristophanes, Translated by George Theodoridis, Directed By Ilana Greenberg-Sud.
 
@@ -37,7 +53,7 @@ In a socially distant, modern-dress presentation of Aristophanes’ classic come
 
 [![A Midsummer Night's Charity Stream Banner](/assets/img/shows/2020.06/midsummer/banner.jpg)][2020.06-program]
 
-**[Program][2020.06-program]** &bull; [<i yt>Announcement Video</i>][2020.06-promo] &bull; [<i yt>Youtube Stream</i>][2020.06-stream]
+**[Program][2020.06-program]** &bull; [<i yt>Announcement Video</i>][2020.06-promo] &bull; [<i yt>Youtube Video-on-Demand</i>][2020.06-stream]
 
 On Jun 20th, 2020, In support of Black Lives Matter, #8toAbolish, and community bail funds across the country, the Worlds Elsewhere Theatre Company hosted a charity drive as its first production&mdash;a full live-streamed performance of William Shakespeare's comic masterpiece *A Midsummer Night's Dream*.
 
