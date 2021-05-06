@@ -10,9 +10,8 @@ This position’s duties will include:
 
 * Expand on and execute the calendar and plan of action developed by our Social Media Director (to whom you will report)
   * 3-5 posts weekly across our social channels (Instagram, Facebook, Twitter, YouTube) and spend some time fielding/engaging with comments.
-* Develop and write monthly newsletter content: “What’s new with WE”, “Cast Spotlight”, “Upcoming Productions”, “Interview With...”, etc
 * Engage with content in the online theatre and social justice communities that further our brand voice and mission across the same channels
-* Identify ideal content for paid promotion on Facebook and boost posts as appropriate
+* Contribute to developing content suitable for paid promotion on Facebook
 
 ## Our Ideal Candidate
 
