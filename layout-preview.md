@@ -8,6 +8,58 @@ This is a layout preview page for the Vernon Zero template.
 
 It is a test so that I can see what various elements will look like.
 
+## Site-Specific Elements
+
+Several components have been developed specifically for use on worlds-elsewhere.com. These may be [`includes`](https://jekyllrb.com/docs/includes/), or may be specifically themed HTML5 entities.
+
+### Timestamp Template Include
+
+Date/time in content should be referenced using the Timestamp template include, `ts.html`. It will format the timestamp, and output the desired part in an encapsulating `<time>` HTML5 element, rendered with a calendar icon next to it.
+
+**Arguments:**
+: `ts`
+; The timestamp, formatted for [Liquid `date` filter](https://shopify.github.io/liquid/filters/date/).
+: `t`
+; The human-readable output type if using the site default formatting; this is a string including `d` for Date, `t` for Time, `z` for timezone.
+: `fmt`
+; The human-readable format string in [`strftime`](http://strftime.net/) format.
+
+
+**Examples**
+- Date only, default format: {% include ts.html ts="2021/04/20 19:00 -0400" t="d" %}
+- Date and time, default format: {% include ts.html ts="2021/04/20 19:00 -0400" t="dt" %}
+- Date and time with timezone, default format: {% include ts.html ts="2021/04/20 19:00 -0400" t="dtz" %}
+- Specified format in ISO-8601 (`%Y-%m-%d`): {% include ts.html ts="2021/04/20 19:00 -0400" fmt="%Y-%m-%d" %}
+
+### Icons
+
+The HTML5 [`&lt;i&gt;` tag](https://www.w3schools.com/tags/tag_i.asp) is styled specifically for our use.
+
+### Focus Aside
+
+The `<aside>` element has been styled when used with a `focus` parameter, for notes and information which need to stand out. This is a somewhat nonstandard usage of the element.
+
+**Example HTML/Markdown:**
+```html
+<aside focus>
+
+<h5><i info icononly></i> This is an aside!</h5>
+
+The aside content goes here. **Markdown** can be used, so long as the enclosing HTML tags are separated from the content with blank lines.
+
+</aside>
+```
+
+**Rendered Example:**
+
+<aside focus>
+
+<h5><i info icononly></i> This is an aside!</h5>
+
+The aside content goes here. **Markdown** can be used, so long as the enclosing HTML tags are separated from the content with blank lines.
+
+</aside>
+
 ## Markdown: Syntax
 
 * [Overview](#overview)
