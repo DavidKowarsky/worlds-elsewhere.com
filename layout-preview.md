@@ -33,7 +33,10 @@ Date/time in content should be referenced using the Timestamp template include, 
 
 ### Icons
 
-The HTML5 [`&lt;i&gt;` tag](https://www.w3schools.com/tags/tag_i.asp) is styled specifically for our use.
+The HTML5 [`<i>` tag](https://www.w3schools.com/tags/tag_i.asp) is styled specifically for our use, to style the enclosed text with an icon, or to place an icon on its own.
+
+**Examples:**
+- The defaul
 
 ### Focus Aside
 
