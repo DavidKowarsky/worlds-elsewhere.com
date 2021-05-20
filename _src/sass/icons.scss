@@ -15,7 +15,7 @@ i, time {
         transition: all .25s;
     }
 
-    &:empty {
+    &:empty, &[icononly] {
         display: inline-block;
         vertical-align: top;
         margin-top: -0.15em;
@@ -61,4 +61,11 @@ i, time {
 a i::before { background-image: url('/assets/img/i/ext.svg'); }
 time::before { background-image: url('/assets/img/i/cal.svg'); }
 
+i[btn], i[cta], time[cta] {
+    &::before {
+        margin-right: 0.3em;
+        opacity: 1;
+        filter: invert(1);
+    }
+}
 a i:hover { opacity: .8; }
