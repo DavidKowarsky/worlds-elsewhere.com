@@ -1,19 +1,3 @@
----
-times:
-  audition:
-    start: 2021-05-24 08:00 -05:00
-    end: 2021-06-10 08:00 -05:00
-  office:
-    start: 2021-06-10 08:00 -05:00
-    end: 2021-06-10 08:00 -05:00
-  rehearsal:
-    start: 2021-06-10 08:00 -05:00
-    end: 2021-06-10 08:00 -05:00
-  deadline: 2021-06-10 08:00 -05:00
-
-  perfend: 2021-01-30 20:00 -05:00
-  end: 2021-01-30 22:00 -05:00
----
 # **Cast Call: 2021 Summer Cabaret Show Auditions**
 
 **Worlds Elsewhere Theatre Company** is now auditioning for its **2021 Summer Cabaret Show**! The show will be livestreamed, with Pay-What-You-Can tickets, with a suggested donation of $15, hosted on Youtube.com in early July. The show will include a mix of pre-recorded and live performances, with live MCs hosting the event.
