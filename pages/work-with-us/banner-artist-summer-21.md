@@ -1,6 +1,6 @@
-# **Staff Call: Summer 2021 Cabaret Banner Artist**
+# **Staff Call: 2021 Summer Cabaret Banner Artist**
 
-**Worlds Elsewhere Theatre Company** is looking to make a **paid commission** for Banner Art assets for our Summer 2021 Cabaret Show.
+**Worlds Elsewhere Theatre Company** is looking to make a **paid commission** for Banner Art assets for our Summer 2021 Summer Cabaret show.
 
 ## Theme: Summer and Renewal
 

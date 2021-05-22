@@ -8,8 +8,8 @@ Worlds Elsewhere Theatre Company is always looking for new talent and expertise 
 
 Sign up for our [<i news>Newsletter</i>][newsletter] for the earliest announcement for cast/crew calls and open audition announcements.
 
-- We're holding open auditions for our [Summer 2021 Cabaret Show](./auditions-summer-21), with guaranteed payment and revenue sharing for performers and MCs.
-- We're looking to commissioning a [Banner Artist](./banner-artist-summer-21) for our Summer 2021 Cabaret show,
+- We're holding open auditions for our [2021 Summer Cabaret show](./auditions-summer-21), with guaranteed payment and revenue sharing for performers and MCs.
+- We're looking to commissioning a [Banner Artist](./banner-artist-summer-21) for our 2021 Summer Cabaret show, with commission rate negotiable.
 
 ## Current Open Staff Positions
 
