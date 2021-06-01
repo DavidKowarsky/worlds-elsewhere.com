@@ -19,7 +19,8 @@
             "small",
             "time",
             "u",
-            "video"
+            "video",
+            "nav"
         ]
     },
     "single-trailing-newline": false,

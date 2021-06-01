@@ -1,8 +1,22 @@
 # Worlds Elsewhere Theatre Company
 
-## Upcoming Performances
+## Upcoming Performance: 2021 Summer Cabaret
 
-Worlds Elsewhere Theatre Company's next show is in planning, and has not yet been announced. Make sure to follow us on social media or subscribe to our [<i news>newsletter</i>][newsletter] to be among the first to know!
+Our next performance is our upcoming **2021 Summer Cabaret**, to be livestreamed on {%include ts.html ts="2021-06-10 07:00 -05:00" fmt="July 10th, 7pm US ET" %}! Follow us on our social media ([<i fb></i>][facebook][<i twitter></i>][twitter][<i gram></i>][instagram]) or sign up for our [<i news>Newsletter</i>][newsletter] to be among the first to find out more!
+
+<aside focus>
+
+<h3><i info></i> Calling all performers!</h3>
+
+**Worlds Elsewhere Theatre Company** is now auditioning for its 2021 Summer Cabaret show! This will be a livestreamed performance, with Pay-What-You-Can tickets, with a suggested donation of $15, hosted on Youtube.com in early July. Whether you've seen or performed in our [previous shows](./pages/past-productions.md) or are just finding out about us now and want to get involved, we want to hear from you!
+
+<nav>
+
+[<i theatre cta>Check the details here!</i>](./pages/work-with-us/auditions-summer-21)
+
+</nav>
+
+</aside>
 
 ## Support Us
 

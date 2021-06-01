@@ -39,6 +39,7 @@ The following icon files used in our markup are used under [<i cc>CC-BY-4.0</i>]
 * [<i info>info.svg</i>](/assets/img/i/info.svg): info-circle, Retrieved 2021/01/21
 * [<i news>newsletter.svg</i>](/assets/img/i/newsletter.svg): paper-plane, Retrieved 2020/12/04
 * [<i pod>podcast.svg</i>](/assets/img/i/podcast.svg): podcast, Retrieved 2020/12/04
+* [<i theatre>theatre.svg</i>](/assets/img/i/theatre.svg): theater-masks, Retrieved 2021/05/21
 * [<i ticket>ticket.svg</i>](/assets/img/i/ticket.svg): ticket-alt, Retrieved 2021/04/16
 * [<i warn>warn.svg</i>](/assets/img/i/warn.svg): exclamation-triangle, Retrieved 2021/04/16
 

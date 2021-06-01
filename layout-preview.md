@@ -36,30 +36,45 @@ Date/time in content should be referenced using the Timestamp template include, 
 The HTML5 [`<i>` tag](https://www.w3schools.com/tags/tag_i.asp) is styled specifically for our use, to style the enclosed text with an icon, or to place an icon on its own.
 
 **Examples:**
-- The defaul
+- The default `<i>` is `info`,<i>like so</i>.
+- The default for links is `ext`, [<i>like so</i>](./).
+- Social icons like <i twitter>twitter</i>, <i fb>facebook</i>, <i yt>youtube</i>, etc are set up.
+- For a full list of all icons in the system, see [Attributions](./attribution).
+
+### Buttons
+
+Button elements are themed, as well as elements with the classes/bare attributes `btn`, `cta`, or `submit`. You can further define their sizing by applying the `sm`, `md`, and `lg` classes.
+
+**Examples:**
+
+<i cta>&lt;i cta&gt;</i>
+
+<i cta sm>&lt;i cta sm&gt;</i>
+
+<i cta md>&lt;i cta md&gt;</i>
+
+<i cta lg>&lt;i cta lg&gt;</i>
 
 ### Focus Aside
 
 The `<aside>` element has been styled when used with a `focus` parameter, for notes and information which need to stand out. This is a somewhat nonstandard usage of the element.
 
-**Example HTML/Markdown:**
-```html
-<aside focus>
+You can add a `<nav>` element to add centered button-style links at the bottom.
 
-<h5><i info icononly></i> This is an aside!</h5>
-
-The aside content goes here. **Markdown** can be used, so long as the enclosing HTML tags are separated from the content with blank lines.
-
-</aside>
-```
-
-**Rendered Example:**
+**Example:**
 
 <aside focus>
 
-<h5><i info icononly></i> This is an aside!</h5>
+<h5><i masks></i> This is an aside!</h5>
 
 The aside content goes here. **Markdown** can be used, so long as the enclosing HTML tags are separated from the content with blank lines.
+
+<nav>
+
+[<i cta>A CTA button</i>](./)
+[<i btn>Another</i>](./)
+
+</nav>
 
 </aside>
 
