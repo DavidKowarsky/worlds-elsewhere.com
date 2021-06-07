@@ -1,3 +1,6 @@
+---
+published: false
+---
 # **Cast Call: 2021 Summer Cabaret Auditions**
 
 **Worlds Elsewhere Theatre Company** is now auditioning for its **2021 Summer Cabaret** show! The show will be livestreamed, with Pay-What-You-Can tickets, with a suggested donation of $15, hosted on Youtube.com in early July. The show will include a mix of pre-recorded and live performances, with live MCs hosting the event.
