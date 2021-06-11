@@ -1,3 +1,6 @@
+---
+published: false
+---
 # **Staff Call: 2021 Summer Cabaret Banner Artist**
 
 **Worlds Elsewhere Theatre Company** is looking to make a **paid commission** for Banner Art assets for our Summer 2021 Summer Cabaret show.
@@ -22,8 +25,6 @@ For our usage, we will also require the following licensing constraints:
 1. The final banner design rights and files will either belong solely to Worlds Elsewhere Theatre Company, or be licensed such that rights to usage, distribution, modification, and adaptation are permitted to the Company on a permanent basis.
 2. All incorporated fonts and other assets used in the design must likewise be properly licensed for our use and reuse, including for commercial purposes.
 3. We will provide attribution to the Banner Artist in our show's program, and can and will attribute other sources as necessary.
-
-The company may negotiate reasonable limitations to modifications and adaptations on the work; the commissioned Artist will work directly with the production staff.
 
 ### Design Delivery Deadlines
 
