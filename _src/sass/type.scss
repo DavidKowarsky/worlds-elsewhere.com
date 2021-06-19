@@ -6,3 +6,19 @@ header, h1, h2, h3, h4, h5, h6 {
     font-family: 'Cinzel', Georgia, serif;
     font-variant: small-caps;
 }
+
+.lg, *[lg], em[biggen] {
+    font-size: large;
+    font-weight: bold;
+    color: #444;
+}
+
+q {
+    &::before { content: open-quote; }
+    &::after { content: close-quote; }
+
+    &[bare]{
+        &::before { content: ''; }
+        &::after { content: ''; }
+    }
+}

@@ -1,5 +1,21 @@
 # Worlds Elsewhere Theatre Company
 
+## Juneteenth 2021
+
+<aside focus>
+
+<h5><i blm></i> Worlds Elsewhere Theatre Company celebrates Juneteenth 2021</h5>
+
+In honor of Juneteenth, WETC would like to highlight Black theatres and theatre organizations around the US, who are doing the work to bring Black stories to the stage, told by Black playwrights and performed by Black artists.
+
+<nav>
+
+[<i cta>List & More Info</i>](./pages/juneteenth-2021)
+
+</nav>
+
+</aside>
+
 ## Upcoming Performance: 2021 Summer Cabaret
 
 Our next performance is our upcoming **2021 Summer Cabaret**, to be livestreamed on {%include ts.html ts="2021-06-10 07:00 -05:00" fmt="July 10th, 7pm US ET" %}! Follow us on our social media ([<i fb></i>][facebook][<i twitter></i>][twitter][<i gram></i>][instagram]) or sign up for our [<i news>Newsletter</i>][newsletter] to be among the first to find out more!

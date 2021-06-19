@@ -20,7 +20,9 @@
             "time",
             "u",
             "video",
-            "nav"
+            "nav",
+            "q",
+            "em"
         ]
     },
     "single-trailing-newline": false,

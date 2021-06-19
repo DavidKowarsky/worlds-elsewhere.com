@@ -77,6 +77,8 @@ The following icon files used for our social media links are used under [<i cc>C
   * Retrieved from <https://worldvectorlogo.com/logo/linktree-1> 2021/04/16, adapted by [<i ext>Adrianne Greenberg-Sud</i>][Pigsflew] for Worlds-Elsewhere.com as flat icon.
 * [<i nebula>nebula.svg</i>](/assets/img/i/brand/nebula.svg)
   * Created by [<i ext>Adrianne Greenberg-Sud</i>][Pigsflew] for Worlds-Elsewhere.com, an inverted five-pointed black star to mimic the shape of the logo star from watchnebula.com, which does not have available published brand assets.
+* [<i blm>raised-fist.svg</i>](/assets/img/i/raised-fist.svg)
+  * Retrieved from OpenClipart via [FreeSVG.org](https://freesvg.org/vector-image-of-raised-fist-pictogram) 2021/06/18, used under public domain.
 
 [IGG-Branding]: <https://learn.indiegogo.com/brand-asset-downloads/> "Indiegogo Brand Assets"
 [IGG-Guidelines]: https://learn.indiegogo.com/wp-content/uploads/2018/05/Indiegogo-Trademark-Usage-Guidelines.pdf "Indiegogo Trademark Usage Guidelines"

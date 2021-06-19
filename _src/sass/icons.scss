@@ -50,6 +50,7 @@ i, time {
     // We also use a simple upside-down 5-pointed star graphic of Nebula's logo because theirs isn't a flat icon.
     &[nebula]::before { background-image: url('/assets/img/i/brand/nebula.svg'); }
 
+    &[blm], &[raised-fist] { &::before { background-image: url('/assets/img/i/raised-fist.svg'); } }
     &[cal]::before { background-image: url('/assets/img/i/cal.svg'); }
     &[cc]::before { background-image: url('/assets/img/i/brand/cc.svg'); }
     &[email]::before { background-image: url('/assets/img/i/email.svg'); }
