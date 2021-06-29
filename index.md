@@ -1,5 +1,17 @@
 # Worlds Elsewhere Theatre Company
 
+## Upcoming Performance: 2021 Summer Cabaret
+
+![2021 Summer Cabaret Banner](/assets/img/shows/2021.07/summer-cabaret/banner.jpg) \
+**[<i yt>Youtube Stream</i>][2021.07-stream] &bull; {% include ts.html ts="2021-07-10 19:00 -05:00" t="dt" %}**
+
+Streaming on July 10th at 7PM US ET on YouTube, join Repertory members and newcomers as they sing, dance, monologue, and more, in a celebration of summer, renewal, and the work we still must do.
+
+Program and Donation Info coming soon!
+
+[2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
+[2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
+
 ## Juneteenth 2021
 
 <aside focus>
@@ -15,10 +27,6 @@ In honor of Juneteenth, WETC would like to highlight Black theatres and theatre 
 </nav>
 
 </aside>
-
-## Upcoming Performance: 2021 Summer Cabaret
-
-Our next performance is our upcoming **2021 Summer Cabaret**, to be livestreamed on {%include ts.html ts="2021-06-10 07:00 -05:00" fmt="July 10th, 7pm US ET" %}! Follow us on our social media ([<i fb></i>][facebook][<i twitter></i>][twitter][<i gram></i>][instagram]) or sign up for our [<i news>Newsletter</i>][newsletter] to be among the first to find out more!
 
 ## Support Us
 
