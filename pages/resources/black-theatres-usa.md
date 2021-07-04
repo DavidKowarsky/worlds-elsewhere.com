@@ -1,7 +1,10 @@
 ---
-title: Juneteenth 2021
+title: Black Theatre Organizations (USA)
+permalink: /resources/black-theatres-usa
+redirect_from:
+ - /pages/juneteenth-2021
 ---
-# <i blm>Worlds Elsewhere Theatre Company celebrates Juneteenth 2021</i>
+# <i blm>Black Theatres & Theatre Organization Listing (USA)</i>
 
 <q lg>We need, in every community, a group of angelic troublemakers.</q> — _Bayard Rustin_
 

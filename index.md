@@ -12,25 +12,15 @@ Program and Donation Info coming soon!
 [2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
 [2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
 
-## Juneteenth 2021
-
-<aside focus>
-
-<h5><i blm></i> Worlds Elsewhere Theatre Company celebrates Juneteenth 2021</h5>
-
-In honor of Juneteenth, WETC would like to highlight Black theatres and theatre organizations around the US, who are doing the work to bring Black stories to the stage, told by Black playwrights and performed by Black artists.
-
-<nav>
-
-[<i cta>List & More Info</i>](./pages/juneteenth-2021)
-
-</nav>
-
-</aside>
-
 ## Support Us
 
 Check out our **[Support Us](/pages/support-us)** page for information on how you can help Worlds Elsewhere!
+
+## <i blm></i> WETC Supports BLM and Black Artists
+
+Since Juneteenth 2021, Worlds Elsewhere has maintained a list of theatres and theatre organizations in the USA that bring Black stories to the stage, told by Black playwrights, performed by Black artists.
+
+[<i cta>See the List</i>](./resources/black-theatres-usa)
 
 ## Keep in Touch
 
