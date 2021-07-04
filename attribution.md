@@ -59,6 +59,7 @@ The following icon files used for our social media links are used under [<i cc>C
 * [<i patreon>patreon.svg</i>](/assets/img/i/brand/patreon.svg): brands-patreon, retrieved 2020/12/18
 * [<i public>public.svg</i>](/assets/img/i/brands/public.svg): creative-commons-pd-alt, Retrieved 2020/04/16
 * [<i spotify>spotify.svg</i>](/assets/img/i/brand/spotify.svg): brands-spotify, Retrieved 2020/12/18
+* [<i tiktok>tiktok.svg</i>](/assets/img/i/brand/tiktok.svg): brands-tiktok, Retrieved 2021/07/04
 * [<i tumblr>tumblr.svg</i>](/assets/img/i/brand/tumblr.svg): brands-tumblr, Retrieved 2020/12/04
 * [<i twitch>twitch.svg</i>](/assets/img/i/brand/twitch.svg): brands-twitch, Retrieved 2020/12/04
 * [<i twitter>twitter.svg</i>](/assets/img/i/brand/twitter.svg): brands-twitter, Retrieved 2020/12/04
