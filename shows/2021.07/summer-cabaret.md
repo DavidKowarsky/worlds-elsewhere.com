@@ -26,7 +26,7 @@ Join Repertory members and newcomers as they sing, dance, monologue, and more, i
 
 [<i yt>Watch it on Youtube!</i>][yt-stream] \
 [<i fb>RSVP on the Facebook Event!</i>][fb-event] \
-[<i bpt>Support us by buying a ticket</i>][bpt-event]
+[<i bpt>Support us by buying a ticket!</i>][bpt-event]
 
 ## Company Artistic Statement
 
