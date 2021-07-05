@@ -22,7 +22,8 @@
             "video",
             "nav",
             "q",
-            "em"
+            "em",
+            "img"
         ]
     },
     "single-trailing-newline": false,

@@ -27,20 +27,21 @@ i, time {
         white-space: nowrap;
     }
 
-    &[fb]::before { background-image: url('/assets/img/i/brand/facebook.svg'); }
-    &[gh]::before { background-image: url('/assets/img/i/brand/github.svg'); }
-    &[gram]::before { background-image: url('/assets/img/i/brand/instagram.svg'); }
-    &[igg]::before { background-image: url('/assets/img/i/brand/indiegogo.svg'); }
-    &[itchio]::before { background-image: url('/assets/img/i/brand/itch-io.svg'); }
+    &[fb], &[facebook] { &::before { background-image: url('/assets/img/i/brand/facebook.svg'); } }
+    &[gh], &[github] { &::before { background-image: url('/assets/img/i/brand/github.svg'); } }
+    &[gram], &[instagram] { &::before { background-image: url('/assets/img/i/brand/instagram.svg'); } }
+    &[igg], &[indiegogo] { &::before { background-image: url('/assets/img/i/brand/indiegogo.svg'); } }
+    &[itchio], &[itch] { &::before { background-image: url('/assets/img/i/brand/itch-io.svg'); } }
     &[masto]::before {background-image: url('/assets/img/i/brand/mastodon.svg'); }
     &[patreon]::before { background-image: url('/assets/img/i/brand/patreon.svg'); }
+    &[paypal]::before { background-image: url('/assets/img/i/brand/paypal.svg'); }
     &[spotify]::before { background-image: url('/assets/img/i/brand/spotify.svg'); }
     &[tiktok]::before { background-image: url('/assets/img/i/brand/tiktok.svg'); }
     &[tumblr]::before { background-image: url('/assets/img/i/brand/tumblr.svg'); }
     &[twitch]::before { background-image: url('/assets/img/i/brand/twitch.svg'); }
     &[twitter]::before { background-image: url('/assets/img/i/brand/twitter.svg'); }
     &[wp]::before { background-image: url('/assets/img/i/brand/wordpress.svg'); }
-    &[yt]::before { background-image: url('/assets/img/i/brand/youtube.svg'); }
+    &[yt], &[youtube] { &::before { background-image: url('/assets/img/i/brand/youtube.svg'); } }
 
     &[backstage]::before { background-image: url('/assets/img/i/brand/backstage.svg'); }
     // We don't use an actual BPT logo because their logos aren't usable as a flat square icon at small sizes.
@@ -58,7 +59,7 @@ i, time {
     &[ext]::before { background-image: url('/assets/img/i/ext.svg'); }
     &[info]::before { background-image: url('/assets/img/i/info.svg'); }
     &[news]::before { background-image: url('/assets/img/i/newsletter.svg'); }
-    &[pod]::before { background-image: url('/assets/img/i/podcast.svg'); }
+    &[pod], &[podcast] { &::before { background-image: url('/assets/img/i/podcast.svg'); } }
     &[public]::before { background-image: url('/assets/img/i/brand/public.svg'); }
     &[theatre], &[theater], &[drama], &[masks] { &::before { background-image: url('/assets/img/i/theatre.svg'); } }
     &[warn]::before { background-image: url('/assets/img/i/warn.svg'); }

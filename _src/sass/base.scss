@@ -1,12 +1,33 @@
 /* Set defaults for the whole system.
  */
+:root {
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-foreground: #333333;
+    --color-background: #D3D3D3;
+
+    --color-primary-glow: #FFF1B2;
+    --color-primary-shadow: #3C3100;
+
+    --color-primary-bright: #CEC186;
+    --color-primary-dim: #9E9159;
+    --color-primary-dark: #6D612D;
+
+    --color-secondary-glow: #9168FF;
+    --color-secondary-shadow: #1F003C;
+
+    --color-secondary-bright: #754ECE;
+    --color-secondary-dim: #58349E;
+    --color-secondary-dark: #3C1A6D;
+}
+
 html {
     font-size: 16px; // 1 REM = 16px
 }
 body {
-    background-color: #d3d3d3;
+    background-color: var(--color-background);
+    color: var(--color-foreground);
     font-family: inherit;
-    color: #333;
 }
 h2, h3, h4, h6 {
     font-weight: 900;
@@ -33,17 +54,17 @@ h6 {
 }
 a {
     font-weight: 600;
-	color: #ab983d;
-	text-decoration: none;
+    color: var(--color-primary-dim);
+    text-decoration: none;
 }
 
 a:visited {
-	color: #ab983d;
-	text-decoration: none;
+    color: var(--color-primary-dim);
+    text-decoration: none;
 }
 
 a:hover {
-	color: #696969;
+    color: var(--color-primary-bright);
 }
 img {
     max-width: 100%;
