@@ -1,9 +1,9 @@
 # Worlds Elsewhere Theatre Company
 
-## Upcoming Performance: 2021 Summer Cabaret
+## Upcoming Performance: [2021 Summer Cabaret][2021.07-program]
 
-![2021 Summer Cabaret Banner](/assets/img/shows/2021.07/summer-cabaret/banner.jpg) \
-**[<i yt>Youtube Stream</i>][2021.07-stream] &bull; {% include ts.html ts="2021-07-10 19:00 -05:00" t="dt" %}**
+[![2021 Summer Cabaret Banner](/assets/img/shows/2021.07/summer-cabaret/banner.jpg)][2021.07-program] \
+[Program][2021.07-program] &bull; **[<i yt>Youtube Stream</i>][2021.07-stream] &bull; {% include ts.html ts="2021-07-10 19:00 -05:00" t="dt" %}**
 
 Streaming on July 10th at 7PM US ET on YouTube, join Repertory members and newcomers as they sing, dance, monologue, and more, in a celebration of summer, renewal, and the work we still must do.
 
