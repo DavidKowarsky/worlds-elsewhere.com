@@ -212,8 +212,14 @@ Web Development - Adrianne Greenberg-Sud
   All under FilmMusic.io [<i ext>Standard license</i>](<https://filmmusic.io/standard-license> "External Link to Site: filmmusic.io")
 
 * Sam’s backing track created using [<i ext>Sheet Music Scanner</i>](<https://sheetmusicscanner.com/> "External Link to Site: sheetmusicscanner.com")
+* Music used for River Lane's performance:
+  * "The Ants Built A City On His Chest" by Doctor Turtle, used under [CC-BY-4.0]
+  * "Space" by Andy G. Cohen, used under [CC-BY-4.0]
+  * "Suicide is Painless" (Theme Song from M\*A\*S\*H) by Johnny Mandel, protected under [Fair use][fair-use].
 
 MORE ATTRIBUTIONS COMING SOON
 
 [zapsplat-license]: <https://zapsplat.com/license-type/standard-license/> "Zapsplat Standard License"
 [filmmusic-license]: <https://filmmusic.io/standard-license> "Simplified Filmmusic.io Standard License"
+[CC-BY-4.0]: <https://creativecommons.org/licenses/by/4.0/legalcode> "Attribution 4.0 International License on CreativeCommons.org"
+[fair-use]: <https://www.copyright.gov/title17/92chap1.html#107> "Fair use clause under Title 17 Section 107, copyright.gov"
