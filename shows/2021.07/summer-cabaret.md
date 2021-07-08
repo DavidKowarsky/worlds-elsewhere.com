@@ -6,7 +6,7 @@ banner: /assets/img/shows/2021.07/summer-cabaret/banner.png
 yt-id: KZGvGEQI3yw
 links:
     fb: https://facebook.com/events/351848592577663/
-    bpt: https://brownpapertickets.com/event/5092806
+    bpt: https://brownpapertickets.com/event/5161120
     paypal: https://paypal.com/donate?token=dDdwybFTXl7vPvLvYgRspDZB7GSyC7gL2COONudV3o308o8lozq6kNADKJjnsGA1Cpk02uTWfb-UD2rx
 ---
 # Worlds Elsewhere Theatre Company Presents:<br>**[<i yt>{{page.title}}</i>][yt-stream]**

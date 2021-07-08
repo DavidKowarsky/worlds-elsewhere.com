@@ -12,8 +12,8 @@ Streaming on July 10th at 7PM US ET on YouTube, join Repertory members and newco
 
 [2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
 [2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
-[2021.07-bpt]: <https://www.brownpapertickets.com/event/5092806> "Tickets available through Brown Paper Tickets!"
-[2021.07-fb]: <https://www.facebook.com/events/351848592577663/> "{{page.title}} event on Facebook!"
+[2021.07-bpt]: <https://brownpapertickets.com/event/5161120> "Tickets available through Brown Paper Tickets!"
+[2021.07-fb]: <https://facebook.com/events/351848592577663/> "{{page.title}} event on Facebook!"
 
 ## Support Us
 
