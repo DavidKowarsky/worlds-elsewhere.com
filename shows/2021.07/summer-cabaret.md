@@ -106,7 +106,7 @@ Join us as over 20 performers, both newcomers and veterans alike, present an arr
   * "Top of the World" - Denis Mullan (he/him)
     * song from _Tuck Everlasting_, lyrics by Nathan Tysen, music by Chris Miller, editing by Henry Kathman
   * "H&lt;3ME" - Katherine Rose Turbes
-    * written and edited by Katherine Rose Turbes
+    * written by Katherine Rose Turbes, editing by Katherine Rose Turbes and Kyle Kallgren
   * "Take Care" - Hannah Moran
     * music and lyrics by Hannah Moran
   * "The Secret of Happiness" - Kimmi Neuschulz
