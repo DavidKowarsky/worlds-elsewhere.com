@@ -165,7 +165,7 @@ Rosemarie Wilson a.k.a. **One Single Rose** (“Bag Lady”; she/her) is an awar
 
 **Ryan Ossum** (“League of Swords”; he/him) - As an avid fighting game enthusiast, once word of League of Swords was brought to his attention, he asked to get in. Nay, he DEMANDED to get in. He may have begged and pleaded, and perhaps there were some tears. Either way, now he is in, and that is your problem now. A charity streamer for [<i ext>Child's Play</i>](<https://childsplaycharity.org> "External Link to Site: childsplaycharity.org") and the Suicide Prevention Hotline, he takes his role of being "the bad guy for the good cause" seriously, by referring to all of his followers as Henchpeople. You can be a part of it someday when he decides to stream at [<i twitch>VillainForACause on Twitch</i>](<http://twitch.tv/VillainForACause> "VillainForACause on twitch.tv").
 
-**Sriram Kanduri** (“Moving Too Fast”; he/him) BIO COMING SOON
+**Sriram Kanduri** (“Moving Too Fast”; he/him) just graduated from The American Musical and Dramatic Academy and is excited to show the world everything he has learned. This is his first show since then and is ready for the journey of a Theatre Major. He would like to thanks his family and friends for supporting him through the years and keeping him strong. Instagram: [<i instagram>Sriram_Kan_Do</i>](<https://instagram.com/Sriram_Kan_Do> "Sriram_Kan_Do on instagram.com").
 
 New York Taiwanese artist **Yanzi Ding** (“Down By the Salley Gardens”; she/her) is a bilingual actor and writer, but she just loves to sing. As an immigrant actor here in the United States, Ms. Ding has led two feature films and two Off-Broadway plays in NYC; as a writer, her screenplays have won the reputable film festivals around the world, and her stage works have world-premiered in New York East Broadway theater, main Chinese press in the East Coast, and Museum of Chinese in America (MOCA). OK seriously, animals and veggie are her true career. [<i ext>yanziding.com</i>](<https://yanziding.com/> "External Link to Site: yanziding.com"), [<i gram>yanziding2222 on Instagram</i>](<https://instagram.com/yanziding2222/> "yanziding2222 on instagram.com").
 
@@ -179,11 +179,9 @@ New York Taiwanese artist **Yanzi Ding** (“Down By the Salley Gardens”; she/
 
 **Justin Bailey** (Assistant Producer; he/him) made his Worlds Elsewhere debut in _Julius Caesar_ (Soothsayer); he has never been afraid to try something new just because he’s never done it before. That’s what makes it new, right? The majority of his previous acting has been volunteer or hobby-based, the most prominent of which being a crew member of Haunted Overload in New Hampshire, which he has done off and on for over a decade. Special thanks to Marjorie Mersereau, for helping give him the acting bug in the first place.
 
-**Dodger of Zion**’s (Technical Director; she/her) last technical work was for Worlds Elsewhere’s _Julius Caesar_. She is also responsible for the spawning of the “Hail the Cone” meme. She streams on [<i twitch>Twitch.tv</i>](<https://twitch.tv/dodgerofzion> "DodgerOfZion on twitch.tv"), and is the Philadelphia sports contributor to the weekly YouTube sports podcast The Dumpster Fire. When she’s not streaming or pushing buttons to bring virtual theatre to the world, she can be found playing Animal Crossing, yelling at football, and planting potatoes.
+**Adrianne Greenberg-Sud** (Technical Director, Graphic & Web Design; she/her) is a senior full stack software developer in Seattle, WA. She has been supporting Worlds Elsewhere's technological needs since the company's founding in 2020. She's very proud to offer her skills toward Worlds Elsewhere's mission &mdash; live theatre, for everyone, everywhere. She can be found via her website, [<i ext>pigsflew.com</i>](<https://pigsflew.com> "External Link to Site: pigsflew.com") and on social media as "pigsflew" on [<i twitter>Twitter</i>](<https://twitter.com/pigsflew> "@pigsflew on twitter.com"), [<i linkedin>LinkedIn</i>](<https://linkedin.com/in/pigsflew> "pigsflew on linkedin.com"), and [<i github>Github</i>](<https://github.com/pigsflew> "pigsflew on github.com").
 
 **Laura Crone** (Video Editing; she/her) is a writer, producer, host, and editor of online video based out of Los Angeles. Fans of Worlds Elsewhere may recognize her work as an editor ("Seize the Day," Donor Gala), arranger ("Are You Doing New Year's Eve," Winter Cabaret) and performer (Portia, Julius Caesar; Myrrhini, Lysistrata; Hermia, A Midsummer Night's Dream). You can find her talking about film and feelings on [<i yt>Youtube</i>](<https://youtube.com/c/lauracrone> "Laura Crone on youtube.com") and [<i nebula>Nebula</i>](<https://watchnebula.com/lauracrone> "Laura Crone on watchnebula.com"). ([<i twitter>@downwithlcc on Twitter</i>](<https://twitter.com/downwithlcc> "@downwithlcc on twitter.com"), [<i gram>thelccwontletyoube on Instagram</i>](<https://instagram.com/thelccwontletyoube> "@thelccwontletyoube on instagram.com"))
-
-**Adrianne Greenberg-Sud** (Graphic/Web Designer; she/her) is a senior full stack software developer in Seattle, WA. She has been developing the Worlds-Elsewhere.com website, and building out the company's technology as needed since the company's founding in 2020. She's very proud to offer her skills toward Worlds Elsewhere's mission &mdash; live theatre, for everyone, everywhere. She can be found via her website, [<i ext>pigsflew.com</i>](<https://pigsflew.com> "External Link to Site: pigsflew.com") and on social media as "pigsflew" on [<i twitter>Twitter</i>](<https://twitter.com/pigsflew> "@pigsflew on twitter.com"), [<i linkedin>LinkedIn</i>](<https://linkedin.com/in/pigsflew> "pigsflew on linkedin.com"), and [<i github>Github</i>](<https://github.com/pigsflew> "pigsflew on github.com").
 
 ## Company Staff
 
@@ -201,9 +199,10 @@ Web Development - Adrianne Greenberg-Sud
 * Intro/Outro Music from [<i ext>Zapsplat.com</i>](https://zapsplat.com): [<i ext>"Game music – soft, warm synth arpeggios, calming, soothing game"</i>](<https://zapsplat.com/music/game-music-soft-warm-synth-arpeggios-calming-soothing-game/> "External Link to Site: zapsplat.com"), used under [<i ext>Zapsplat's Standard License</i>][zapsplat-license].
 * Intermission Music from [<i ext>Zapsplat.com</i>](https://zapsplat.com): [<i ext>"Star Gazing – wondrous, panoramic music with a cosmic feel, slowly evolving pads and digital synth effects"</i>](<https://zapsplat.com/music/star-gazing-wondrous-panoramic-music-with-a-cosmic-feel-slowly-evolving-pads-and-digital-synth-effects/> "External Link to Site: zapsplat.com"), used under [<i ext>Zapsplat's Standard License</i>][zapsplat-license]
 * Henry’s Background Music by [<i ext>Molly Noise: Music</i>](<https://mollynoise.bandcamp.com/> "External Link to Site: mollynoise.bandcamp.com"), commissioned for use.
-* Emily and Jeff’s Backing Track: [<i youtube>SWEENEY TODD - By the Sea (KARAOKE)</i>](<https://youtu.be/_HtnK4jIafw> "SWEENEY TODD - By the Sea (KARAOKE) on youtu.be")
-* Fatima’s Backing Track: [<i youtube>The Song of Purple Summer (Accompaniment Backing Tracks)</i>](<https://youtube.com/watch?v=rsDkSBN7F38> "The Song of Purple Summer (Accompaniment Backing Tracks) on youtube.com")
-* Jacob's backing track: [<i youtube>Doin' Time (Marshall Arts Instrumental Version)</i>](https://youtube.com/watch?v=c6c-CUDqRW0 "Doin' Time (Marshall Arts Instrumental Version) on youtube.com")
+* Emily and Jeff’s Backing Track: [<i youtube>SWEENEY TODD - By the Sea (KARAOKE)</i>](<https://youtu.be/_HtnK4jIafw> "'SWEENEY TODD - By the Sea (KARAOKE)' on youtu.be")
+* Fatima’s Backing Track: [<i youtube>The Song of Purple Summer (Accompaniment Backing Tracks)</i>](<https://youtube.com/watch?v=rsDkSBN7F38> "'The Song of Purple Summer (Accompaniment Backing Tracks)' on youtube.com")
+* Jacob's backing track: [<i youtube>Doin' Time (Marshall Arts Instrumental Version)</i>](https://youtube.com/watch?v=c6c-CUDqRW0 "'Doin' Time (Marshall Arts Instrumental Version)' on youtube.com")
+* Sriram's Backing Track: [<i youtube>Moving Too Fast (Karaoke Version) - The Last Five Years</i>](<https://youtu.be/dhJR7Ffz2s8> "'Moving Too Fast (Karaoke Version) - The Last Five Years' on youtu.be")
 * Kevin’s Backing Track by [<i ext>Beckie Menzie</i>](<http://beckiemenzie.com/> "External Link to Site: beckiemenzie.com")
 * League of Swords Music:
 
@@ -215,13 +214,11 @@ Web Development - Adrianne Greenberg-Sud
 
 * Sam’s backing track created using [<i ext>Sheet Music Scanner</i>](<https://sheetmusicscanner.com/> "External Link to Site: sheetmusicscanner.com")
 * Music used for River Lane's performance:
-  * "The Ants Built A City On His Chest" by Doctor Turtle, used under [CC-BY-4.0]
-  * "Space" by Andy G. Cohen, used under [CC-BY-4.0]
-  * "Suicide is Painless" (Theme Song from M\*A\*S\*H) by Johnny Mandel, protected under [Fair use][fair-use].
-
-MORE ATTRIBUTIONS COMING SOON
+  * "The Ants Built A City On His Chest" by Doctor Turtle, used under [<i cc>CC-BY-4.0</i>][CC-BY-4.0]
+  * "Space" by Andy G. Cohen, used under [<i cc>CC-BY-4.0</i>][CC-BY-4.0]
+  * "Suicide is Painless" (Theme Song from M\*A\*S\*H) by Johnny Mandel, protected under [<i legal>Fair use</i>][fair-use].
 
 [zapsplat-license]: <https://zapsplat.com/license-type/standard-license/> "Zapsplat Standard License"
 [filmmusic-license]: <https://filmmusic.io/standard-license> "Simplified Filmmusic.io Standard License"
-[CC-BY-4.0]: <https://creativecommons.org/licenses/by/4.0/legalcode> "Attribution 4.0 International License on CreativeCommons.org"
-[fair-use]: <https://www.copyright.gov/title17/92chap1.html#107> "Fair use clause under Title 17 Section 107, copyright.gov"
+[CC-BY-4.0]: <https://creativecommons.org/licenses/by/4.0/legalcode> "Attribution 4.0 International License on creativecommons.org"
+[fair-use]: <https://www.copyright.gov/title17/92chap1.html#107> "Fair use clause under Title 17 Section 107 on copyright.gov"
