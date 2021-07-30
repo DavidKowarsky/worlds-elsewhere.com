@@ -7,13 +7,11 @@
 
 Streaming on July 10th at 7PM US ET on YouTube, join Repertory members and newcomers as they sing, dance, monologue, and more, in a celebration of summer, renewal, and the work we still must do.
 
-[<i fb>RSVP on the Facebook Event!</i>][2021.07-fb] \
-[<i bpt>Support us by buying a ticket!</i>][2021.07-bpt]
+[<i btn paypal>Donate to support future works like this on Paypal!</i>][paypal]
 
 [2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
 [2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
-[2021.07-bpt]: <https://brownpapertickets.com/event/5161120> "Tickets available through Brown Paper Tickets!"
-[2021.07-fb]: <https://facebook.com/events/351848592577663/> "{{page.title}} event on Facebook!"
+[paypal]: <https://paypal.me/worldselsewhere> "Donate to WETC on Paypal!"
 
 ## Support Us
 

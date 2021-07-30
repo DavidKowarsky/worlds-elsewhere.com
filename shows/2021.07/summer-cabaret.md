@@ -6,7 +6,6 @@ banner: /assets/img/shows/2021.07/summer-cabaret/banner.png
 yt-id: KZGvGEQI3yw
 links:
     fb: https://facebook.com/events/351848592577663/
-    bpt: https://brownpapertickets.com/event/5161120
     paypal: https://paypal.me/worldselsewhere
 ---
 # Worlds Elsewhere Theatre Company Presents:<br>**[<i yt>{{page.title}}</i>][yt-stream]**
@@ -20,13 +19,12 @@ links:
 Join Repertory members and newcomers as they sing, dance, monologue, and more, in a celebration of summer, renewal, and the work we still must do.
 
 [yt-stream]: https://youtu.be/{{page.yt-id}} "Watch the stream here!"
-[bpt-event]: <{{page.links.bpt}}> "Tickets available through Brown Paper Tickets!"
 [fb-event]: <{{page.links.fb}}> "{{page.title}} event on Facebook!"
 [paypal]: <{{page.links.paypal}}> "Donate to {{site.title}} on Paypal!"
 
 [<i yt>Watch it on Youtube!</i>][yt-stream] \
 [<i fb>RSVP on the Facebook Event!</i>][fb-event] \
-[<i bpt>Support us by buying a ticket!</i>][bpt-event]
+[<i paypal>Donate on Paypal!</i>][paypal]
 
 ## Company Artistic Statement
 
@@ -38,9 +36,7 @@ Worlds Elsewhere Theatre Company was founded during this terrifying time. It is 
 
 ## Support Us
 
-**If you’re reading this before the show,** head over to our [<i bpt>Brown Paper Tickets Event</i>][bpt-event] and make a donation. We will thank you profusely and send you a link to the stream.
-
-**If you’re watching the stream already,** you can donate directly to us directly through [<i paypal>PayPal</i>][paypal], or scan the QR code below if Venmo is your preference. All donations collected through the end of the long weekend (July 12th) will go towards compensating the highly talented performers in this very show. Donations afterwards will support future projects.
+This show had ticket sales through BrownPaperTickets prior to stream, with proceeds supporting our performers, but **you can still donate to us directly to support our work!** Head to our [<i paypal>PayPal</i>][paypal], or scan the QR code below if Venmo is your preference.
 
 <img corner md src="/assets/img/venmo-qr.png"></img>
 

@@ -20,10 +20,10 @@ Director Meryl Federman leads Worlds Elsewhere theatre company in Shakespeare's 
 
 [<i yt>Watch it on Youtube!</i>][yt-stream] \
 [<i fb>RSVP on the Facebook Event!</i>][fb] \
-[<i bpt>Support us by buying a ticket</i>][tickets]
+[<i bpt>Support us on Paypal!</i>][paypal]
 
 [yt-stream]: https://youtu.be/xBNeTVqyiiM "Watch the stream here!"
-[tickets]: <https://www.brownpapertickets.com/event/5092806> "Tickets available through Brown Paper Tickets!"
+[paypal]: <https://paypal.me/worldselsewhere> "Donate to WETC on Paypal!"
 [fb]: <https://www.facebook.com/events/351848592577663/> "Julius Caesar event on Facebook!"
 
 ---
