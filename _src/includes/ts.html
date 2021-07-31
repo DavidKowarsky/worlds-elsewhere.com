@@ -1,1 +1,19 @@
-{% assign ts = include.ts ? include.ts : now %}{% assign fmt = include.fmt %}{% assign type = include.t ? include.t : 'dt' %}<time datetime="{{ts | date_to_xmlschema}}">{% if fmt %}{{ ts | date: fmt }}{% else %}{% if type contains 'd' %}{{ ts | date: "%a, %B" }} {% assign day = ts | date: "%-d"  %}{% case day %}{% when '1' or '21' or '31' %}{{ day }}st{% when '2' or '22' %}{{ day }}nd{% when '3' or '23' %}{{ day }}rd{% else %}{{ day }}th{% endcase %}{{ ts | date: ", %Y" }}{% if type contains 't' %} at {% endif %}{% endif %}{% if type contains 't' %}{{ ts | date: "%-l:%M%P" }}{% endif %}{% if type contains 'z' %} {{ ts | date: "%Z" }}{% endif %}{% endif %}</time>
+{%- assign ts = include.ts ? include.ts : now -%}
+{%- assign fmt = include.fmt -%}
+{%- assign type = include.t ? include.t : 'dt' -%}
+<time datetime="{{ts | date_to_xmlschema}}">
+    {%- if fmt %}{{ ts | date: fmt }}{% else -%}
+        {%- if type contains 'd' %}{{ ts | date: "%a, %B" }} {% assign day = ts | date: "%-d"  -%}
+            {%- case day -%}
+                {%- when '1' or '21' or '31' %}{{ day }}st
+                {%- when '2' or '22' %}{{ day }}nd
+                {%- when '3' or '23' %}{{ day }}rd
+                {%- else %}{{ day }}th
+            {%- endcase -%}
+            {{- ts | date: ", %Y" -}}
+            {%- if type contains 't' %} at {% endif -%}
+        {%- endif -%}
+        {%- if type contains 't' %}{{ ts | date: "%-l:%M%P" }}{% endif -%}
+        {%- if type contains 'z' %} {{ ts | date: "%Z" }}{% endif -%}
+    {%- endif -%}
+</time>

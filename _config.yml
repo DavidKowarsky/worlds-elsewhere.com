@@ -39,6 +39,8 @@ commonmark:
 
 # Shared site variables which will not be overridden. Access using `site.[x]` (e.g. `site.social.fb.url`)
 
+email: worlds.elsewhere.theatre@gmail.com
+
 social:
   fb: { url: 'https://fb.me/WorldsElsewhere', icon: 'fb', title: 'WorldsElsewhere on Facebook', text: 'fb.me/WorldsElsewhere' }
   yt: { url: 'https://www.youtube.com/channel/UCdMpUSQDs-5P6cgmRSQbAUA', icon: 'yt', title: 'Worlds Elsewhere Theatre Company on Youtube', text: 'Worlds Elsewhere Theatre Company' }

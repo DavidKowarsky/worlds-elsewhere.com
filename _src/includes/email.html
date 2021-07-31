@@ -1,0 +1,19 @@
+{%- assign to = include.to | default: include.email.to | default: site.email -%}
+{%- assign subj = include.subj | default: include.subject | default: include.email.subj | default: include.email.subject | default: '' %}
+{%- assign body = include.body | default: include.email.body |  default: '' %}
+{%- assign cc = include.cc | default: include.email.cc | default: '' %}
+{%- if subj %}{% assign subj_field = subj | uri_escape | prepend: 'subject=' | append: '&' %}{% endif -%}
+{%- if body %}{% assign body_field = body | uri_escape | prepend: 'body=' | append: '&' %}{% endif -%}
+{%- if cc %}{% assign cc_field = cc | uri_escape | prepend: 'cc=' | append: '&' %}{% endif -%}
+{%- capture text -%}
+    {%- if include.text | default: email.text %}{{ include.text | default: email.text }}{% else %}`{{ to }}`{% endif -%}
+{%- endcapture %}
+{%- assign icon = include.icon | default: email.icon | default: 'email' -%}
+{%- if subj || body || cc -%}
+    {%- assign uri_details = (subj_field | append: body_field | append: cc_field | split: '&' | join: '&' | prepend: '?') -%}
+{%- endif -%}
+{%- if include.btn -%}
+    <a href="mailto:{{to}}{{uri_details}}" title="Click to email: {{to}}"><i btn {{icon}}>{{text}}</i></a>
+{%- else -%}
+    <a href="mailto:{{to}}{{uri_details}}" title="Click to email: {{to}}"><i {{icon}}>{{text}}</i></a>
+{%- endif -%}
