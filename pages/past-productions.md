@@ -2,7 +2,17 @@
 
 ## 2021 Performances
 
-## [**William Shakespeare's *Julius Caesar***][2021.03-program]
+### [2021 Summer Cabaret][2021.07-program]
+
+[![2021 Summer Cabaret Banner](/assets/img/shows/2021.07/summer-cabaret/banner.jpg)][2021.07-program] \
+[Program][2021.07-program] &bull; **[<i yt>Youtube Stream</i>][2021.07-stream]**
+
+Streamed on July 10th on YouTube, join Repertory members and newcomers as they sing, dance, monologue, and more, in a celebration of summer, renewal, and the work we still must do.
+
+[2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
+[2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
+
+### [**William Shakespeare's *Julius Caesar***][2021.03-program]
 
 [![Julius Caesar Banner](/assets/img/shows/2021.03/julius-caesar/banner.jpg)][2021.03-program] \
 **[Program][2021.03-program] &bull; [<i yt>Youtube Video-on-Demand</i>][2021.03-stream]**

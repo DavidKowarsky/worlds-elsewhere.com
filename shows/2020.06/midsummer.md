@@ -71,6 +71,23 @@ It is in service of these beliefs that we chose the community bail fund by organ
 
 In addition, bail fund donations are, in nearly all cases, very likely to be used multiple times as most defendants do show up, and the funds are thus recovered in their entirety.
 
+## Show Order
+
+- **Introduction** - Arielle Dundas
+- “Can She Excuse My Wrongs?” by John Dowland, performed by Henry Kathman
+- **Act I**
+- “The Internet Is Haunted”, written and performed by James McConnaughy
+- **Act II**
+- “Ophelia” by Sebastian Blake Stott, performed by Katherine Rose Turbes
+- **Act III**
+- “Backyard Escapades”, written and performed by Jared Gilman
+- **Intermission**
+- **Act IV**
+- “My Melancholy Baby” by Ernie Burnett, Lyrics George A. Norton, performed by Morgan Stutler
+- **Act V**
+- “Wildwood Flower (I’ll Twine Mid The Ringlets)”, an Appalachian folk song, performed by Hannah Moran
+- **Outro & Talkback** - Arielle Dundas, Kyle Kallgren, David Kowarsky, and Ilana Greenberg-Sud
+
 ## Cast and Crew
 
 **Arielle Dundas** (Master of Ceremonies, understudy: Snout; she/her) is a stunningly talented standup comedian, at least that's what she's written in this bio. She is based in  New York City and/or Amsterdam, it's a little unclear at the moment. She has performed all over the world, including two hours at the Edinburgh Fringe Festival. Philosophical, but personal. Silly, but cerebral. Provocative, but primarily hilarious. (@arielledundas on [<i twitter>twitter</i>](https://twitter.com/arielledundas)/[<i gram>instagram</i>](https://instagram.com/arielledundas))

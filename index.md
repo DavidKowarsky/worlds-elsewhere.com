@@ -1,17 +1,57 @@
+---
+highlight:
+    title: She Kills Monsters
+    banner: /assets/img/shows/2021.10/she-kills-monsters/banner.png
+    program: /shows/2021.10/she-kills-monsters
+    promo: "Directed by **Mike Fatum**, Worlds Elsewhere Theatre Company is proud to announce our Fall 2021 Charity Stream, benefitting **Trans Lifeline** and **Mermaids UK**.\n\n
+        **She Kills Monsters** is a comedic romp into the world of fantasy role-playing games. In this high-octane dramatic comedy laden with homicidal fairies, nasty ogres, and 90s pop culture, acclaimed playwright **Qui Nguyen** (\"Raya and the Last Dragon\") offers a heart-pounding homage to the geek and warrior within us all.\n\n
+        This show will be exclusively for attendees and will **not** be made available as video-on-demand after the performance dates. More details coming soon!"
+    times:
+        - { start: 2021-10-23 19:00 -05:00 }
+        - { text: "Restream", start: 2021-10-30 19:00 -5:00 }
+    links: false
+    removed:
+        -   label: paypal
+            url: https://paypal.me/worldselsewhere
+            title: "Donate to {{site.title}} on Paypal"
+            text: "Donate to support future works like this on Paypal!"
+---
 # Worlds Elsewhere Theatre Company
 
-## Upcoming Performance: [2021 Summer Cabaret][2021.07-program]
+{% if page.highlight and page.highlight.title %}
 
-[![2021 Summer Cabaret Banner](/assets/img/shows/2021.07/summer-cabaret/banner.jpg)][2021.07-program] \
-[Program][2021.07-program] &bull; **[<i yt>Youtube Stream</i>][2021.07-stream] &bull; {% include ts.html ts="2021-07-10 19:00 -05:00" t="dt" %}**
+## Upcoming Performance: <br>
 
-Streaming on July 10th at 7PM US ET on YouTube, join Repertory members and newcomers as they sing, dance, monologue, and more, in a celebration of summer, renewal, and the work we still must do.
+{%- if page.highlight.yt-id -%}
+    [<i yt>{{page.highlight.title}}</i>][highlight-yt-stream]
+{%- else %}{% if page.highlight.program -%}
+    **[{{page.highlight.title}}][highlight-program]**
+{%- else -%}
+    **{{page.highlight.title}}**
+{%- endif %}{% endif %}
 
-[<i btn paypal>Donate to support future works like this on Paypal!</i>][paypal]
+{% if page.highlight.program and page.highlight.banner %}[![{{page.highlight.title}} Banner]({{page.highlight.banner}})][highlight-program] <br>
+{%- else %}{% if page.highlight.banner %}![{{page.highlight.title}} Banner]({{page.highlight.banner}}) <br>
+{%- endif %}{% endif %}
+{% if page.highlight.program %}[Program][highlight-program]{% if page.highlight.program and page.highlight.yt-id %} &bull; {% endif %}{% endif %}{% if page.highlight.yt-id %}**[<i yt>Youtube Stream</i>][highlight-yt-stream]**{% endif %}
 
-[2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
-[2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
-[paypal]: <https://paypal.me/worldselsewhere> "Donate to WETC on Paypal!"
+{% for showtime in page.highlight.times %}
+**{{ showtime.text | default: "Date"}}:** {%include ts.html ts=showtime.start t="dt" %} (US Eastern Time) {% unless forloop.last %}<br>{% endunless -%}
+{% endfor %}
+
+{% for link in page.highlight.links %}
+[<i {{link.icon | default: link.label}}>{{link.text | default: link.url}}</i>][highlight-{{link.label}}] {% unless forloop.last %}<br>{% endunless  %}
+{% endfor %}
+
+{% if page.highlight.program %}[highlight-program]: <{{page.highlight.program}}> "View the Program here!"{% endif %}
+{% if page.highlight.yt-id %}[highlight-yt-stream]: <https://youtu.be/{{page.highlight.yt-id}}> "Watch the stream here!"{% endif %}
+{% for link in page.highlight.links %}
+[highlight-{{link.label}}]: <{{link.url}}> "{{link.title | default: link.text | default: link.url}}"
+{% endfor %}
+
+{% if page.highlight.promo %}{{page.highlight.promo}}{% endif %}
+
+{% endif %}
 
 ## Support Us
 
