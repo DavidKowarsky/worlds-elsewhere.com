@@ -4,6 +4,7 @@ title: Worlds Elsewhere Theatre Company
 description: null # hide the description at present.
 google-analytics: G-V1LGFXNY4G
 timezone: America/New_York
+baseurl: ""
 
 # Directory fuckery because I don't love the default "everything in the root" structure
 plugins_dir:  _src/plugins
@@ -15,7 +16,9 @@ sass:
 
 redirects: yes
 plugins:
+  - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-commonmark-ghpages
 
 defaults:
   - scope:
