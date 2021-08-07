@@ -8,11 +8,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :jekyll_plugins do
     gem 'jekyll-seo-tag'
-    gem 'jekyll-gist'
     gem 'jekyll-commonmark-ghpages'
     gem 'jekyll-optional-front-matter'
-    gem 'jekyll-paginate'
-    gem 'jekyll-readme-index'
     gem 'jekyll-titles-from-headings'
     gem 'jekyll-relative-links'
     gem 'jekyll-redirect-from'

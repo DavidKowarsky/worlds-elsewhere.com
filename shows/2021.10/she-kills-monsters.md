@@ -4,8 +4,9 @@ textlogo: /assets/img/shows/2021.10/she-kills-monsters/logo.png
 banner: false
 program: /shows/2021.10/she-kills-monsters
 promo: "Directed by **Mike Fatum**, Worlds Elsewhere Theatre Company is proud to announce our Fall 2021 Charity Stream, benefitting **Trans Lifeline** and **Mermaids UK**.\n\n
-        **She Kills Monsters** is a comedic romp into the world of fantasy role-playing games. In this high-octane dramatic comedy laden with homicidal fairies, nasty ogres, and 90s pop culture, acclaimed playwright **Qui Nguyen** (\"Raya and the Last Dragon\") offers a heart-pounding homage to the geek and warrior within us all.\n\n
-        This show will be exclusively for attendees and will **not** be made available as video-on-demand after the performance dates. More details coming soon!"
+    **She Kills Monsters** is a comedic romp into the world of fantasy role-playing games. In this high-octane dramatic comedy laden with homicidal fairies, nasty ogres, and 90s pop culture, acclaimed playwright **Qui Nguyen** (\"Raya and the Last Dragon\") offers a heart-pounding homage to the geek and warrior within us all.\n\n
+        More details coming soon!\n\n
+    <aside><h5><i drama>Exclusively Live</i></h5>\n\nThis show will be exclusively for attendees and will **not** be made available as video-on-demand after the performance dates.</aside>"
 times:
     - { start: 2021-10-23 19:00 -05:00 }
     - { text: "Restream", start: 2021-10-30 19:00 -5:00 }
