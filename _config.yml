@@ -2,9 +2,10 @@ title: Worlds Elsewhere Theatre Company
 #theme: jekyll-theme-tactile
 # logo: /assets/img/logo.png
 description: null # hide the description at present.
-google-analytics: G-V1LGFXNY4G
+google_analytics: G-V1LGFXNY4G
 timezone: America/New_York
 baseurl: ""
+url: "https://worlds-elsewhere.com"
 
 # Directory fuckery because I don't love the default "everything in the root" structure
 plugins_dir:  _src/plugins
@@ -13,6 +14,7 @@ data_dir:     _src/data
 includes_dir: _src/includes
 sass:
   sass_dir: _src/sass
+  sourcemaps: development
 
 redirects: yes
 plugins:

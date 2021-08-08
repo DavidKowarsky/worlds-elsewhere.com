@@ -36,7 +36,7 @@ main {
     text-align: center;
 
     img {
-        max-width: min(100%, 960px);
+        max-width: Min(100%, 60rem);
     }
 }
 
@@ -65,7 +65,7 @@ header {
     .banner {
         max-width: 100rem;
         margin: 0 auto;
-        background: url('/assets/img/banner.jpg') no-repeat 32% 48%;
+        background: url('../img/banner.jpg') no-repeat 32% 48%;
         background-size: cover;
         overflow: hidden;
         height: 18.75rem;
@@ -116,7 +116,7 @@ footer {
     margin: 1rem auto;
     padding: 1rem;
     width: 80%;
-    background:transparent url("/assets/img/hr.png") top center no-repeat;
+    background:transparent url('../img/hr.png') top center no-repeat;
     text-align: center;
 
     a > i {

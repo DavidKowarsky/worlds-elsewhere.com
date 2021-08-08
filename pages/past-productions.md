@@ -1,8 +1,10 @@
 # Past Productions
 
-## 2021 Performances
+<h2>2021 Performances</h2>
 
-### [2021 Summer Cabaret][2021.07-program]
+***
+
+## [2021 Summer Cabaret][2021.07-program]
 
 [![2021 Summer Cabaret Banner](/assets/img/shows/2021.07/summer-cabaret/banner.jpg)][2021.07-program] \
 [Program][2021.07-program] &bull; **[<i yt>Youtube Stream</i>][2021.07-stream]**
@@ -12,7 +14,9 @@ Streamed on July 10th on YouTube, join Repertory members and newcomers as they s
 [2021.07-program]: </shows/2021.07/summer-cabaret> "View the Program here!"
 [2021.07-stream]: <https://youtu.be/KZGvGEQI3yw> "Watch the stream here!"
 
-### [**William Shakespeare's *Julius Caesar***][2021.03-program]
+***
+
+## [**William Shakespeare's *Julius Caesar***][2021.03-program]
 
 [![Julius Caesar Banner](/assets/img/shows/2021.03/julius-caesar/banner.jpg)][2021.03-program] \
 **[Program][2021.03-program] &bull; [<i yt>Youtube Video-on-Demand</i>][2021.03-stream]**
@@ -26,9 +30,11 @@ Director Meryl Federman leads Worlds Elsewhere theatre company in William Shakes
 [2021.03-program]: </shows/2021.03/julius-caesar> "View the Program here!"
 [2021.03-stream]: <https://youtu.be/xBNeTVqyiiM> "Watch the stream here!"
 
-## 2020 Performances
+<h2>2020 Performances</h2>
 
-### [A Winter Cabaret][2020.12-program]
+***
+
+## [A Winter Cabaret][2020.12-program]
 
 [![A Winter Cabaret Banner](/assets/img/shows/2020.12/winter-cabaret/banner.jpg)][2020.12-program]
 
@@ -41,7 +47,7 @@ Join the talented ensemble of Worlds Elsewhere as they sing, dance, monologue an
 
 ***
 
-### [Lysistrata][2020.10-program]
+## [Lysistrata][2020.10-program]
 
 [![Lysistrata Banner](/assets/img/shows/2020.10/lysistrata/banner.png)][2020.10-program]
 
@@ -59,7 +65,7 @@ In a socially distant, modern-dress presentation of Aristophanes’ classic come
 
 ***
 
-### [A Midsummer Night's Charity Stream][2020.06-program]
+## [A Midsummer Night's Charity Stream][2020.06-program]
 
 [![A Midsummer Night's Charity Stream Banner](/assets/img/shows/2020.06/midsummer/banner.jpg)][2020.06-program]
 

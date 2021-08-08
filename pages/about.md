@@ -13,3 +13,5 @@ Worlds Elsewhere’s legal startup costs and the bulk of its second year operati
 ## Work With Us
 
 If you're interested in joining our talented staff, crew, or performer repertory, please take a look at our [open postings](./work-with-us).
+
+[<i info cta>Work With Us</i>](./work-with-us)

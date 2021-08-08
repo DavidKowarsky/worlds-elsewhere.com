@@ -3,5 +3,5 @@
   {% assign s = soc[1] %}
   <a href="{{ s.url }}" target=_blank title="{{ s.title }}"><i {{ s.icon }} icononly>{{ s.text }}</i></a>
 {% endfor %}
-  <p><small>&copy; 2021 Worlds Elsewhere Theatre Company; <a href="/attribution">Site Attributions</a></small></p>
+  <p><small>&copy; 2021 Worlds Elsewhere Theatre Company; <a href="{{'/attribution' | relative_url}}">Site Attributions</a></small></p>
 </footer>

@@ -1,0 +1,14 @@
+title: Worlds Elsewhere Theatre Company (DEVELOPMENT)
+
+profile: true
+strict_front_matter: true
+
+show_drafts: true
+future: true
+unpublished: true
+liquid:
+  error_mode: strict
+  strict_variables: false
+  strict_filters: true
+
+lang: 'en-US'

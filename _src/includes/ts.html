@@ -1,6 +1,6 @@
-{%- assign ts = include.ts ? include.ts : now -%}
+{%- assign ts = include.ts | default: page.date -%}
 {%- assign fmt = include.fmt -%}
-{%- assign type = include.t ? include.t : 'dt' -%}
+{%- assign type = include.t | default: 'dt' -%}
 <time datetime="{{ts | date_to_xmlschema}}">
     {%- if fmt %}{{ ts | date: fmt }}{% else -%}
         {%- if type contains 'd' %}{{ ts | date: "%a, %B" }} {% assign day = ts | date: "%-d"  -%}
@@ -16,4 +16,4 @@
         {%- if type contains 't' %}{{ ts | date: "%-l:%M%P" }}{% endif -%}
         {%- if type contains 'z' %} {{ ts | date: "%Z" }}{% endif -%}
     {%- endif -%}
-</time>
+</time>{{- '' -}}

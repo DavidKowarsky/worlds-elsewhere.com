@@ -1,6 +1,15 @@
-.sass-cache
-_site
+# Dependencies
 Gemfile.lock
 vendor/
+
+# Caches
+.sass-cache
+.jekyll-cache
+
+# Output directories
+_site
 test
 public
+
+# local configuration files
+*.local.yml

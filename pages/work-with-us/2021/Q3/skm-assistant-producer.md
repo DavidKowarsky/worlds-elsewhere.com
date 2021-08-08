@@ -18,7 +18,7 @@ _We are pleased to announce our 2021 Fall Charity Stream:_
 
 ## **She Kills Monsters**
 
-Directed by **Mike Fatum,** to be livestreamed on **October 23rd, 2021** and restreamed with a live talkback on **October 30th, 2021**. The performances will benefit [<i ext>Trans Lifeline</i>][TransLifeline] and [<i ext>Mermaids UK</i>][MermaidsUK] -- two charities aimed at providing trans peer support and community care.
+Directed by **Mike Fatum,** to be livestreamed on {%include ts.html ts="2021-08-23" t="d" %} and restreamed with a live talkback on {%include ts.html ts="2021-08-30" t="d" %}. The performances will benefit [<i ext>Trans Lifeline</i>][TransLifeline] and [<i ext>Mermaids UK</i>][MermaidsUK] -- two charities aimed at providing trans peer support and community care.
 
 [TransLifeline]: <https://translifeline.org/> "External Site: TransLifeline.org"
 [MermaidsUK]: <https://mermaidsuk.org.uk/> "External Site: MermaidsUK.org.uk"
