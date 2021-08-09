@@ -1,0 +1,40 @@
+{% if page.title == include.show.title -%}
+    <h1>Worlds Elsewhere Theatre Company Presents:
+    {%- if include.show.textlogo -%}<br><br>
+        <div shadow><img src="{{include.show.textlogo | relative_url}}" alt="{{include.show.title}}"/></div>
+    {%- elsif include.show.yt-id -%}
+        <br><a yt href="https://youtu.be/{{include.show.yt-id}}" title="Watch the stream here!">{{include.show.title}}</a>
+    {%- else -%}
+        <br>{{include.show.title}}
+    {%- endif -%}
+    </h1>
+{%- endif -%}
+
+{%- if page.title == include.show.title and include.show.yt-id -%}
+    <div class="video-box"><iframe type="text/html" width="896" height="504" src="https://youtube.com/embed/{{include.show.yt-id}}"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe></div> <br>
+{%- elsif page.title != include.show.title and include.show.banner -%}
+    <a alt="View the Program here!" href="{{include.show.url}}"><img src="{{include.show.banner | relative_url}}" title="{{include.show.title}}"></a>
+{%- endif -%}
+{%- if include.show.yt-id -%}
+<br><a yt href="https://youtu.be/{{include.show.yt-id}}" title="Watch the stream here!">Youtube Stream</a>
+{%- endif -%}
+{%- for showtime in include.show.times -%}
+<strong>{{ showtime.text | default: "Date"}}:</strong> {%include ts.html ts=showtime.start t="dt" %} (US Eastern Time) {% unless forloop.last %}<br>{% endunless %}
+{%- endfor %}
+
+{% for link in include.show.links -%}
+    {%- unless link.nolist -%}
+        [<i {{link.icon | default: link.label}}>{{link.text | default: link.url}}</i>][{{link.label}}] {% unless forloop.last %}<br>{% endunless -%}
+    {% endunless %}
+{%- endfor -%}
+
+[{{include.show.title | slugify}}_program]: <{{include.show.url}}> "View the Program here!"
+{% if include.show.yt-id %}[{{include.show.title | slugify}}_yt-stream]: <https://youtu.be/{{include.show.yt-id}}> "Watch the stream here!"{% endif %}
+{% for link in include.show.links %}
+[{{include.show.title | slugify}}_{{link.label}}]: <{{link.url}}> "{{link.title | default: link.text | default: link.url}}"
+{% endfor %}
+
+{% if include.show.promo %}{{include.show.promo}}
+{%- endif -%}
