@@ -18,7 +18,7 @@ _We are pleased to announce our 2021 Fall Charity Stream:_
 
 ## **She Kills Monsters**
 
-Directed by **Mike Fatum,** to be livestreamed on {%include ts.html ts="2021-08-23" t="d" %} and restreamed with a live talkback on {%include ts.html ts="2021-08-30" t="d" %}. The performances will benefit [<i ext>Trans Lifeline</i>][TransLifeline] and [<i ext>Mermaids UK</i>][MermaidsUK] -- two charities aimed at providing trans peer support and community care.
+Directed by **Mike Fatum,** to be livestreamed on {%include ts.html ts="2021-10-23" t="d" %} and restreamed with a live talkback on {%include ts.html ts="2021-10-30" t="d" %}. The performances will benefit [<i ext>Trans Lifeline</i>][TransLifeline] and [<i ext>Mermaids UK</i>][MermaidsUK] -- two charities aimed at providing trans peer support and community care.
 
 [TransLifeline]: <https://translifeline.org/> "External Site: TransLifeline.org"
 [MermaidsUK]: <https://mermaidsuk.org.uk/> "External Site: MermaidsUK.org.uk"
@@ -39,6 +39,6 @@ While this position is volunteer, we are currently pursuing our 501(c)(3) status
 
 {%include email.html email=page.email text="Email us to apply!" btn=true %}
 
-If you are interested in this position, please email us at {%include email.html email=page.email %}, with the subject "{{page.email.subject}}" Include any relevant experience and why you're interested in helping out by {%include ts.html ts="2021-08-06" fmt="August 6th" %}.
+If you are interested in this position, please email us at {%include email.html email=page.email %}, with the subject "{{page.email.subject}}" Include any relevant experience and why you're interested in helping out by {%include ts.html ts="2021-08-18" fmt="August 18th" %}.
 
 Please feel free to email us with any questions.
