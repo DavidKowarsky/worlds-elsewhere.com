@@ -8,8 +8,6 @@ Worlds Elsewhere Theatre Company is always looking for new talent and expertise 
 
 Sign up for our [<i news>Newsletter</i>][newsletter] for the earliest announcement for cast/crew calls and open audition announcements.
 
-- We're urgently hiring a [Stage Manager](./2021/Q3/skm-stage-manager) for our planned 2021 Fall performance of **She Kills Monsters**!
-
 ## Current Open Staff Positions
 
 Sign up for our [<i news>Newsletter</i>][newsletter] for the earliest announcement for open staff positions.

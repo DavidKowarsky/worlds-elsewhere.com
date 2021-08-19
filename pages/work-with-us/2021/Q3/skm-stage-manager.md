@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 email:
     subject: 'SKM Crew Application: Stage Manager'
     body: "Hello!\n\n
