@@ -21,6 +21,10 @@ q {
         &::after { content: ''; }
     }
 }
+small {
+    font-size: 0.7em;
+    line-height: 0.7em;
+}
 code, tt {
     font-family: 'Ubuntu Mono', monospace;
     font-size: 0.9em;

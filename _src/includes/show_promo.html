@@ -5,7 +5,7 @@
     {%- elsif include.show.yt-id -%}
         <br><a yt href="https://youtu.be/{{include.show.yt-id}}" title="Watch the stream here!">{{include.show.title}}</a>
     {%- else -%}
-        <br>{{include.show.title}}
+        <br><strong>{{include.show.title}}</strong>{% if include.show.subtitle %}<small>: {{include.show.subtitle}}</small>{% endif %}
     {%- endif -%}
     </h1>
 {%- endif -%}
@@ -19,6 +19,9 @@
 {%- endif -%}
 {%- if include.show.yt-id -%}
 <br><a yt href="https://youtu.be/{{include.show.yt-id}}" title="Watch the stream here!">Youtube Stream</a>
+{%- elsif include.show.textlogo -%}
+{%- elsif include.show.banner -%}
+{% if page.title == include.show.title %}<img src="{{include.show.banner | relative_url}}" title="{{include.show.title}}">{% endif %}
 {%- endif -%}
 {%- for showtime in include.show.times -%}
 <strong>{{ showtime.text | default: "Date"}}:</strong> {%include ts.html ts=showtime.start t="dt" %} (US Eastern Time) {% unless forloop.last %}<br>{% endunless %}
