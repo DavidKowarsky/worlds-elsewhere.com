@@ -4,7 +4,7 @@ Worlds Elsewhere exists due to the dedication of creative professionals, and the
 
 {%include paypal.html %}
 
-Please note: Our 501c3 status is currently pending so we cannot guarantee the tax deductibility of donations made at this time, but we can guarantee our profound appreciation for your generosity.
+Worlds Elsewhere Theatre Company Inc. is recognized as a tax-exempt organization under section 501(c)(3) of the Internal Revenue Code. Contributions to organizations with 501(c)(3) status may be tax deductible to U.S. Taxpayers. Please consult your tax advisor to determine deductibility of your contribution. If you do not receive an acknowledgement of your donation within 7 days, please contact us at worlds.elsewhere.theatre@gmail.com.
 
 ## Other Ways to Support Us
 
